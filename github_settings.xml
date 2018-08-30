@@ -1,6 +1,7 @@
 <application>
-  <component name="GithubSettings">
-    <option name="HOST" value="github.shuttercorp.net" />
-    <option name="AUTH_TYPE" value="TOKEN" />
+  <component name="GithubAccounts">
+    <account id="6d69a821-f01d-42b6-bcbf-73d059a3e3db" name="csherman">
+      <server host="github.shuttercorp.net" />
+    </account>
   </component>
 </application>
