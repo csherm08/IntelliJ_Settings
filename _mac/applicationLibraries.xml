@@ -1206,7 +1206,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/mysql2/0.4.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mysql2-0.4.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mysql2-0.4.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mysql2-0.4.6/spec" />
@@ -1214,7 +1213,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mysql2-0.4.6/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/mysql2/0.4.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mysql2-0.4.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mysql2-0.4.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/mysql2-0.4.6/spec" />
