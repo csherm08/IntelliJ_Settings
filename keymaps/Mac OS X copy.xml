@@ -20,4 +20,7 @@
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
 </keymap>
