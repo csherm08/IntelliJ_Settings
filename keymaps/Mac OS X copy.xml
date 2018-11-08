@@ -19,10 +19,6 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
-  <action id="GotoLine">
-    <keyboard-shortcut first-keystroke="meta g" />
-    <keyboard-shortcut first-keystroke="shift colon" />
-  </action>
   <action id="MinimizeCurrentWindow" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl minus" />
