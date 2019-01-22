@@ -14,7 +14,9 @@
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStart" />
+  <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorSelectWord" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -25,6 +27,14 @@
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
