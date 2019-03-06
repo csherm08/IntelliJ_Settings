@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1512406893515">
@@ -35,11 +35,11 @@
         <mark key="." line="47" column="10" />
         <mark key="^" line="47" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/shutterstock-commerce-rb/spec/models/order_spec.rb" timestamp="1551895551433">
+      <file name="$USER_HOME$/Code/shutterstock-commerce-rb/spec/models/order_spec.rb" timestamp="1551895728217">
         <mark key="[" line="496" column="93" />
-        <mark key="]" line="497" column="5" />
-        <mark key="." line="497" column="5" />
-        <mark key="^" line="497" column="5" />
+        <mark key="]" line="497" column="8" />
+        <mark key="." line="497" column="8" />
+        <mark key="^" line="497" column="8" />
       </file>
       <file name="$USER_HOME$/Code/shutterstock-commerce-rb/routes/orders.rb" timestamp="1508170983541">
         <mark key="[" line="20" column="0" />
@@ -224,7 +224,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgcHJ5Cg==</text>
       </register>
       <register name="-" type="4">
         <text>with</text>
@@ -236,31 +236,31 @@
         <text encoding="base64">ICBlYWNoKFsKCQlbe3JlZnVuZFR5cGU6ICdwYXJ0aWFsJywgcmVmdW5kQW1vdW50OiAxMCwgY3VycmVuY3lfYW1vdW50OiAyMjksIGN1cnJlbmN5OiAnVVNEJywgdXNkX2Ftb3VudDogMjI5LCBleHBlY3RlZEdhdGV3YXlJbnRlcmFjdGlvbnM6IDEsIHByb2R1Y3RfbmFtZTogJ29uX2RlbWFuZF9sYXJnZV8yNV9kb3dubG9hZC12YXItMDAwMSd9XQoJCS8vW3tyZWZ1bmRUeXBlOiAnZnVsbCcsIHJlZnVuZEFtb3VudDogbnVsbCwgY3VycmVuY3lfYW1vdW50OiAyMjksIGN1cnJlbmN5OiAnVVNEJywgdXNkX2Ftb3VudDogMjI5LCBleHBlY3RlZEdhdGV3YXlJbnRlcmFjdGlvbnM6IDEsIHByb2R1Y3RfbmFtZTogJ29uX2RlbWFuZF9sYXJnZV8yNV9kb3dubG9hZC12YXItMDAwMSd9XSwKCQkvL1t7cmVmdW5kVHlwZTogJ2NoYXJnZWJhY2snLCByZWZ1bmRBbW91bnQ6IG51bGwsIGN1cnJlbmN5X2Ftb3VudDogMjI5LCBjdXJyZW5jeTogJ1VTRCcsIHVzZF9hbW91bnQ6IDIyOSwgZXhwZWN0ZWRHYXRld2F5SW50ZXJhY3Rpb25zOiAwLCBwcm9kdWN0X25hbWU6ICdvbl9kZW1hbmRfbGFyZ2VfMjVfZG93bmxvYWQtdmFyLTAwMDEnfV0sCiAgXSkudGVzdCgnUmVmdW5kIGFuIG9yZGVyJywgYXN5bmMgKGlucHV0VmFscykgPT4gewogICAgbG9nLmluZm8ocmVzdC5DT01NRVJDRV9VUkwpCgogICAgY29uc3QgY2FyZERhdGEgPSBoZWxwZXIuZ2V0Q2FyZERhdGEoJ1VTJykKCiAgICBjb25zdCBvcmRlclJlc3AgPSBhd2FpdCByZXN0LmNyZWF0ZU9yZGVyKHRlc3RVc2VyLCBpbnB1dFZhbHMucHJvZHVjdF9uYW1lKQogICAgZXhwZWN0KG9yZGVyUmVzcC5zdGF0dXNDb2RlKS50b0JlKDIwMSkKCiAgICBjb25zdCBvcmRlcklkID0gb3JkZXJSZXNwLmJvZHkuaWQKICAgIGNvbnN0IG9yZGVyS2V5ID0gb3JkZXJSZXNwLmJvZHkua2V5CiAgICBsb2cuaW5mbygnT3JkZXIgSUQ6ICcgKyBvcmRlclJlc3AuYm9keS5pZCkKCiAgICBjb25zdCBwYXltZW50UmVzcCA9IGF3YWl0IHJlc3QuY3JlYXRlUGF5bWVudChvcmRlcktleSwgaW5wdXRWYWxzLmN1cnJlbmN5LCBpbnB1dFZhbHMuY3VycmVuY3lfYW1vdW50LCBhY2Nlc3NUb2tlbiwgY2FyZERhdGEpCiAgICBjb25zdCBwYXltZW50SWQgPSBwYXltZW50UmVzcC5ib2R5LmlkCiAgICBjb25zb2xlLmxvZyhwYXltZW50UmVzcC5ib2R5KQogICAgZXhwZWN0KHBheW1lbnRSZXNwLnN0YXR1c0NvZGUpLnRvQmUoMjAwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgcHJ5Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgcHJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJ5Cg==</text>
+        <text encoding="base64">ICAgIGl0ICdzaG91bGQgY3JlYXRlIGFuIG9yZGVyX2xvY2tzIHJvdyB3aXRoIHRoZSBkZWZhdWx0IG9wdGlvbnMgYW5kIGNsZWFuIHVwIGFmdGVyd2FyZHMnIGRvCiAgICAgIHByeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICAgICAgcHJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgICAgcHJ5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGV0IHJlcXVlc3QgPSByZXF1aXJlKCdzdXBlcnRlc3QnKQo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSAnODAwMDo4MDAwJ2RkZGQK</text>
+        <text encoding="base64">ICAgICAgcHJ5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RVhQT1NFIDgwMDAK</text>
+        <text encoding="base64">ICAgICAgcHJ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -318,6 +318,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
