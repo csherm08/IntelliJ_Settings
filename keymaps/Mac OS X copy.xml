@@ -17,6 +17,9 @@
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStart" />
   <action id="EditorCodeBlockStartWithSelection" />
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
