@@ -35,7 +35,7 @@
         <root url="file:///usr/lib/ruby/2.5.0/json/add" />
       </excluded>
     </library>
-    <library name="openssl (v2.1.0, ruby-2.5.1-p57) [gem]" type="rubylib">
+    <library name="openssl (v2.1.1, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
