@@ -7,6 +7,10 @@
   <action id="Graph.ZoomOut">
     <keyboard-shortcut first-keystroke="subtract" />
   </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="minus" />
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="back_slash" />
   </action>
