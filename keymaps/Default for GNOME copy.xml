@@ -1,9 +1,15 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoProject" />
+  <action id="GotoBookmark2" />
   <action id="Graph.ZoomOut">
     <keyboard-shortcut first-keystroke="subtract" />
   </action>
