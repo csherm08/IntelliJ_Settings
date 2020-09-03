@@ -1,14 +1,21 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
-  <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
+  <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
   <action id="Graph.ZoomOut">
     <keyboard-shortcut first-keystroke="subtract" />
