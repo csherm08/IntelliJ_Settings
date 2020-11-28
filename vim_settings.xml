@@ -207,11 +207,11 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/payment.js" timestamp="1606530516556">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="12" />
-        <mark key="^" line="3" column="13" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/payment.js" timestamp="1606533586301">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="14" />
+        <mark key="." line="19" column="13" />
+        <mark key="^" line="19" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -297,7 +297,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwYXltZW50U2VydmljZTogewogICAgdXJsOiAiaHR0cHM6Ly91cy1jZW50cmFsMS1wYXltZW50cmVwby5jbG91ZGZ1bmN0aW9ucy5uZXQvd2lkZ2V0cy9hcGkiCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>PAYMENT_SERVICE_URL</text>
@@ -309,31 +309,31 @@
         <text encoding="base64">ICBsZXQgbm9uY2UgPSAiIjsKICBsZXQgdmFsdWUgPSAiIjsKICBjb25zdCBkYXRhID0gewogICAgcGF5bWVudF9tZXRob2Rfbm9uY2U6IG5vbmNlLAogICAgYW1vdW50OiB2YWx1ZSwKICAgIG9wdGlvbnM6IHsKICAgICAgc3VibWl0Rm9yU2V0dGxlbWVudDogdHJ1ZQogICAgfQogIH07CiAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwYXltZW50U2VydmljZTogewogICAgdXJsOiAiaHR0cHM6Ly91cy1jZW50cmFsMS1wYXltZW50cmVwby5jbG91ZGZ1bmN0aW9ucy5uZXQvd2lkZ2V0cy9hcGkiCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgbm9uY2UgPSAiIjsKICBsZXQgdmFsdWUgPSAiIjsKICBjb25zdCBkYXRhID0gewogICAgcGF5bWVudF9tZXRob2Rfbm9uY2U6IG5vbmNlLAogICAgYW1vdW50OiB2YWx1ZSwKICAgIG9wdGlvbnM6IHsKICAgICAgc3VibWl0Rm9yU2V0dGxlbWVudDogdHJ1ZQogICAgfQogIH07Cgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZXQgbm9uY2UgPSAiIjsKICBsZXQgdmFsdWUgPSAiIjsK</text>
+        <text encoding="base64">ICBwYXltZW50U2VydmljZTogewogICAgdXJsOiAiaHR0cHM6Ly91cy1jZW50cmFsMS1wYXltZW50cmVwby5jbG91ZGZ1bmN0aW9ucy5uZXQvd2lkZ2V0cy9hcGkiCiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBsZXQgbm9uY2UgPSAiIjsKICBsZXQgdmFsdWUgPSAiIjsKICBjb25zdCBkYXRhID0gewogICAgcGF5bWVudF9tZXRob2Rfbm9uY2U6IG5vbmNlLAogICAgYW1vdW50OiB2YWx1ZSwKICAgIG9wdGlvbnM6IHsKICAgICAgc3VibWl0Rm9yU2V0dGxlbWVudDogdHJ1ZQogICAgfQogIH07Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBsZXQgbm9uY2UgPSAiIjsKICBsZXQgdmFsdWUgPSAiIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQgbm9uY2UgPSAiIjsKICBsZXQgdmFsdWUgPSAiIjsKICBjb25zdCBkYXRhID0gewogICAgcGF5bWVudF9tZXRob2Rfbm9uY2U6IG5vbmNlLAogICAgYW1vdW50OiB2YWx1ZSwKICAgIG9wdGlvbnM6IHsKICAgICAgc3VibWl0Rm9yU2V0dGxlbWVudDogdHJ1ZQogICAgfQogIH07CiAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgb3B0aW9ucyA9IHsKICBob3N0bmFtZTogcHJvY2Vzcy5lbnYuUEFZTUVOVF9TRVJWSUNFX1VSTAp9Owo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgb3B0cyA9IHsKICAgIHBhdGg6ICcvYnJhaW50cmVlL3Rva2VuJywKICAgIC4uLm9wdGlvbnMKICB9Owo=</text>
+        <text encoding="base64">ICBsZXQgbm9uY2UgPSAiIjsKICBsZXQgdmFsdWUgPSAiIjsKICBjb25zdCBkYXRhID0gewogICAgcGF5bWVudF9tZXRob2Rfbm9uY2U6IG5vbmNlLAogICAgYW1vdW50OiB2YWx1ZSwKICAgIG9wdGlvbnM6IHsKICAgICAgc3VibWl0Rm9yU2V0dGxlbWVudDogdHJ1ZQogICAgfQogIH07CiAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgaHR0cHMgPSByZXF1aXJlKCJodHRwcyIpOwo=</text>
+        <text encoding="base64">Y29uc3Qgb3B0aW9ucyA9IHsKICBob3N0bmFtZTogcHJvY2Vzcy5lbnYuUEFZTUVOVF9TRVJWSUNFX1VSTAp9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
