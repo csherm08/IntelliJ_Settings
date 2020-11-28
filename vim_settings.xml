@@ -122,11 +122,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/test/acceptance/images.spec.js" timestamp="1606283172132">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="4" />
-        <mark key="." line="7" column="4" />
-      </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/config/default.js" timestamp="1606530529665">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="14" column="3" />
@@ -184,7 +179,7 @@
         <mark key="." line="68" column="67" />
         <mark key="^" line="68" column="67" />
       </file>
-      <file name="/JavaScript Console" timestamp="1606598397604">
+      <file name="/JavaScript Console" timestamp="1606598579428">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/package.json" timestamp="1606284719434">
@@ -203,7 +198,7 @@
       <file name="$USER_HOME$/Code/tempSaS/api/app/Http/routes.php" timestamp="1606500974678">
         <mark key="'" line="107" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/images.js" timestamp="1606502502474">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/images.js" timestamp="1606598823199">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="17" column="16" />
         <mark key="]" line="17" column="31" />
@@ -216,6 +211,7 @@
         <mark key="." line="19" column="13" />
         <mark key="^" line="19" column="14" />
       </file>
+      <file name="$USER_HOME$/Code/Selectasign/temp/braintree_express_example/lib/gateway.js" timestamp="1606598534886" />
     </filemarks>
     <jumps>
       <jump line="0" column="42" filename="$USER_HOME$/Code/Selectasign/api/src/app.js" />
