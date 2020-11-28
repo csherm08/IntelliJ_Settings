@@ -139,6 +139,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/Selectasign/temp/braintree_express_example/public/javascript/demo.js" timestamp="1606598477988">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/.env" timestamp="1606597505479">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="84" />
@@ -181,7 +184,7 @@
         <mark key="." line="68" column="67" />
         <mark key="^" line="68" column="67" />
       </file>
-      <file name="/JavaScript Console" timestamp="1606533627889">
+      <file name="/JavaScript Console" timestamp="1606598397604">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/package.json" timestamp="1606284719434">
@@ -292,6 +295,7 @@
       <jump line="39" column="13" filename="$USER_HOME$/Code/Selectasign/new_api/src/controllers/user.js" />
       <jump line="5" column="36" filename="$USER_HOME$/Code/Selectasign/new_api/src/services/payment.js" />
       <jump line="10" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/src/services/payment.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/Selectasign/temp/braintree_express_example/public/javascript/demo.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
