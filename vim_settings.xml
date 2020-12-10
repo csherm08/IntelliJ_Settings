@@ -135,11 +135,11 @@
         <mark key="." line="14" column="2" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/Dockerfile" timestamp="1607563302705">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="44" />
-        <mark key="^" line="12" column="44" />
-        <mark key="." line="12" column="43" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/Dockerfile" timestamp="1607564650971">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="5" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="12" column="5" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/temp/braintree_express_example/public/javascript/demo.js" timestamp="1606598477988">
         <mark key="'" line="0" column="0" />
@@ -301,11 +301,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgcGF5bWVudCA9IHJlcXVpcmUoImJyYWludHJlZSIpOwpjb25zdCBib29tID0gcmVxdWlyZSgnQGhhcGkvYm9vbScpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>throw</text>
