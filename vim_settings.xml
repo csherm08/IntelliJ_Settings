@@ -104,61 +104,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/knexfile.js" timestamp="1607581797061">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="34" />
-        <mark key="." line="6" column="33" />
-        <mark key="^" line="6" column="34" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/Dockerfile" timestamp="1607581365196">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="7" column="32" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/temp/braintree_express_example/public/javascript/demo.js" timestamp="1606598477988">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/docker-compose.yml" timestamp="1607581623977">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="101" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/braintree.js" timestamp="1606504142603">
-        <mark key="[" line="12" column="57" />
-        <mark key="]" line="12" column="38" />
-        <mark key="^" line="12" column="38" />
-        <mark key="." line="12" column="37" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1606601822537">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/package.json" timestamp="1607580399840">
-        <mark key="'" line="66" column="3" />
-        <mark key="[" line="15" column="44" />
-        <mark key="]" line="16" column="49" />
-        <mark key="^" line="16" column="49" />
-        <mark key="." line="16" column="48" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/images.js" timestamp="1606598823199">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="31" />
-        <mark key="^" line="17" column="31" />
-        <mark key="." line="17" column="31" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/payment.js" timestamp="1607391806302">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/user.js" timestamp="1606599039960">
         <mark key="'" line="39" column="13" />
         <mark key="[" line="39" column="55" />
         <mark key="]" line="39" column="56" />
         <mark key="." line="39" column="55" />
         <mark key="^" line="39" column="56" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/knexfile.js" timestamp="1607581797061">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="6" column="34" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1607575605963">
         <mark key="'" line="28" column="29" />
@@ -184,7 +141,21 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20191006_initial_schema.js" timestamp="1607580177854" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/Dockerfile" timestamp="1607581365196">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="7" column="32" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/temp/braintree_express_example/public/javascript/demo.js" timestamp="1606598477988">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/docker-compose.yml" timestamp="1608837441671">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="101" />
+      </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/.env" timestamp="1607581736794">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="12" column="15" />
@@ -197,14 +168,48 @@
         <mark key="." line="13" column="1" />
         <mark key="^" line="13" column="2" />
       </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/braintree.js" timestamp="1606504142603">
+        <mark key="[" line="12" column="57" />
+        <mark key="]" line="12" column="38" />
+        <mark key="^" line="12" column="38" />
+        <mark key="." line="12" column="37" />
+      </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/User.js" timestamp="1606502411083">
         <mark key="[" line="68" column="59" />
         <mark key="]" line="68" column="67" />
         <mark key="." line="68" column="67" />
         <mark key="^" line="68" column="67" />
       </file>
+      <file name="/JavaScript Console" timestamp="1606601822537">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/package.json" timestamp="1607580399840">
+        <mark key="'" line="66" column="3" />
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="16" column="49" />
+        <mark key="^" line="16" column="49" />
+        <mark key="." line="16" column="48" />
+      </file>
       <file name="$USER_HOME$/Code/tempSaS/api/app/Http/routes.php" timestamp="1606500974678">
         <mark key="'" line="107" column="33" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/Makefile" timestamp="1608838223409">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="6" />
+        <mark key="^" line="10" column="6" />
+        <mark key="." line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/images.js" timestamp="1606598823199">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="31" />
+        <mark key="^" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/payment.js" timestamp="1607391806302">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -292,16 +297,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAgICBjb21tYW5kOiBiYXNoIC1jICd3aGlsZSAhPC9kZXYvdGNwL2RiLzMzMDY7IGRvIHNsZWVwIDE7IGRvbmU7IG5wbSBydW4gZGI6dXBkYXRlOyBucG0gc3RhcnQnCg==</text>
+        <text encoding="base64">CSR7RE9DS0VSX0NPTVBPU0VfUlVOKSAkKENPTlRBSU5FUikK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>MYSQL_USER</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIG15bmV0MTIzCg==</text>
+        <text encoding="base64">CSR7RE9DS0VSX0NPTVBPU0VfUlVOKSAkKENPTlRBSU5FUikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyAgICBjb21tYW5kOiBiYXNoIC1jICd3aGlsZSAhPC9kZXYvdGNwL2RiLzMzMDY7IGRvIHNsZWVwIDE7IGRvbmU7IG5wbSBydW4gZGI6dXBkYXRlOyBucG0gc3RhcnQnCg==</text>
