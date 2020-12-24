@@ -34,12 +34,12 @@
         <entry>:w</entry>
         <entry>q</entry>
         <entry>Q</entry>
-        <entry>1</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>Q!</entry>
         <entry>W</entry>
         <entry>q!</entry>
         <entry>wq</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -124,7 +124,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="15" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/payment.js" timestamp="1606601690689">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/payment.js" timestamp="1608839141341">
         <mark key="[" line="21" column="40" />
         <mark key="]" line="21" column="40" />
         <mark key="." line="21" column="39" />
@@ -136,6 +136,7 @@
         <mark key="." line="14" column="2" />
         <mark key="^" line="14" column="3" />
       </file>
+      <file name="$USER_HOME$/Code/paymentRepo/functions/src/controllers/braintree.js" timestamp="1608839455848" />
       <file name="$USER_HOME$/Code/Selectasign/new_api/config/passport.js" timestamp="1607567354285">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -150,17 +151,23 @@
       <file name="$USER_HOME$/Code/Selectasign/temp/braintree_express_example/public/javascript/demo.js" timestamp="1606598477988">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/docker-compose.yml" timestamp="1608837441671">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/docker-compose.yml" timestamp="1608839001087">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="101" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/.env" timestamp="1607581736794">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="12" column="15" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="12" column="15" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/test/integration/payment.spec.js" timestamp="1608839849053">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/.env" timestamp="1608839395874">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/braintree.js" timestamp="1606530463529">
         <mark key="[" line="12" column="47" />
@@ -174,12 +181,6 @@
         <mark key="^" line="12" column="38" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/User.js" timestamp="1606502411083">
-        <mark key="[" line="68" column="59" />
-        <mark key="]" line="68" column="67" />
-        <mark key="." line="68" column="67" />
-        <mark key="^" line="68" column="67" />
-      </file>
       <file name="/JavaScript Console" timestamp="1606601822537">
         <mark key="[" line="0" column="0" />
       </file>
@@ -190,14 +191,11 @@
         <mark key="^" line="16" column="49" />
         <mark key="." line="16" column="48" />
       </file>
-      <file name="$USER_HOME$/Code/tempSaS/api/app/Http/routes.php" timestamp="1606500974678">
-        <mark key="'" line="107" column="33" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/Makefile" timestamp="1608838223409">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="6" />
-        <mark key="^" line="10" column="6" />
-        <mark key="." line="10" column="5" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/Makefile" timestamp="1608838868186">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/images.js" timestamp="1606598823199">
         <mark key="'" line="0" column="0" />
@@ -206,7 +204,7 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/payment.js" timestamp="1607391806302">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/payment.js" timestamp="1608839240049">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -292,48 +290,50 @@
       <jump line="10" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/src/services/payment.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/Selectasign/temp/braintree_express_example/public/javascript/demo.js" />
       <jump line="28" column="29" filename="$USER_HOME$/Code/Selectasign/new_api/src/app.js" />
+      <jump line="2" column="53" filename="$USER_HOME$/Code/Selectasign/new_api/test/integration/payment.spec.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/test/integration/payment.spec.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSR7RE9DS0VSX0NPTVBPU0VfUlVOKSAkKENPTlRBSU5FUikK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>podawst</text>
       </register>
       <register name="/" type="4">
         <text>MYSQL_USER</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSR7RE9DS0VSX0NPTVBPU0VfUlVOKSAkKENPTlRBSU5FUikK</text>
+        <text encoding="base64">ICAgbm9jayhgJHtwcm9jZXNzLmVudi5QQVlNRU5UX1NFUlZJQ0VfVVJMfWApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICBjb21tYW5kOiBiYXNoIC1jICd3aGlsZSAhPC9kZXYvdGNwL2RiLzMzMDY7IGRvIHNsZWVwIDE7IGRvbmU7IG5wbSBydW4gZGI6dXBkYXRlOyBucG0gc3RhcnQnCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICBjb21tYW5kOiBbIi4vd2FpdC1mb3ItaXQuc2giLCAiZGI6MzMwNiIsICItLSIsICJucG0iLCAicnVuIiwgImRiOnVwZGF0ZSIsICJucG0iLCAicnVuIiwgIm5wbSBzdGFydCJdCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I1JVTiBhcHQtZ2V0IHVwZGF0ZSAmJiBhcHQtZ2V0IGJhc2gK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q01ECg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIGFwayB1cGRhdGUgJiYgYXBrIGFkZCBiYXNoCg==</text>
+        <text encoding="base64">ICAgbm9jayhgJHtwcm9jZXNzLmVudi5QQVlNRU5UX1NFUlZJQ0VfVVJMfWApCiAgICAuZ2V0KCcvYnJhaW50cmVlL3Rva2VuJykKICAgIC5yZXBseSgyMDApOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIGFwayB1cGRhdGUgJiYgYXBrIGFkZCBiYXNoCg==</text>
+        <text encoding="base64">IGl0KCJzaG91bGQgc3VjY2Vzc2Z1bGx5IHJlY29yZCBhIHBheW1lbnQiLCBhc3luYyAoKSA9PiB7CiAgIG5vY2soYCR7cHJvY2Vzcy5lbnYuUEFZTUVOVF9TRVJWSUNFX1VSTH1gKQogICAgLmdldCgnL2JyYWludHJlZS90b2tlbicpCiAgICAucmVwbHkoMjAwKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmV0d29ya3M6CiAgbXluZXQxMjM6CiAgICBkcml2ZXI6IGJyaWRnZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IGNvbnN0IHNjb3BlID0gbm9jayhgJHtwcm9jZXNzLmVudi5QQVlNRU5UX1NFUlZJQ0VfVVJMfWApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
