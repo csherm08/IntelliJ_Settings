@@ -122,7 +122,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="101" />
       </file>
-      <file name="/JavaScript Console" timestamp="1608842885853">
+      <file name="/JavaScript Console" timestamp="1608843090772">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/package.json" timestamp="1608841526609">
@@ -167,11 +167,11 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="15" column="56" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/payment.js" timestamp="1608839141341">
-        <mark key="[" line="21" column="40" />
-        <mark key="]" line="21" column="40" />
-        <mark key="." line="21" column="39" />
-        <mark key="^" line="21" column="40" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/payment.js" timestamp="1608843077258">
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="28" column="27" />
+        <mark key="." line="28" column="26" />
+        <mark key="^" line="28" column="27" />
       </file>
       <file name="$USER_HOME$/Code/paymentRepo/functions/src/controllers/braintree.js" timestamp="1608839455848" />
       <file name="$USER_HOME$/Code/Selectasign/new_api/config/passport.js" timestamp="1607567354285">
@@ -185,12 +185,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/test/integration/payment.spec.js" timestamp="1608842926759">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/test/integration/payment.spec.js" timestamp="1608842993284">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="19" column="55" />
-        <mark key="]" line="19" column="69" />
-        <mark key="." line="19" column="68" />
-        <mark key="^" line="19" column="69" />
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="49" />
+        <mark key="." line="19" column="48" />
+        <mark key="^" line="19" column="49" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/.env" timestamp="1608839395874">
         <mark key="[" line="10" column="47" />
@@ -298,10 +298,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>receivePayment</text>
+        <text>unprocessableEntity</text>
       </register>
       <register name="-" type="4">
-        <text>receivePayment</text>
+        <text>unprocessableEntity</text>
       </register>
       <register name="/" type="4">
         <text>MYSQL_USER</text>
