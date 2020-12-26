@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>checkout</entry>
         <entry encoding="base64">PA==</entry>
         <entry>body</entry>
         <entry>\</entry>
@@ -27,6 +26,7 @@
         <entry>MYSQL_USER</entry>
         <entry>signup</entry>
         <entry>Bearer</entry>
+        <entry>before</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
@@ -121,7 +121,7 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1609012983283">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1609016590641">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -147,12 +147,11 @@
         <mark key="^" line="65" column="10" />
         <mark key="." line="65" column="9" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20191006_initial_schema.js" timestamp="1609007916682" />
-      <file name="$USER_HOME$/Code/Selectasign/new_api/test/unit/user.spec.js" timestamp="1609014249110">
-        <mark key="[" line="53" column="5" />
-        <mark key="]" line="55" column="22" />
-        <mark key="." line="55" column="21" />
-        <mark key="^" line="55" column="22" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20191006_initial_schema.js" timestamp="1609016933275" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/test/unit/user.spec.js" timestamp="1609016240929">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/docker-compose.yml" timestamp="1608841572960">
         <mark key="[" line="31" column="0" />
@@ -172,33 +171,34 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/.env" timestamp="1608839395874">
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/test/setup.js" timestamp="1608842163587">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/server.js" timestamp="1609016284343" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/test/setup.js" timestamp="1609016278350">
         <mark key="[" line="6" column="55" />
         <mark key="]" line="6" column="65" />
         <mark key="." line="6" column="64" />
         <mark key="^" line="6" column="65" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/User.js" timestamp="1609009541743">
-        <mark key="[" line="64" column="30" />
-        <mark key="]" line="64" column="39" />
-        <mark key="." line="64" column="38" />
-        <mark key="^" line="64" column="39" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/User.js" timestamp="1609016618711">
+        <mark key="'" line="14" column="2" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="60" column="60" />
       </file>
-      <file name="/JavaScript Console" timestamp="1609014081652">
+      <file name="/JavaScript Console" timestamp="1609016215119">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/package.json" timestamp="1608841526609">
-        <mark key="'" line="66" column="3" />
-        <mark key="[" line="15" column="44" />
-        <mark key="]" line="16" column="49" />
-        <mark key="^" line="16" column="49" />
-        <mark key="." line="16" column="48" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/package.json" timestamp="1609015743728">
+        <mark key="'" line="63" column="3" />
+        <mark key="[" line="29" column="38" />
+        <mark key="]" line="29" column="38" />
+        <mark key="." line="29" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/Makefile" timestamp="1609016891538">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="14" column="21" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Image.js" timestamp="1608842314286">
         <mark key="[" line="4" column="45" />
@@ -296,48 +296,49 @@
       <jump line="6" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/test/integration/payment.spec.js" />
       <jump line="24" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/src/app.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/test/integration/user.spec.js" />
+      <jump line="14" column="2" filename="$USER_HOME$/Code/Selectasign/new_api/src/models/User.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuZXhwZWN0KChyZXMpID0+IHsKICAgICAgICAgIGV4cGVjdChyZXMuYm9keS5lbWFpbCkudG8uZXF1YWwoc2V0dXAudXNlci5lbWFpbCk7CiAgICAgICAgfSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>200 if the user has a proper token&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Bearer</text>
+        <text>before</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgaXQoInNob3VsZCByZXR1cm4gYSAyMDAgaWYgdGhlIHVzZXIgaGFzIGEgcHJvcGVyIHRva2VuIiwgYXN5bmMgKCkgPT4gewogICAgIGF3YWl0IFVzZXIuc2lnbnVwKHNldHVwLnVzZXIpOwogICAgIGNvbnN0IHRva2VuID0gYXdhaXQgdXNlckNvbnRyb2xsZXIuZ2VuZXJhdGVUb2tlbihzZXR1cC51c2VyLmVtYWlsKTsKICAgICByZXR1cm4gc3VwZXJ0ZXN0KGdsb2JhbC5zZXJ2ZXIpCiAgICAgICAuZ2V0KCcvYXBpL3VzZXJzL21lJykKICAgICAgIC5zZXQoJ0F1dGhvcml6YXRpb24nLCBgQmVhcmVyICR7dG9rZW59YCkKICAgICAgIC5leHBlY3QoKHJlcykgPT4gewogICAgICAgICBleHBlY3QocmVzLmJvZHkuZW1haWwpLnRvLmVxdWFsKHNldHVwLnVzZXIuZW1haWwpOwogICAgICAgfSkKICAgICAgIC5leHBlY3QoMjAwKTsKICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMudXBkYXRlZF9hdCA9IFNUUl9UT19EQVRFKG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuZXhwZWN0KChyZXMpID0+IHsKICAgICAgICAgIGV4cGVjdChyZXMuYm9keS5lbWFpbCkudG8uZXF1YWwoc2V0dXAudXNlci5lbWFpbCk7CiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIHRoaXMudXBkYXRlZF9hdCA9IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdG9rZW4gPSBhd2FpdCB1c2VyQ29udHJvbGxlci5nZW5lcmF0ZVRva2VuKHNldHVwLnVzZXIuZW1haWwpOwo=</text>
+        <text encoding="base64">ICBpdCgidGVzdCIsIGFzeW5jICgpID0+IHsKICAgIGNvbnNvbGUubG9nKCJISSIpOwogIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0KCdBdXRob3JpemF0aW9uJywgYEJlYXJlciAke3Rva2VufWApCg==</text>
+        <text encoding="base64">ICAgICJkYjpyZXNldCI6ICJkYi1taWdyYXRlIHJlc2V0IC0tbWlncmF0aW9ucy1kaXIgZGF0YWJhc2UvbWlncmF0aW9ucyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICJkYjp1cCI6ICJkYi1taWdyYXRlIHVwIC0tbWlncmF0aW9ucy1kaXIgZGF0YWJhc2UvbWlncmF0aW9ucyIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJkYjpkb3duIjogImtuZXggIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgbGV0IHggPSAneSc7Cg==</text>
+        <text encoding="base64">ICAgICJkYjp1cCI6ICJrbmV4IHVwIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICBnZW5lcmF0ZVRva2VuCg==</text>
+        <text encoding="base64">ICAgICAgICAuZXhwZWN0KChyZXMpID0+IHsKICAgICAgICAgIGV4cGVjdChyZXMuYm9keS5lbWFpbCkudG8uZXF1YWwoc2V0dXAudXNlci5lbWFpbCk7CiAgICAgICAgfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdG9rZW4gPSBhd2FpdCB1c2VyQ29udHJvbGxlci5nZW5lcmF0ZVRva2VuKHNldHVwLnVzZXIuZW1haWwpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAuc2V0KCdBdXRob3JpemF0aW9uJywgYEJlYXJlciAke3Rva2VufWApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -346,9 +347,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Bearer</last-search>
+      <last-search>before</last-search>
       <last-offset />
-      <last-pattern>Bearer</last-pattern>
+      <last-pattern>before</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
