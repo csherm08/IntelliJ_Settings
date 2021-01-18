@@ -40,6 +40,7 @@
         <entry>q!</entry>
         <entry>wq</entry>
         <entry>1</entry>
+        <entry>60</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -104,88 +105,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/test/acceptance/user.spec.js" timestamp="1609012412488">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="39" />
+      <file name="/fragment.js" timestamp="1611003185681">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/user.js" timestamp="1609013711952">
-        <mark key="'" line="43" column="13" />
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="18" column="21" />
-        <mark key="." line="18" column="20" />
-        <mark key="^" line="18" column="21" />
+      <file name="/a.dummy" timestamp="1611002241853">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/knexfile.js" timestamp="1608842394317">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Roles.js" timestamp="1611003924988">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="8" column="2" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1609016590641">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="15" column="56" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Promo.js" timestamp="1611003934761">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/payment.js" timestamp="1609012254384">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="21" column="68" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/test/integration/user.spec.js" timestamp="1609014085042">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="94" column="49" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/config/passport.js" timestamp="1609012933364">
-        <mark key="[" line="65" column="12" />
-        <mark key="]" line="65" column="10" />
-        <mark key="^" line="65" column="10" />
-        <mark key="." line="65" column="9" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20191006_initial_schema.js" timestamp="1609016933275" />
-      <file name="$USER_HOME$/Code/Selectasign/new_api/test/unit/user.spec.js" timestamp="1609016240929">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/docker-compose.yml" timestamp="1608841572960">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="101" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/middleware/permission.js" timestamp="1608860020058">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/test/integration/payment.spec.js" timestamp="1609013838282">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="61" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/server.js" timestamp="1609016284343" />
-      <file name="$USER_HOME$/Code/Selectasign/new_api/test/setup.js" timestamp="1609016278350">
-        <mark key="[" line="6" column="55" />
-        <mark key="]" line="6" column="65" />
-        <mark key="." line="6" column="64" />
-        <mark key="^" line="6" column="65" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/User.js" timestamp="1609018188577">
-        <mark key="'" line="14" column="2" />
-        <mark key="[" line="65" column="27" />
-        <mark key="]" line="65" column="38" />
-        <mark key="." line="65" column="37" />
-        <mark key="^" line="65" column="38" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1609017596108">
+      <file name="/JavaScript Console" timestamp="1611003959001">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/package.json" timestamp="1609015743728">
@@ -200,16 +138,76 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Image.js" timestamp="1608842314286">
-        <mark key="[" line="4" column="45" />
-        <mark key="]" line="5" column="35" />
-        <mark key="^" line="5" column="35" />
-        <mark key="." line="5" column="34" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Image.js" timestamp="1611003945432">
+        <mark key="[" line="23" column="3" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/payment.js" timestamp="1609013684956">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Advertisement.js" timestamp="1611003952393">
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/user.js" timestamp="1609013711952">
+        <mark key="'" line="43" column="13" />
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1609016590641">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="15" column="56" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/test/integration/user.spec.js" timestamp="1609014085042">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="94" column="49" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Request.js" timestamp="1611003930397">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20191006_initial_schema.js" timestamp="1611003140503" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Timeslot.js" timestamp="1611003912913">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/test/unit/user.spec.js" timestamp="1609016240929">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/test/integration/payment.spec.js" timestamp="1609013838282">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="61" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/test/setup.js" timestamp="1609016278350">
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="6" column="65" />
+        <mark key="." line="6" column="64" />
+        <mark key="^" line="6" column="65" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/User.js" timestamp="1611003908206">
+        <mark key="'" line="14" column="2" />
+        <mark key="[" line="67" column="21" />
+        <mark key="]" line="67" column="50" />
+        <mark key="." line="67" column="49" />
+        <mark key="^" line="67" column="50" />
       </file>
     </filemarks>
     <jumps>
@@ -302,43 +300,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>now</text>
+        <text encoding="base64">IERhdGUudG9JU09TdHJpbmcoKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>now</text>
+        <text encoding="base64">IERhdGUudG9JU09TdHJpbmcoKQ==</text>
       </register>
       <register name="/" type="4">
         <text>before</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXBkYXRlZF9hdCA9IFNUUl9UT19EQVRFKG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCBub3cgPSBuZXcgRGF0ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLwo=</text>
+        <text encoding="base64">ICAgIG5ldyBEYXRlLnRvVVRDU3RyaW5nKCk7aAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXBkYXRlZF9hdCA9IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpdCgidGVzdCIsIGFzeW5jICgpID0+IHsKICAgIGNvbnNvbGUubG9nKCJISSIpOwogIH0pCg==</text>
+        <text encoding="base64">ICAgIHRoaXMudXBkYXRlZF9hdCA9IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJkYjpyZXNldCI6ICJkYi1taWdyYXRlIHJlc2V0IC0tbWlncmF0aW9ucy1kaXIgZGF0YWJhc2UvbWlncmF0aW9ucyIK</text>
+        <text encoding="base64">ICBpdCgidGVzdCIsIGFzeW5jICgpID0+IHsKICAgIGNvbnNvbGUubG9nKCJISSIpOwogIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJkYjp1cCI6ICJkYi1taWdyYXRlIHVwIC0tbWlncmF0aW9ucy1kaXIgZGF0YWJhc2UvbWlncmF0aW9ucyIsCg==</text>
+        <text encoding="base64">ICAgICJkYjpyZXNldCI6ICJkYi1taWdyYXRlIHJlc2V0IC0tbWlncmF0aW9ucy1kaXIgZGF0YWJhc2UvbWlncmF0aW9ucyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJkYjpkb3duIjogImtuZXggIiwK</text>
+        <text encoding="base64">ICAgICJkYjp1cCI6ICJkYi1taWdyYXRlIHVwIC0tbWlncmF0aW9ucy1kaXIgZGF0YWJhc2UvbWlncmF0aW9ucyIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJkYjp1cCI6ICJrbmV4IHVwIjsK</text>
+        <text encoding="base64">ICAgICJkYjpkb3duIjogImtuZXggIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuZXhwZWN0KChyZXMpID0+IHsKICAgICAgICAgIGV4cGVjdChyZXMuYm9keS5lbWFpbCkudG8uZXF1YWwoc2V0dXAudXNlci5lbWFpbCk7CiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICJkYjp1cCI6ICJrbmV4IHVwIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdG9rZW4gPSBhd2FpdCB1c2VyQ29udHJvbGxlci5nZW5lcmF0ZVRva2VuKHNldHVwLnVzZXIuZW1haWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAuZXhwZWN0KChyZXMpID0+IHsKICAgICAgICAgIGV4cGVjdChyZXMuYm9keS5lbWFpbCkudG8uZXF1YWwoc2V0dXAudXNlci5lbWFpbCk7CiAgICAgICAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
