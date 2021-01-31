@@ -105,51 +105,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1611003185681">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1611002241853">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Roles.js" timestamp="1611003924988">
-        <mark key="[" line="7" column="3" />
-        <mark key="]" line="8" column="2" />
-        <mark key="^" line="8" column="2" />
-        <mark key="." line="8" column="1" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Promo.js" timestamp="1611003934761">
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1611003959001">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/package.json" timestamp="1609015743728">
-        <mark key="'" line="63" column="3" />
-        <mark key="[" line="29" column="38" />
-        <mark key="]" line="29" column="38" />
-        <mark key="." line="29" column="38" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/Makefile" timestamp="1609016891538">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="14" column="21" />
-        <mark key="^" line="11" column="4" />
-        <mark key="." line="14" column="21" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Image.js" timestamp="1611003945432">
-        <mark key="[" line="23" column="3" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Advertisement.js" timestamp="1611003952393">
-        <mark key="[" line="6" column="45" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/user.js" timestamp="1609013711952">
         <mark key="'" line="43" column="13" />
         <mark key="[" line="18" column="16" />
@@ -177,7 +132,18 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20191006_initial_schema.js" timestamp="1611003140503" />
+      <file name="/fragment.js" timestamp="1611003185681">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1611002241853">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Roles.js" timestamp="1611003924988">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="8" column="2" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="8" column="1" />
+      </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Timeslot.js" timestamp="1611003912913">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="16" column="0" />
@@ -196,18 +162,51 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Promo.js" timestamp="1611003934761">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/test/setup.js" timestamp="1609016278350">
         <mark key="[" line="6" column="55" />
         <mark key="]" line="6" column="65" />
         <mark key="." line="6" column="64" />
         <mark key="^" line="6" column="65" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/User.js" timestamp="1611003908206">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/User.js" timestamp="1612130328351">
         <mark key="'" line="14" column="2" />
         <mark key="[" line="67" column="21" />
         <mark key="]" line="67" column="50" />
         <mark key="." line="67" column="49" />
         <mark key="^" line="67" column="50" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1611003959001">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/package.json" timestamp="1609015743728">
+        <mark key="'" line="63" column="3" />
+        <mark key="[" line="29" column="38" />
+        <mark key="]" line="29" column="38" />
+        <mark key="." line="29" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/Makefile" timestamp="1609016891538">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Image.js" timestamp="1611003945432">
+        <mark key="[" line="23" column="3" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Advertisement.js" timestamp="1611003952393">
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
     </filemarks>
     <jumps>
