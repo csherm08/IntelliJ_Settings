@@ -7,11 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">PA==</entry>
-        <entry>body</entry>
-        <entry>\</entry>
-        <entry>knex</entry>
-        <entry>createSchema</entry>
         <entry>timestamps</entry>
         <entry>timestamp</entry>
         <entry>images</entry>
@@ -27,6 +22,11 @@
         <entry>signup</entry>
         <entry>Bearer</entry>
         <entry>before</entry>
+        <entry>.txt</entry>
+        <entry>key</entry>
+        <entry>cors</entry>
+        <entry>gethttp</entry>
+        <entry>APIBASE</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
@@ -34,13 +34,13 @@
         <entry>:w</entry>
         <entry>q</entry>
         <entry>Q</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>Q!</entry>
         <entry>W</entry>
         <entry>wq</entry>
-        <entry>1</entry>
         <entry>60</entry>
         <entry>q!</entry>
+        <entry>1</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -100,41 +100,35 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1612155317738">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="56" column="38" />
-        <mark key="]" line="56" column="46" />
-        <mark key="." line="56" column="45" />
-        <mark key="^" line="56" column="46" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1612333277408">
+        <mark key="'" line="77" column="6" />
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="5" column="29" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Request.js" timestamp="1611003930397">
-        <mark key="[" line="3" column="29" />
+      <file name="/fragment.js" timestamp="1612321049796">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/config/default.js" timestamp="1612320227331">
+        <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/knexfile.js" timestamp="1612151269037" />
-      <file name="/fragment.js" timestamp="1611003185681">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/config/passport.js" timestamp="1612152410724">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1611002241853">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Roles.js" timestamp="1611003924988">
-        <mark key="[" line="7" column="3" />
-        <mark key="]" line="8" column="2" />
-        <mark key="^" line="8" column="2" />
-        <mark key="." line="8" column="1" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/config/passport.js" timestamp="1612318837957">
+        <mark key="'" line="10" column="43" />
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="50" />
+        <mark key="." line="10" column="49" />
+        <mark key="^" line="10" column="50" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/Dockerfile" timestamp="1612152387210">
         <mark key="[" line="12" column="11" />
@@ -148,30 +142,43 @@
         <mark key="^" line="5" column="108" />
         <mark key="." line="5" column="107" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Timeslot.js" timestamp="1611003912913">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/package-lock.json" timestamp="1612331676960">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1256" column="0" />
+        <mark key="]" line="1256" column="0" />
+        <mark key="." line="1256" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/docker-compose.yml" timestamp="1612150659997" />
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/server.js" timestamp="1612136713249">
-        <mark key="[" line="10" column="50" />
-        <mark key="]" line="11" column="50" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/middleware/permission.js" timestamp="1612334100331">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/server.js" timestamp="1612332927617">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
         <mark key="^" line="11" column="50" />
-        <mark key="." line="11" column="49" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Promo.js" timestamp="1611003934761">
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/.env" timestamp="1612328260549">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/test/setup.js" timestamp="1609016278350">
-        <mark key="[" line="6" column="55" />
-        <mark key="]" line="6" column="65" />
-        <mark key="." line="6" column="64" />
-        <mark key="^" line="6" column="65" />
+      <file name="/" timestamp="1612333796751">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/helpers/mail.js" timestamp="1612321939282">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/checkout_page.html" timestamp="1612334130095">
+        <mark key="'" line="424" column="42" />
+        <mark key="[" line="165" column="22" />
+        <mark key="]" line="165" column="23" />
+        <mark key="." line="165" column="22" />
+        <mark key="^" line="165" column="23" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/User.js" timestamp="1612130328351">
         <mark key="'" line="14" column="2" />
@@ -180,33 +187,33 @@
         <mark key="." line="67" column="49" />
         <mark key="^" line="67" column="50" />
       </file>
-      <file name="/JavaScript Console" timestamp="1612153123784">
+      <file name="/JavaScript Console" timestamp="1612334123291">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/package.json" timestamp="1612152372981">
-        <mark key="'" line="63" column="3" />
-        <mark key="[" line="17" column="68" />
-        <mark key="]" line="17" column="79" />
-        <mark key="." line="17" column="78" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/package.json" timestamp="1612331666202">
+        <mark key="'" line="28" column="33" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
         <mark key="^" line="17" column="79" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/Makefile" timestamp="1612155855487">
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="12" />
-        <mark key="^" line="21" column="12" />
-        <mark key="." line="21" column="11" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/Makefile" timestamp="1612157060451">
+        <mark key="[" line="25" column="48" />
+        <mark key="]" line="25" column="72" />
+        <mark key="^" line="25" column="72" />
+        <mark key="." line="25" column="71" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Image.js" timestamp="1611003945432">
-        <mark key="[" line="23" column="3" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/.gitignore" timestamp="1612331652699">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="9" column="18" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Advertisement.js" timestamp="1611003952393">
-        <mark key="[" line="6" column="45" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/images.js" timestamp="1612322034893">
+        <mark key="[" line="46" column="3" />
+        <mark key="]" line="47" column="1" />
+        <mark key="^" line="47" column="1" />
+        <mark key="." line="47" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -294,48 +301,64 @@
       <jump line="24" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/src/app.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/test/integration/user.spec.js" />
       <jump line="14" column="2" filename="$USER_HOME$/Code/Selectasign/new_api/src/models/User.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/config/passport.js" />
+      <jump line="10" column="43" filename="$USER_HOME$/Code/Selectasign/new_api/config/passport.js" />
+      <jump line="452" column="16" filename="$USER_HOME$/Code/Selectasign/new_api/checkout_page.html" />
+      <jump line="166" column="25" filename="$USER_HOME$/Code/Selectasign/new_api/checkout_page.html" />
+      <jump line="475" column="41" filename="$USER_HOME$/Code/Selectasign/new_api/checkout_page.html" />
+      <jump line="28" column="33" filename="$USER_HOME$/Code/Selectasign/new_api/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/package-lock.json" />
+      <jump line="455" column="2" filename="$USER_HOME$/Code/Selectasign/new_api/checkout_page.html" />
+      <jump line="177" column="10" filename="$USER_HOME$/Code/Selectasign/new_api/checkout_page.html" />
+      <jump line="240" column="30" filename="$USER_HOME$/Code/Selectasign/new_api/checkout_page.html" />
+      <jump line="547" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/checkout_page.html" />
+      <jump line="235" column="3" filename="$USER_HOME$/Code/Selectasign/new_api/checkout_page.html" />
+      <jump line="75" column="6" filename="$USER_HOME$/Code/Selectasign/new_api/src/app.js" />
+      <jump line="415" column="5" filename="$USER_HOME$/Code/Selectasign/new_api/checkout_page.html" />
+      <jump line="426" column="33" filename="$USER_HOME$/Code/Selectasign/new_api/checkout_page.html" />
+      <jump line="424" column="42" filename="$USER_HOME$/Code/Selectasign/new_api/checkout_page.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>docker run -d gcr.io/selectasign-api/api:1.0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmFwcC51c2UoZnVuY3Rpb24ocmVxLCByZXMsIG5leHQpIHsKICByZXMuaGVhZGVyKCJBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW4iLCAiKiIpOwogIHJlcy5oZWFkZXIoIkFjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMiLCAiT3JpZ2luLCBYLVJlcXVlc3RlZC1XaXRoLCBDb250ZW50LVR5cGUiLCAiQWNjZXB0Iik7Cn0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>docker run -d gcr.io/selectasign-api/api:1.0</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>before</text>
+        <text>APIBASE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCBub3cgPSBuZXcgRGF0ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiTkVXIE5FVyIpOwo=</text>
+        <text encoding="base64">CmFwcC51c2UoZnVuY3Rpb24ocmVxLCByZXMsIG5leHQpIHsKICByZXMuaGVhZGVyKCJBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW4iLCAiKiIpOwogIHJlcy5oZWFkZXIoIkFjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMiLCAiT3JpZ2luLCBYLVJlcXVlc3RlZC1XaXRoLCBDb250ZW50LVR5cGUiLCAiQWNjZXB0Iik7Cn0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q01EIFsiTk9ERV9FTlY9cHJvZHVjdGlvbiIsICJTRVNTSU9OX1NFQ1JFVD1taW1zdWNrczEyMyIsICJub2RlIiwgInNyYy9zZXJ2ZXIuanMiXQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">RU5WIE5PREVfRU5WIHBybwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">RU5WIE5PREVfRU5WIHByb2R1YXNkZnMK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">YXBwLmFsbCgnLycsIGZ1bmN0aW9uKHJlcSwgcmVzLCBuZXh0KSB7CiAgcmVzLmhlYWRlcigiQWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2luIiwgIioiKTsKLy8gICByZXMuaGVhZGVyKCJBY2Nlc3MtQ29udHJvbC1BbGxvdy1IZWFkZXJzIiwgIkNvbnRlbnQtTGVuZ3RoIiwgIk9yaWdpbiIsICJDb250ZW50LVR5cGUiLCAiWC1SZXF1ZXN0ZWQtV2l0aCIpOwovLyAgIHJlcy5oZWFkZXIoIkFjY2Vzcy1Db250cm9sLUFsbG93LU1ldGhvZHMiLCAiR0VULCBQT1NULCBQQVRDSCwgUFVULCBERUxFVEUsIE9QVElPTlMiKTsKLy8gICBuZXh0KCkKfSk7Cgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">QVJHIE5PREVfRU5WCg==</text>
+        <text encoding="base64">ICAgICJjb3JzIjogewogICAgICAidmVyc2lvbiI6ICIyLjguNSIsCiAgICAgICJyZXNvbHZlZCI6ICJodHRwczovL3JlZ2lzdHJ5Lm5wbWpzLm9yZy9jb3JzLy0vY29ycy0yLjguNS50Z3oiLAogICAgICAiaW50ZWdyaXR5IjogInNoYTUxMi1LSUhiTEpxdTczUkdyL2huYnJPOXVCZWl4Tkd1dlNRanVsL2pkRnZTL0tGU0lIMWhXVmQxbmc3ek9IeCtZckVmSW5MRzdxNG42R0hROWNEdHh2L1A2Zz09IiwKICAgICAgInJlcXVpcmVzIjogewogICAgICAgICJvYmplY3QtYXNzaWduIjogIl40IiwKICAgICAgICAidmFyeSI6ICJeMSIKICAgICAgfQogICAgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5ldyBEYXRlLnRvVVRDU3RyaW5nKCk7aAo=</text>
+        <text encoding="base64">ICAgICJjb3JzIjogIl4yLjguNSIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLwo=</text>
+        <text encoding="base64">Y29uc3QgY29ycyA9IHJlcXVpcmUoJ2NvcnMnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXBkYXRlZF9hdCA9IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKTsK</text>
+        <text encoding="base64">YXBwLnVzZShjb3JzKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -344,9 +367,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>before</last-search>
+      <last-search>APIBASE</last-search>
       <last-offset />
-      <last-pattern>before</last-pattern>
+      <last-pattern>APIBASE</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
