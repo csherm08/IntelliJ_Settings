@@ -35,13 +35,13 @@
         <entry>q</entry>
         <entry>Q</entry>
         <entry>Q!</entry>
-        <entry>W</entry>
         <entry>wq</entry>
         <entry>60</entry>
         <entry>q!</entry>
         <entry>1</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -108,12 +108,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1612333277408">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1612334762716">
         <mark key="'" line="77" column="6" />
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="5" column="29" />
-        <mark key="." line="5" column="28" />
-        <mark key="^" line="5" column="29" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="187" />
+        <mark key="." line="74" column="186" />
+        <mark key="^" line="74" column="187" />
       </file>
       <file name="/fragment.js" timestamp="1612321049796">
         <mark key="[" line="0" column="0" />
