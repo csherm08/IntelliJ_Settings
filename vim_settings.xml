@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>loginapi</entry>
         <entry>authorization</entry>
         <entry>token</entry>
         <entry>sendP</entry>
@@ -22,11 +21,12 @@
         <entry>myForm</entry>
         <entry>z-index</entry>
         <entry>nonce</entry>
-        <entry>openForm</entry>
-        <entry>closeForm</entry>
         <entry>loader-background</entry>
         <entry>loader</entry>
         <entry>loader-</entry>
+        <entry>open-button</entry>
+        <entry>openForm</entry>
+        <entry>closeForm</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
@@ -123,12 +123,12 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/2.html" timestamp="1613098067805">
-        <mark key="'" line="98" column="21" />
-        <mark key="[" line="98" column="16" />
-        <mark key="]" line="98" column="21" />
-        <mark key="." line="98" column="20" />
-        <mark key="^" line="98" column="21" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/2.html" timestamp="1613099482357">
+        <mark key="'" line="164" column="50" />
+        <mark key="[" line="185" column="108" />
+        <mark key="]" line="185" column="201" />
+        <mark key="." line="185" column="200" />
+        <mark key="^" line="185" column="201" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/config/passport.js" timestamp="1612839391118">
         <mark key="'" line="10" column="43" />
@@ -214,13 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/config/passport.js" />
-      <jump line="10" column="43" filename="$USER_HOME$/Code/Selectasign/new_api/config/passport.js" />
-      <jump line="452" column="16" filename="$USER_HOME$/Code/Selectasign/new_api/checkout_page.html" />
-      <jump line="166" column="25" filename="$USER_HOME$/Code/Selectasign/new_api/checkout_page.html" />
-      <jump line="475" column="41" filename="$USER_HOME$/Code/Selectasign/new_api/checkout_page.html" />
-      <jump line="28" column="33" filename="$USER_HOME$/Code/Selectasign/new_api/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/package-lock.json" />
       <jump line="455" column="2" filename="$USER_HOME$/Code/Selectasign/new_api/checkout_page.html" />
       <jump line="177" column="10" filename="$USER_HOME$/Code/Selectasign/new_api/checkout_page.html" />
       <jump line="240" column="30" filename="$USER_HOME$/Code/Selectasign/new_api/checkout_page.html" />
@@ -311,51 +304,58 @@
       <jump line="186" column="74" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="105" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="152" column="12" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="153" column="12" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="79" column="5" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="98" column="21" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
+      <jump line="153" column="15" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
+      <jump line="8" column="5" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
+      <jump line="76" column="33" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
+      <jump line="154" column="15" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
+      <jump line="188" column="177" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
+      <jump line="211" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
+      <jump line="226" column="11" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
+      <jump line="164" column="50" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGJsb2Nr</text>
+        <text>Cancel</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGJsb2Nr</text>
+        <text>Cancel</text>
       </register>
       <register name="/" type="4">
-        <text>loader-</text>
+        <text>closeForm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibXlMb2FkZXIiKS5zdHlsZS5kaXNwbGF5ID0gIm5vbmUiOwogICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJteUxvYWRlci1iYWNrZ3JvdW5kIikuc3R5bGUuZGlzcGxheSA9ICJub25lIjsK</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJteUxvYWRlciIpLnN0eWxlLmRpc3BsYXkgPSAibm9uZSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjbG9zZUZvcm0oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbGlnbgo=</text>
+        <text encoding="base64">ICAgIDxidXR0b24gaWQ9ImNsb3NlLWZvcm0tYWZ0ZXItc3VibWlzc2lvbiIgb25jbGljaz0iY2xvc2VGb3JtKCkiPkNhbmNlbDwvYnV0dG9uPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0LWFsaWdubWVudDogY2VudGVyOwo=</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJteUxvYWRlci1iYWNrZ3JvdW5kIikuc3R5bGUuZGlzcGxheSA9ICJub25lIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nLXJpZ2h0OiAzcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vbmNlID0gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwb3NpdGlvbjphYnNvbHV0ZTsKICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICB0b3A6NTAlOwogICAgICAgIGxlZnQ6NTAlOwogICAgICAgIG1hcmdpbjogYXV0bzsKICAgICAgICB3aWR0aDogNDAwcHg7CiAgICAgICAgaGVpZ2h0OiA0MDBweDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibXlMb2FkZXItYmFja2dyb3VuZCIpLnN0eWxlLmRpc3BsYXkgPSAibm9uZSI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0ibG9hZGVyLWJhY2tncm91bmQiIGlkPSJteUxvYWRlci1iYWNrZ3JvdW5kIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsb3NlRm9ybSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBub25lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsb3NlRm9ybSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0bwo=</text>
+        <text encoding="base64">PGJ1dHRvbiBvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBsZXQgeCA9ICd5JzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -364,9 +364,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>loader-</last-search>
+      <last-search>closeForm</last-search>
       <last-offset />
-      <last-pattern>loader-</last-pattern>
+      <last-pattern>closeForm</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
