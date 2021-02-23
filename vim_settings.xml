@@ -187,10 +187,10 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/2.css" timestamp="1614042931001">
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="21" column="4" />
-        <mark key="." line="21" column="3" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/2.css" timestamp="1614043001563">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
         <mark key="^" line="21" column="4" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/images.js" timestamp="1613786352462">
@@ -312,11 +312,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>Cancel</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>images</text>
