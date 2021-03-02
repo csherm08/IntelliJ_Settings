@@ -7,12 +7,10 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ctxShow</entry>
         <entry>ctx</entry>
         <entry>canvasShow</entry>
         <entry>getElementById</entry>
         <entry>canvas</entry>
-        <entry>imageCanvasShow</entry>
         <entry>myForm</entry>
         <entry>z-index</entry>
         <entry>nonce</entry>
@@ -27,6 +25,8 @@
         <entry>INSERT</entry>
         <entry>image_id</entry>
         <entry>APIBASE</entry>
+        <entry>xcanvas</entry>
+        <entry>imageCanvasShow</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
@@ -46,6 +46,7 @@
         <entry>282</entry>
         <entry>306</entry>
         <entry>w</entry>
+        <entry>143</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -107,6 +108,12 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -119,43 +126,16 @@
         <mark key="^" line="4" column="82" />
         <mark key="." line="4" column="81" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/knexfile.js" timestamp="1614567737425" />
-      <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20210228222108_fix_advertisement_table.js" timestamp="1614569020692">
-        <mark key="^" line="5" column="28" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/docker-compose.yml" timestamp="1614567843791">
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="27" />
-        <mark key="." line="30" column="26" />
-        <mark key="^" line="30" column="27" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1614576570934">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20210204211545_add_role_id_column_to_users.js" timestamp="1614566989199" />
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Image.js" timestamp="1614572635567">
-        <mark key="." line="14" column="13" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/Makefile" timestamp="1614567693245" />
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/images.js" timestamp="1614574249774">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="32" />
-        <mark key="^" line="11" column="32" />
-        <mark key="." line="11" column="31" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Advertisement.js" timestamp="1614575165464">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="33" />
-        <mark key="^" line="6" column="28" />
-        <mark key="." line="6" column="33" />
-      </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20210228215538_fix_request_table.js" timestamp="1614568905728">
         <mark key="[" line="7" column="54" />
         <mark key="]" line="7" column="54" />
         <mark key="." line="7" column="54" />
         <mark key="^" line="25" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20210228220401_fix_request_table2.js" timestamp="1614567846586" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/html/2.html" timestamp="1614646445317">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="148" />
+      </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1614573909261">
         <mark key="'" line="51" column="34" />
         <mark key="[" line="74" column="158" />
@@ -169,12 +149,22 @@
         <mark key="." line="31" column="69" />
         <mark key="^" line="31" column="70" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/2.html" timestamp="1614576543522">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20210228222108_fix_advertisement_table.js" timestamp="1614569020692">
+        <mark key="^" line="5" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/2.html" timestamp="1614578171773">
         <mark key="'" line="263" column="11" />
         <mark key="[" line="340" column="219" />
         <mark key="]" line="340" column="225" />
         <mark key="." line="340" column="224" />
         <mark key="^" line="340" column="225" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" timestamp="1614646513358">
+        <mark key="'" line="217" column="0" />
+        <mark key="[" line="220" column="14" />
+        <mark key="]" line="598" column="73" />
+        <mark key="^" line="598" column="73" />
+        <mark key="." line="598" column="72" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20191006_initial_schema.js" timestamp="1614573087580">
         <mark key="[" line="60" column="0" />
@@ -187,22 +177,32 @@
         <mark key="." line="23" column="19" />
         <mark key="^" line="23" column="20" />
       </file>
-      <file name="/" timestamp="1614576571014">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/docker-compose.yml" timestamp="1614567843791">
+        <mark key="[" line="30" column="15" />
+        <mark key="]" line="30" column="27" />
+        <mark key="." line="30" column="26" />
+        <mark key="^" line="30" column="27" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1614644577534">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/photobooth.js" timestamp="1614567143465">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="8" />
-        <mark key="^" line="3" column="8" />
-        <mark key="." line="3" column="7" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Image.js" timestamp="1614572635567">
+        <mark key="." line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/User.js" timestamp="1614572386420" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/images.js" timestamp="1614574249774">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="32" />
+        <mark key="^" line="11" column="32" />
+        <mark key="." line="11" column="31" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Advertisement.js" timestamp="1614575165464">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="33" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="6" column="33" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/temp_chp.html" />
-      <jump line="382" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/temp_chp.html" />
-      <jump line="11" column="19" filename="$USER_HOME$/Code/Selectasign/new_api/temp_chp.html" />
-      <jump line="91" column="5" filename="$USER_HOME$/Code/Selectasign/new_api/checkout_page.html" />
       <jump line="128" column="19" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="66" column="98" filename="$USER_HOME$/Code/Selectasign/new_api/src/app.js" />
       <jump line="157" column="42" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
@@ -299,59 +299,63 @@
       <jump line="504" column="42" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="505" column="40" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="263" column="11" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
+      <jump line="336" column="8" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="337" column="8" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="344" column="61" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="115" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IGdldEJhc2U2NA==</text>
       </register>
       <register name="/" type="4">
-        <text>APIBASE</text>
+        <text>imageCanvasShow</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwLnBvc3QoJy9hcGkvYnJhaW50cmVlL3JlY2VpdmVQYXltZW50JywgcGFzc3BvcnQuYXV0aGVudGljYXRlKCdqd3QnLCB7c2Vzc2lvbjogZmFsc2V9KSwgcm9sZXMucGVybWl0KCJiYXNpYyIpLCBwYXltZW50Q29udHJvbGxlci5yZWNlaXZlUGF5bWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZy10b3A6IDMlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBCSUxMQk9BUkRfSUQgPSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coIlVwbG9hZCByZXN1bHQgIiwgcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCJVcGxhZCByZXN1bHQgIiwgcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGVycikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIHVwbG9hZEltYWdlKHJlYWRlci5yZXN1bHQpLnRoZW4ociA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCJVcGxvYWQgcmVzdWx0ICIsIHIpOwogICAgICAgICAgfSkKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgbG9naW5hcGkoKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgbGV0IHkgPSAneSc7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgY29uc3QgZ2V0aHR0cCA9IGFzeW5jIChBcGlVcmwsIGNvbW1hbmQsIGFjY2Vzc190b2tlbiwgZGF0YSwgbm9jb3JzKSA9PiB7CgogICAgICAgIGxldCBtZXRob2Q9J0dFVCc7CiAgICAgICAgaWYgKGRhdGEpewogICAgICAgICAgbWV0aG9kPSdQT1NUJzsKICAgICAgICB9CiAgICAgICAgdmFyIG9wdGlvbnMgPSB7CiAgICAgICAgICAvL3VybDogQXBpVXJsKydiaWxsYm9hcmRzJywKICAgICAgICAgIC8vdXJsOiBBcGlVcmwrY29tbWFuZCwKICAgICAgICAgIG1ldGhvZDogbWV0aG9kLAogICAgICAgICAgLy9ib2R5OiBkYXRhLAogICAgICAgICAgaGVhZGVyczogewogICAgICAgICAgICAvLydVc2VyLUFnZW50JzogJ215IHJlcXVlc3QnLAogICAgICAgICAgICAnQXV0aG9yaXphdGlvbic6ICdCZWFyZXIgJyArIGFjY2Vzc190b2tlbiwKICAgICAgICAgICAgJ0FjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpbic6ICcqJywKICAgICAgICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJywKICAgICAgICAgICAgJ0FjY2VwdCc6ICdhcHBsaWNhdGlvbi9qc29uJywKICAgICAgICAgIH0KICAgICAgICB9OwogICAgICAgIGlmIChkYXRhKXsKICAgICAgICAgIG9wdGlvbnMuYm9keT1kYXRhOwogICAgICAgIH0KICAgICAgICBpZiAobm9jb3JzKXsKICAgICAgICAgIG9wdGlvbnMubW9kZT0ibm8tY29ycyI7CiAgICAgICAgfQogICAgICAgIHRyeSB7CiAgICAgICAgICAvL2NvbnNvbGUubG9nKCdvcHRpb25zJyxvcHRpb25zKTsKICAgICAgICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goQXBpVXJsICsgY29tbWFuZCwgb3B0aW9ucyk7CiAgICAgICAgICBjb25zb2xlLmxvZygnZmV0Y2ggcmVzcG9uc2UuYm9keScscmVzcG9uc2UpOwogICAgICAgICAgLy9kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnc3RhdHVzJykudmFsdWU9cmVzcG9uc2Uuc3RhdHVzVGV4dDsKICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGF0dXMnLHJlc3BvbnNlLnN0YXR1c1RleHQpOwogICAgICAgICAgY29uc3QgZGF0YSA9IGF3YWl0IHJlc3BvbnNlLmpzb24oKTsKICAgICAgICAgIGNvbnNvbGUubG9nKCdkYXRhIHJlc3BvbnNlLmJvZHknLGRhdGEpOwogICAgICAgICAgaWYgKGRhdGEudG9rZW4pewogICAgICAgICAgICBnbG9iYWxfYWNjZXNzX3Rva2VuPWRhdGEudG9rZW47CiAgICAgICAgICB9CiAgICAgICAgICBpZiAoZGF0YS5pbWFnZUlkKXsKICAgICAgICAgICAgZ2xvYmFsX2ltYWdlX2lkPWRhdGEuaW1hZ2VJZDsKICAgICAgICAgICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ2ltYWdlaWQnLCBnbG9iYWxfaW1hZ2VfaWQpOwogICAgICAgICAgfQogICAgICAgICAgLy9kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnc3RhdHVzJykudmFsdWU9cmVzcG9uc2Uuc3RhdHVzVGV4dCArICcgaW1hZ2U6ICcgKyBKU09OLnN0cmluZ2lmeShkYXRhKTsKICAgICAgICAgIC8vYWxlcnQoJ3N0YXR1czogJytkYXRhLnRva2VuKyAnICcgKyBkYXRhLmltYWdlSWQpOwogICAgICAgICAgcmV0dXJuIGRhdGE7CiAgICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgICAgcmV0dXJuIGU7CiAgICAgICAgfQogICAgICB9CiAgIA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>143</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>APIBASE</last-search>
+      <last-search>imageCanvasShow</last-search>
       <last-offset />
-      <last-pattern>APIBASE</last-pattern>
+      <last-pattern>imageCanvasShow</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
