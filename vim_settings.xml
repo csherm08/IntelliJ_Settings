@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ctx</entry>
-        <entry>canvasShow</entry>
-        <entry>getElementById</entry>
-        <entry>canvas</entry>
         <entry>myForm</entry>
         <entry>z-index</entry>
         <entry>nonce</entry>
@@ -19,7 +15,6 @@
         <entry>loader-</entry>
         <entry>open-button</entry>
         <entry>openForm</entry>
-        <entry>closeForm</entry>
         <entry>images</entry>
         <entry>braintree</entry>
         <entry>INSERT</entry>
@@ -27,6 +22,11 @@
         <entry>APIBASE</entry>
         <entry>xcanvas</entry>
         <entry>imageCanvasShow</entry>
+        <entry>rotate(</entry>
+        <entry>SIZE_MULT</entry>
+        <entry>closeForm</entry>
+        <entry>buttonDiv</entry>
+        <entry>input type</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
@@ -40,13 +40,13 @@
         <entry>q!</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
-        <entry>1</entry>
         <entry>wj</entry>
         <entry>446</entry>
         <entry>282</entry>
         <entry>306</entry>
-        <entry>w</entry>
         <entry>143</entry>
+        <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -132,7 +132,7 @@
         <mark key="." line="7" column="54" />
         <mark key="^" line="25" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/html/2.html" timestamp="1614646445317">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/html/2.html" timestamp="1614648918705">
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="148" />
       </file>
@@ -159,12 +159,12 @@
         <mark key="." line="340" column="224" />
         <mark key="^" line="340" column="225" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" timestamp="1614646513358">
-        <mark key="'" line="217" column="0" />
-        <mark key="[" line="220" column="14" />
-        <mark key="]" line="598" column="73" />
-        <mark key="^" line="598" column="73" />
-        <mark key="." line="598" column="72" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" timestamp="1615169392128">
+        <mark key="'" line="475" column="12" />
+        <mark key="[" line="463" column="43" />
+        <mark key="]" line="463" column="85" />
+        <mark key="." line="463" column="84" />
+        <mark key="^" line="463" column="85" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20191006_initial_schema.js" timestamp="1614573087580">
         <mark key="[" line="60" column="0" />
@@ -183,7 +183,10 @@
         <mark key="." line="30" column="26" />
         <mark key="^" line="30" column="27" />
       </file>
-      <file name="/JavaScript Console" timestamp="1614644577534">
+      <file name="/" timestamp="1615166533763">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1615166531237">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Image.js" timestamp="1614572635567">
@@ -201,21 +204,14 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="33" />
       </file>
+      <file name="vm:1080" timestamp="1614649210646">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="17" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="19" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="66" column="98" filename="$USER_HOME$/Code/Selectasign/new_api/src/app.js" />
-      <jump line="157" column="42" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="142" column="10" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="208" column="20" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="281" column="75" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="420" column="82" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="443" column="78" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="278" column="11" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="292" column="6" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="304" column="6" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="323" column="10" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="456" column="4" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="498" column="8" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="295" column="4" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="356" column="3" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
@@ -303,59 +299,72 @@
       <jump line="337" column="8" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
       <jump line="344" column="61" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
       <jump line="115" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="385" column="31" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="387" column="18" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="389" column="33" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="390" column="34" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="256" column="194" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="258" column="189" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="249" column="28" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="7" column="9" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="282" column="25" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="462" column="31" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="474" column="12" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3R4LmZvbnQgPSAnbm9ybWFsIDU0cHQgQXJpYWwnOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGdldEJhc2U2NA==</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>imageCanvasShow</text>
+        <text>input type</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZy10b3A6IDMlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3R4LmZvbnQgPSAnbm9ybWFsIDU0cHQgQXJpYWwnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sb3I6IGRhcmtibHVlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sb3I6IGJsdWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBib2R5IHsKICAgICAgICAgICAgd2lkdGg6IDEwMCU7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coIlVwbG9hZCByZXN1bHQgIiwgcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiAxMDAlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCBpZD0iZmlsZUl0ZW0iIHR5cGU9ImZpbGUiIHRpdGxlPSIgIiBvbmNoYW5nZT0iLypyZWFkZmlsZWZhbWVib2FyZCh0aGlzKTsqL2hhbmRsZUltYWdlKHRoaXMpOyIgdmFsdWU9IlVVUGxvYWQgcGhvdG8iPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCJVcGxhZCByZXN1bHQgIiwgcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgaWQ9ImJ1dHRvbkRpdiI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVwbG9hZEltYWdlKHJlYWRlci5yZXN1bHQpLnRoZW4ociA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCJVcGxvYWQgcmVzdWx0ICIsIHIpOwogICAgICAgICAgfSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbG9naW5hcGkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgY29uc3QgZ2V0aHR0cCA9IGFzeW5jIChBcGlVcmwsIGNvbW1hbmQsIGFjY2Vzc190b2tlbiwgZGF0YSwgbm9jb3JzKSA9PiB7CgogICAgICAgIGxldCBtZXRob2Q9J0dFVCc7CiAgICAgICAgaWYgKGRhdGEpewogICAgICAgICAgbWV0aG9kPSdQT1NUJzsKICAgICAgICB9CiAgICAgICAgdmFyIG9wdGlvbnMgPSB7CiAgICAgICAgICAvL3VybDogQXBpVXJsKydiaWxsYm9hcmRzJywKICAgICAgICAgIC8vdXJsOiBBcGlVcmwrY29tbWFuZCwKICAgICAgICAgIG1ldGhvZDogbWV0aG9kLAogICAgICAgICAgLy9ib2R5OiBkYXRhLAogICAgICAgICAgaGVhZGVyczogewogICAgICAgICAgICAvLydVc2VyLUFnZW50JzogJ215IHJlcXVlc3QnLAogICAgICAgICAgICAnQXV0aG9yaXphdGlvbic6ICdCZWFyZXIgJyArIGFjY2Vzc190b2tlbiwKICAgICAgICAgICAgJ0FjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpbic6ICcqJywKICAgICAgICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJywKICAgICAgICAgICAgJ0FjY2VwdCc6ICdhcHBsaWNhdGlvbi9qc29uJywKICAgICAgICAgIH0KICAgICAgICB9OwogICAgICAgIGlmIChkYXRhKXsKICAgICAgICAgIG9wdGlvbnMuYm9keT1kYXRhOwogICAgICAgIH0KICAgICAgICBpZiAobm9jb3JzKXsKICAgICAgICAgIG9wdGlvbnMubW9kZT0ibm8tY29ycyI7CiAgICAgICAgfQogICAgICAgIHRyeSB7CiAgICAgICAgICAvL2NvbnNvbGUubG9nKCdvcHRpb25zJyxvcHRpb25zKTsKICAgICAgICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goQXBpVXJsICsgY29tbWFuZCwgb3B0aW9ucyk7CiAgICAgICAgICBjb25zb2xlLmxvZygnZmV0Y2ggcmVzcG9uc2UuYm9keScscmVzcG9uc2UpOwogICAgICAgICAgLy9kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnc3RhdHVzJykudmFsdWU9cmVzcG9uc2Uuc3RhdHVzVGV4dDsKICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGF0dXMnLHJlc3BvbnNlLnN0YXR1c1RleHQpOwogICAgICAgICAgY29uc3QgZGF0YSA9IGF3YWl0IHJlc3BvbnNlLmpzb24oKTsKICAgICAgICAgIGNvbnNvbGUubG9nKCdkYXRhIHJlc3BvbnNlLmJvZHknLGRhdGEpOwogICAgICAgICAgaWYgKGRhdGEudG9rZW4pewogICAgICAgICAgICBnbG9iYWxfYWNjZXNzX3Rva2VuPWRhdGEudG9rZW47CiAgICAgICAgICB9CiAgICAgICAgICBpZiAoZGF0YS5pbWFnZUlkKXsKICAgICAgICAgICAgZ2xvYmFsX2ltYWdlX2lkPWRhdGEuaW1hZ2VJZDsKICAgICAgICAgICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ2ltYWdlaWQnLCBnbG9iYWxfaW1hZ2VfaWQpOwogICAgICAgICAgfQogICAgICAgICAgLy9kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnc3RhdHVzJykudmFsdWU9cmVzcG9uc2Uuc3RhdHVzVGV4dCArICcgaW1hZ2U6ICcgKyBKU09OLnN0cmluZ2lmeShkYXRhKTsKICAgICAgICAgIC8vYWxlcnQoJ3N0YXR1czogJytkYXRhLnRva2VuKyAnICcgKyBkYXRhLmltYWdlSWQpOwogICAgICAgICAgcmV0dXJuIGRhdGE7CiAgICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgICAgcmV0dXJuIGU7CiAgICAgICAgfQogICAgICB9CiAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>143</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>imageCanvasShow</last-search>
+      <last-search>input type</last-search>
       <last-offset />
-      <last-pattern>imageCanvasShow</last-pattern>
+      <last-pattern>input type</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
