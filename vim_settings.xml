@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>INSERT</entry>
         <entry>image_id</entry>
         <entry>APIBASE</entry>
         <entry>xcanvas</entry>
@@ -27,6 +26,7 @@
         <entry>alertModal</entry>
         <entry>closeModal</entry>
         <entry>spinner</entry>
+        <entry>character max</entry>
       </history-search>
       <history-cmd>
         <entry>w'</entry>
@@ -161,18 +161,20 @@
         <mark key="." line="340" column="224" />
         <mark key="^" line="340" column="225" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" timestamp="1616444089187">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" timestamp="1616453921781">
         <mark key="a" line="58" column="20" />
         <mark key="'" line="358" column="25" />
-        <mark key="[" line="274" column="58" />
-        <mark key="]" line="274" column="58" />
-        <mark key="^" line="274" column="58" />
-        <mark key="." line="274" column="57" />
+        <mark key="[" line="310" column="65" />
+        <mark key="]" line="310" column="65" />
+        <mark key="^" line="310" column="65" />
+        <mark key="." line="310" column="64" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/html/ripley_free.html" timestamp="1616443612813">
-        <mark key="[" line="723" column="0" />
-        <mark key="]" line="723" column="0" />
-        <mark key="." line="723" column="0" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/html/ripley_free.html" timestamp="1616453943758">
+        <mark key="'" line="417" column="34" />
+        <mark key="[" line="319" column="68" />
+        <mark key="]" line="319" column="74" />
+        <mark key="." line="319" column="73" />
+        <mark key="^" line="319" column="74" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20191006_initial_schema.js" timestamp="1614573087580">
         <mark key="[" line="60" column="0" />
@@ -225,8 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="385" column="10" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="387" column="8" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="388" column="8" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="389" column="8" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="390" column="8" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
@@ -325,18 +325,20 @@
       <jump line="241" column="17" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
       <jump line="329" column="56" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
       <jump line="358" column="25" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="327" column="18" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="417" column="34" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley_free.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SCHEDULE</text>
       </register>
       <register name="-" type="4">
-        <text>braintree/receivePaymentAndSchedule</text>
+        <text>SCHEDULE</text>
       </register>
       <register name="/" type="4">
-        <text>spinner</text>
+        <text>character max</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBzcGFuLm9uY2xpY2sgPSBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgIGFsZXJ0TW9kYWwuc3R5bGUuZGlzcGxheSA9ICJub25lIjsKICAgICAgICAgICAgICB9Cg==</text>
@@ -375,9 +377,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>spinner</last-search>
+      <last-search>character max</last-search>
       <last-offset />
-      <last-pattern>spinner</last-pattern>
+      <last-pattern>character max</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
