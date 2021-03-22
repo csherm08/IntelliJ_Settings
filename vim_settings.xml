@@ -7,16 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>myForm</entry>
-        <entry>z-index</entry>
-        <entry>nonce</entry>
-        <entry>loader-background</entry>
-        <entry>loader</entry>
-        <entry>loader-</entry>
-        <entry>open-button</entry>
-        <entry>openForm</entry>
-        <entry>images</entry>
-        <entry>braintree</entry>
         <entry>INSERT</entry>
         <entry>image_id</entry>
         <entry>APIBASE</entry>
@@ -27,9 +17,18 @@
         <entry>closeForm</entry>
         <entry>buttonDiv</entry>
         <entry>input type</entry>
+        <entry>myBtn</entry>
+        <entry>close</entry>
+        <entry>span</entry>
+        <entry>openForm</entry>
+        <entry>Success</entry>
+        <entry>alert</entry>
+        <entry>myModal</entry>
+        <entry>alertModal</entry>
+        <entry>closeModal</entry>
+        <entry>spinner</entry>
       </history-search>
       <history-cmd>
-        <entry>set paste</entry>
         <entry>w'</entry>
         <entry>:w</entry>
         <entry>q</entry>
@@ -46,6 +45,9 @@
         <entry>306</entry>
         <entry>143</entry>
         <entry>1</entry>
+        <entry>274</entry>
+        <entry>360</entry>
+        <entry>358</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -143,7 +145,7 @@
         <mark key="." line="74" column="166" />
         <mark key="^" line="74" column="167" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/payment.js" timestamp="1614575988068">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/payment.js" timestamp="1616442879817">
         <mark key="[" line="31" column="66" />
         <mark key="]" line="31" column="70" />
         <mark key="." line="31" column="69" />
@@ -159,12 +161,18 @@
         <mark key="." line="340" column="224" />
         <mark key="^" line="340" column="225" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" timestamp="1615169392128">
-        <mark key="'" line="475" column="12" />
-        <mark key="[" line="463" column="43" />
-        <mark key="]" line="463" column="85" />
-        <mark key="." line="463" column="84" />
-        <mark key="^" line="463" column="85" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" timestamp="1616444089187">
+        <mark key="a" line="58" column="20" />
+        <mark key="'" line="358" column="25" />
+        <mark key="[" line="274" column="58" />
+        <mark key="]" line="274" column="58" />
+        <mark key="^" line="274" column="58" />
+        <mark key="." line="274" column="57" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/html/ripley_free.html" timestamp="1616443612813">
+        <mark key="[" line="723" column="0" />
+        <mark key="]" line="723" column="0" />
+        <mark key="." line="723" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20191006_initial_schema.js" timestamp="1614573087580">
         <mark key="[" line="60" column="0" />
@@ -183,10 +191,10 @@
         <mark key="." line="30" column="26" />
         <mark key="^" line="30" column="27" />
       </file>
-      <file name="/" timestamp="1615166533763">
+      <file name="/" timestamp="1616443013537">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1615166531237">
+      <file name="/JavaScript Console" timestamp="1616443011616">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Image.js" timestamp="1614572635567">
@@ -210,29 +218,13 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/html/iframe_home.html" timestamp="1615174137718">
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="272" column="0" />
+        <mark key="." line="272" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="498" column="8" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="295" column="4" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="356" column="3" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="350" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="371" column="11" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="374" column="23" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="382" column="10" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="384" column="10" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="386" column="10" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="391" column="11" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="393" column="10" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="349" column="8" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="369" column="8" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="370" column="8" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="373" column="20" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="376" column="10" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="377" column="8" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="378" column="25" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="380" column="16" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="381" column="10" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="383" column="10" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="385" column="10" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="387" column="8" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="388" column="8" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
@@ -300,7 +292,6 @@
       <jump line="344" column="61" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
       <jump line="115" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
       <jump line="385" column="31" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
-      <jump line="387" column="18" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
       <jump line="389" column="33" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
       <jump line="390" column="34" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
       <jump line="256" column="194" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
@@ -312,48 +303,70 @@
       <jump line="282" column="25" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
       <jump line="462" column="31" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
       <jump line="474" column="12" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="463" column="32" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="359" column="27" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="296" column="45" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="302" column="45" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="303" column="58" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="312" column="53" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="242" column="61" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="276" column="65" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="238" column="17" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="239" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="243" column="24" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="381" column="10" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="382" column="10" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="387" column="10" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="304" column="18" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="313" column="16" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="318" column="36" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="319" column="18" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="236" column="40" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="241" column="17" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="329" column="56" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
+      <jump line="358" column="25" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3R4LmZvbnQgPSAnbm9ybWFsIDU0cHQgQXJpYWwnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>braintree/receivePaymentAndSchedule</text>
       </register>
       <register name="/" type="4">
-        <text>input type</text>
+        <text>spinner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3R4LmZvbnQgPSAnbm9ybWFsIDU0cHQgQXJpYWwnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzcGFuLm9uY2xpY2sgPSBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgIGFsZXJ0TW9kYWwuc3R5bGUuZGlzcGxheSA9ICJub25lIjsKICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sb3I6IGRhcmtibHVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sb3I6IGJsdWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibXlMb2FkZXIiKS5zdHlsZS5kaXNwbGF5ID0gIm5vbmUiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib2R5IHsKICAgICAgICAgICAgd2lkdGg6IDEwMCU7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibXlMb2FkZXItYmFja2dyb3VuZCIpLnN0eWxlLmRpc3BsYXkgPSAibm9uZSI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiAxMDAlOwo=</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibXlMb2FkZXIiKS5zdHlsZS5kaXNwbGF5ID0gIm5vbmUiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCBpZD0iZmlsZUl0ZW0iIHR5cGU9ImZpbGUiIHRpdGxlPSIgIiBvbmNoYW5nZT0iLypyZWFkZmlsZWZhbWVib2FyZCh0aGlzKTsqL2hhbmRsZUltYWdlKHRoaXMpOyIgdmFsdWU9IlVVUGxvYWQgcGhvdG8iPgo=</text>
+        <text encoding="base64">ICAgICAgICBzbGVlcCgxMDAwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgaWQ9ImJ1dHRvbkRpdiI+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibXlGb3JtIikuc3R5bGUuZGlzcGxheSA9ICJibG9jayI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGlkPSJwb3B1cE1vZGFsIiBjbGFzcz0icG9wdXAtbW9kYWwiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJwb3B1cC1tb2RhbC1jb250ZW50Ij4KICAgICAgICAgICAgICAgIDwhLS0gICAgICAgICAgICAgICAgPHNwYW4gaWQ9ImNsb3NlTW9kYWwiIGNsYXNzPSJjbG9zZSI+JnRpbWVzOzwvc3Bhbj4tLT4KICAgICAgICAgICAgICAgIDxpZnJhbWUgc3JjPSJyaXBsZXlfMi5odG1sIiB0aXRsZT0iRmFtZWJvYXJkIiBmcmFtZWJvcmRlcj0iMCIKICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9InBvc2l0aW9uOiByZWxhdGl2ZTsgaGVpZ2h0OiAxMDAlOyB3aWR0aDogMTAwJTsiPjwvaWZyYW1lPgogICAgICAgICAgICAgICAgPCEtLSAgICAgICAgICAgIDxwPiB0aXR0eSBtaWxrIDwvcD4tLT4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -362,9 +375,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>input type</last-search>
+      <last-search>spinner</last-search>
       <last-offset />
-      <last-pattern>input type</last-pattern>
+      <last-pattern>spinner</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
