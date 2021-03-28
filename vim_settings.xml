@@ -138,12 +138,12 @@
         <mark key="." line="72" column="17" />
         <mark key="^" line="72" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1616463390905">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1616975075946">
         <mark key="'" line="51" column="34" />
-        <mark key="[" line="59" column="51" />
-        <mark key="]" line="76" column="144" />
-        <mark key="." line="76" column="143" />
-        <mark key="^" line="76" column="144" />
+        <mark key="[" line="76" column="118" />
+        <mark key="]" line="76" column="43" />
+        <mark key="." line="76" column="42" />
+        <mark key="^" line="76" column="43" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/payment.js" timestamp="1616624129653">
         <mark key="[" line="19" column="50" />
@@ -178,12 +178,13 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Timeslot.js" timestamp="1614569787212">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="23" column="20" />
-        <mark key="." line="23" column="19" />
-        <mark key="^" line="23" column="20" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/middleware/one_time.js" timestamp="1616975122590">
+        <mark key="[" line="7" column="68" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="3" />
+        <mark key="^" line="8" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/middleware/permission.js" timestamp="1616975065460" />
       <file name="/" timestamp="1616461720312">
         <mark key="[" line="0" column="0" />
       </file>
@@ -201,9 +202,6 @@
       </file>
       <file name="/JavaScript Console" timestamp="1616462686233">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Image.js" timestamp="1614572635567">
-        <mark key="." line="14" column="13" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/images.js" timestamp="1616458746181">
         <mark key="[" line="11" column="22" />
@@ -337,41 +335,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCBzdWNjZXNzID0gdHJ1ZTsK</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>https://selectasign-api-724mnbyhxq-uc.a.run.app/api/</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>const APIBASE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgQVBJQkFTRT0gImh0dHBzOi8vc2VsZWN0YXNpZ24tYXBpLTcyNG1uYnloeHEtdWMuYS5ydW4uYXBwL2FwaS8iOwo=</text>
+        <text encoding="base64">YXBwLnBvc3QoJy9hcGkvcmVxdWVzdHMvcGhvdG9ib290aCcsIHBhc3Nwb3J0LmF1dGhlbnRpY2F0ZSgnand0Jywge3Nlc3Npb246IGZhbHNlfSksIHJvbGVzLnBlcm1pdCgiYmFzaWMiKSwgIHBob3RvYm9vdGhDb250cm9sbGVyLnByb2Nlc3NCb290aCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBzdWNjZXNzID0gdHJ1ZTsK</text>
+        <text encoding="base64">YXBwLnBvc3QoJy9hcGkvZW1haWxfdGVzdCcsIHVzZXJDb250cm9sbGVyLnNlbmRFbWFpbCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCByZXNwID0gewogICAgICBzdWNjZXNzOiB0cnVlCiAgICB9Owo=</text>
+        <text encoding="base64">ICAgIGxldCBzdWNjZXNzID0gdHJ1ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlsOiBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZW1haWxfcGhvdG8nKS52YWx1ZQo=</text>
+        <text encoding="base64">ICAgIGxldCByZXNwID0gewogICAgICBzdWNjZXNzOiB0cnVlCiAgICB9Owo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlsOiBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZW1haWxfcGhvdG8nKS52YWx1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtYWlsOiBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZW1haWxfcGhvdG8nKS52YWx1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1haWw6IHt0bzogZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2VtYWlsX3Bob3RvJykudmFsdWUsIGNjOiAicmlwbGV5QGZha2VlbWFpbC5jb20iLCBzdWJqZWN0OiAiVGhhbmtzIGZvciB5b3VyIG9yZGVyISIsIHRleHQ6ICJDb25ncmF0dWxhdGlvbnMhIFlvdXIgaW1hZ2UgaGFzIGJlZW4gc2NoZWR1bGVkIHRvIGFwcGVhciBpbiBUaW1lcyBTcXVhcmUuIFlvdSdsbCByZWNlaXZlIHlvdXIgYmlsbGJvYXJkIHBob3RvIGFmdGVyIGl0IHJ1bnMsIHVzdWFsbHkgd2l0aGluIDI0IGhvdXJzIG9mIHlvdXIgb3JkZXIuIiB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgdG8sCiAgIGNjLAogICBzdWJqZWN0LAogICB0ZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW1haWw6IHt0bzogZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2VtYWlsX3Bob3RvJykudmFsdWUsIGNjOiAicmlwbGV5QGZha2VlbWFpbC5jb20iLCBzdWJqZWN0OiAiVGhhbmtzIGZvciB5b3VyIG9yZGVyISIsIHRleHQ6ICJDb25ncmF0dWxhdGlvbnMhIFlvdXIgaW1hZ2UgaGFzIGJlZW4gc2NoZWR1bGVkIHRvIGFwcGVhciBpbiBUaW1lcyBTcXVhcmUuIFlvdSdsbCByZWNlaXZlIHlvdXIgYmlsbGJvYXJkIHBob3RvIGFmdGVyIGl0IHJ1bnMsIHVzdWFsbHkgd2l0aGluIDI0IGhvdXJzIG9mIHlvdXIgb3JkZXIuIiB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgdG8sCiAgIGNjLAogICBzdWJqZWN0LAogICB0ZXh0Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
