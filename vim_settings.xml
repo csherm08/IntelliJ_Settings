@@ -127,11 +127,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/RubymineProjects/honey/helloworld.js" timestamp="1617074471604">
-        <mark key="[" line="79" column="26" />
-        <mark key="]" line="79" column="26" />
-        <mark key="." line="79" column="26" />
-        <mark key="^" line="79" column="23" />
+      <file name="$USER_HOME$/RubymineProjects/honey/helloworld.js" timestamp="1617074647518">
+        <mark key="[" line="61" column="3" />
+        <mark key="]" line="60" column="48" />
+        <mark key="." line="60" column="47" />
+        <mark key="^" line="60" column="48" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1616981134439">
         <mark key="'" line="52" column="34" />
@@ -327,10 +327,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>scheduleImage</text>
