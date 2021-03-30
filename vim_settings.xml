@@ -34,7 +34,6 @@
         <entry>60</entry>
         <entry>q!</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>wj</entry>
         <entry>446</entry>
         <entry>282</entry>
@@ -48,6 +47,7 @@
         <entry>723</entry>
         <entry>720</entry>
         <entry>402</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -133,6 +133,12 @@
         <mark key="." line="15" column="23" />
         <mark key="^" line="15" column="24" />
       </file>
+      <file name="$USER_HOME$/RubymineProjects/honey/helloworld2.js" timestamp="1617138051477">
+        <mark key="[" line="82" column="14" />
+        <mark key="]" line="83" column="6" />
+        <mark key="^" line="83" column="6" />
+        <mark key="." line="83" column="5" />
+      </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1616981134439">
         <mark key="'" line="52" column="34" />
         <mark key="[" line="77" column="189" />
@@ -198,7 +204,7 @@
         <mark key="]" line="398" column="83" />
         <mark key="." line="398" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1617129890898">
+      <file name="/JavaScript Console" timestamp="1617137877398">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/Makefile" timestamp="1616982268583">
@@ -326,41 +332,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coc2hhcGVTZXQuc2l6ZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>scheduleImage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYXBlLnB1c2goInJpZ2h0Iik7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coY29tcGFyZVZlcnNpb25zKCIxLjAuMS4wIiwgIjEuMC4xIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coc2hhcGVTZXQuc2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgIGZvcihsZXQgaSA9IDA7IGkgPCBzdGFjazEubGVuZ3RoOyBpKz0xKSB7CiAgICAgIGlmKHN0YWNrMVtpXSA9PT0gMCkgewogICAgICAgIHN0YWNrMS5zcGxpY2UoaSwgMSk7CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgaWYoc3RhY2syW2ldID09PSAwKSB7CiAgICAgICAgc3RhY2syLnNwbGljZShpLCAxKTsKICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
