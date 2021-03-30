@@ -127,11 +127,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/RubymineProjects/honey/helloworld.js" timestamp="1617074647518">
-        <mark key="[" line="61" column="3" />
-        <mark key="]" line="60" column="48" />
-        <mark key="." line="60" column="47" />
-        <mark key="^" line="60" column="48" />
+      <file name="$USER_HOME$/RubymineProjects/honey/helloworld.js" timestamp="1617130134104">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="23" />
+        <mark key="^" line="15" column="24" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1616981134439">
         <mark key="'" line="52" column="34" />
@@ -198,7 +198,7 @@
         <mark key="]" line="398" column="83" />
         <mark key="." line="398" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1617074485950">
+      <file name="/JavaScript Console" timestamp="1617129890898">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/Makefile" timestamp="1616982268583">
@@ -326,44 +326,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coc2hhcGVTZXQuc2l6ZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>scheduleImage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpZighdmlzaXRlZFtgJHtqfSR7aS0xfWBdKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYXBlLnB1c2goInJpZ2h0Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyIGZpbmRXb3JkcyA9IGZ1bmN0aW9uKGJvYXJkLCB3b3Jkcykge30K</text>
+        <text encoding="base64">Y29uc29sZS5sb2coc2hhcGVTZXQuc2l6ZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZpc2l0ZWQgPSB7fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2hlY2tCb2FyZEZvcldvcmQocm9vdC5jaGlsZHJlbltib2FyZFtqXVtpXV1kIGJvYXJkLCBqLCBpLCBib2FyZFtqXVtpXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZihjdXJyTm9kZS5jaGlsZHJlbltib2FyZFtqXVtpKzFdXSkgewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZihjdXJyTm9kZS5jaGlsZHJlbltib2FyZFtqXVtpLTFdXSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZihjdXJyTm9kZS5jaGlsZHJlbltib2FyZFtqKzFdW2ldXSkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
