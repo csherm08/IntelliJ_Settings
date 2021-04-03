@@ -171,6 +171,7 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/tempSaS/api/app/Services/RequestService.php" timestamp="1617476241930" />
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/middleware/one_time.js" timestamp="1616984479281">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -193,12 +194,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" timestamp="1616985312476">
+      <file name="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" timestamp="1617477179408">
         <mark key="'" line="398" column="24" />
-        <mark key="[" line="745" column="0" />
-        <mark key="]" line="746" column="175" />
-        <mark key="." line="745" column="0" />
-        <mark key="^" line="395" column="83" />
+        <mark key="[" line="738" column="13" />
+        <mark key="]" line="738" column="43" />
+        <mark key="." line="738" column="42" />
+        <mark key="^" line="738" column="43" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/frontends/html/ripley.html" timestamp="1616985327571">
         <mark key="[" line="398" column="0" />
@@ -229,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="401" column="31" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="112" column="8" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="364" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="540" column="22" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
@@ -329,6 +329,7 @@
       <jump line="2" column="47" filename="$USER_HOME$/Code/Selectasign/new_api/src/controllers/FreePromo.js" />
       <jump line="739" column="0" filename="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" />
       <jump line="398" column="24" filename="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" />
+      <jump line="729" column="32" filename="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
