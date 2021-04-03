@@ -121,11 +121,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/photobooth.js" timestamp="1616975329390">
-        <mark key="'" line="23" column="6" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/photobooth.js" timestamp="1617475920347">
+        <mark key="'" line="24" column="6" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="7" column="43" />
       </file>
       <file name="$USER_HOME$/RubymineProjects/honey/helloworld.js" timestamp="1617130134104">
         <mark key="[" line="15" column="22" />
@@ -332,8 +333,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBUT0RPIGVtYWlsIHRoYXQgdGhlIG1lc3NhZ2UgaGFzIGJlZW4gc2NoZWR1bGVkCg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -345,31 +346,31 @@
         <text encoding="base64">Y29uc29sZS5sb2coY29tcGFyZVZlcnNpb25zKCIxLjAuMS4wIiwgIjEuMC4xIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvcihsZXQgaSA9IDA7IGkgPCBzdGFjazEubGVuZ3RoOyBpKz0xKSB7CiAgICAgIGlmKHN0YWNrMVtpXSA9PT0gMCkgewogICAgICAgIHN0YWNrMS5zcGxpY2UoaSwgMSk7CiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAvLyBUT0RPIGVtYWlsIHRoYXQgdGhlIG1lc3NhZ2UgaGFzIGJlZW4gc2NoZWR1bGVkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGZvcihsZXQgaSA9IDA7IGkgPCBzdGFjazEubGVuZ3RoOyBpKz0xKSB7CiAgICAgIGlmKHN0YWNrMVtpXSA9PT0gMCkgewogICAgICAgIHN0YWNrMS5zcGxpY2UoaSwgMSk7CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYoc3RhY2syW2ldID09PSAwKSB7CiAgICAgICAgc3RhY2syLnNwbGljZShpLCAxKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgaWYoc3RhY2syW2ldID09PSAwKSB7CiAgICAgICAgc3RhY2syLnNwbGljZShpLCAxKTsKICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
