@@ -121,7 +121,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/photobooth.js" timestamp="1617475920347">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/services/photobooth.js" timestamp="1617477726539">
         <mark key="'" line="24" column="6" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -188,25 +188,22 @@
         <mark key="." line="5" column="1" />
         <mark key="^" line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20210328202120_update_free_role_table.js" timestamp="1616978472293">
-        <mark key="[" line="1" column="63" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="4" column="27" />
+      <file name="/" timestamp="1617477260688">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" timestamp="1617477179408">
+      <file name="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" timestamp="1617478177788">
         <mark key="'" line="398" column="24" />
-        <mark key="[" line="738" column="13" />
-        <mark key="]" line="738" column="43" />
-        <mark key="." line="738" column="42" />
-        <mark key="^" line="738" column="43" />
+        <mark key="[" line="738" column="33" />
+        <mark key="]" line="738" column="60" />
+        <mark key="." line="738" column="59" />
+        <mark key="^" line="738" column="60" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/frontends/html/ripley.html" timestamp="1616985327571">
         <mark key="[" line="398" column="0" />
         <mark key="]" line="398" column="83" />
         <mark key="." line="398" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1617137877398">
+      <file name="/JavaScript Console" timestamp="1617477725827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/Makefile" timestamp="1616982268583">
