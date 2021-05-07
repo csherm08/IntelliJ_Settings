@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>imageCanvasShow</entry>
         <entry>rotate(</entry>
         <entry>SIZE_MULT</entry>
         <entry>closeForm</entry>
@@ -27,6 +26,7 @@
         <entry>const APIBASE</entry>
         <entry>something went</entry>
         <entry>scheduleImage</entry>
+        <entry>fire</entry>
       </history-search>
       <history-cmd>
         <entry>Q!</entry>
@@ -140,13 +140,6 @@
         <mark key="^" line="83" column="6" />
         <mark key="." line="83" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1616981134439">
-        <mark key="'" line="52" column="34" />
-        <mark key="[" line="77" column="189" />
-        <mark key="]" line="77" column="189" />
-        <mark key="." line="77" column="189" />
-        <mark key="^" line="77" column="190" />
-      </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20210328200925_create_free_role_table.js" timestamp="1616981931344">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -171,17 +164,29 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/tempSaS/api/app/Services/RequestService.php" timestamp="1617476241930" />
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/middleware/one_time.js" timestamp="1617485740473">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="36" />
         <mark key="." line="6" column="35" />
         <mark key="^" line="6" column="36" />
       </file>
+      <file name="$USER_HOME$/Code/metabolic/index.js" timestamp="1618980204768">
+        <mark key="'" line="5" column="35" />
+        <mark key="[" line="5" column="47" />
+        <mark key="]" line="5" column="53" />
+        <mark key="^" line="5" column="53" />
+        <mark key="." line="5" column="52" />
+      </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/middleware/permission.js" timestamp="1616984390338">
         <mark key="[" line="3" column="32" />
         <mark key="]" line="3" column="32" />
         <mark key="." line="3" column="32" />
+      </file>
+      <file name="$USER_HOME$/Code/metabolic/cypress/integration/metabolic.spec.js" timestamp="1618982727288">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="47" />
+        <mark key="^" line="8" column="47" />
+        <mark key="." line="8" column="46" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/photobooth.js" timestamp="1616982838214">
         <mark key="[" line="5" column="2" />
@@ -204,7 +209,7 @@
         <mark key="]" line="398" column="83" />
         <mark key="." line="398" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1617481861108">
+      <file name="/JavaScript Console" timestamp="1618980919986">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/Makefile" timestamp="1616982268583">
@@ -213,22 +218,13 @@
         <mark key="^" line="19" column="4" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Advertisement.js" timestamp="1616981658280">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="33" />
-        <mark key="^" line="6" column="28" />
-        <mark key="." line="6" column="33" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/FreePromo.js" timestamp="1616979934973">
-        <mark key="'" line="2" column="47" />
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="3" column="10" />
+      <file name="$USER_HOME$/Code/metabolic/package.json" timestamp="1618980044121">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="8" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="364" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="540" column="22" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="171" column="47" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
@@ -328,48 +324,49 @@
       <jump line="739" column="0" filename="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" />
       <jump line="398" column="24" filename="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" />
       <jump line="729" column="32" filename="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" />
+      <jump line="5" column="35" filename="$USER_HOME$/Code/metabolic/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIGVtYWlsIHRoYXQgdGhlIG1lc3NhZ2UgaGFzIGJlZW4gc2NoZWR1bGVkCg==</text>
+        <text encoding="base64">ICBjeS5nZXQoJyN1c2VybmFtZScpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="/" type="4">
-        <text>scheduleImage</text>
+        <text>fire</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY29tcGFyZVZlcnNpb25zKCIxLjAuMS4wIiwgIjEuMC4xIikpOwo=</text>
+        <text encoding="base64">ICBjeS5nZXQoJyN1c2VybmFtZScpLnR5cGUoJ2NhcnRlcmpzaGVybWFuQGdtYWlsLmNvbScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIGVtYWlsIHRoYXQgdGhlIG1lc3NhZ2UgaGFzIGJlZW4gc2NoZWR1bGVkCg==</text>
+        <text encoding="base64">ICBjeS5nZXQoJyN1c2VybmFtZScpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvcihsZXQgaSA9IDA7IGkgPCBzdGFjazEubGVuZ3RoOyBpKz0xKSB7CiAgICAgIGlmKHN0YWNrMVtpXSA9PT0gMCkgewogICAgICAgIHN0YWNrMS5zcGxpY2UoaSwgMSk7CiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGRvbmUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdChlcnIubWVzc2FnZSkudG8uaW5jbHVkZSgnb2YgdW5kZWZpbmVkJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBjeS5nZXQoImh0dHBzOi8vY2xpZW50cy5taW5kYm9keW9ubGluZS5jb20vQVNQL3N1MS5hc3A/c3R1ZGlvaWQ9NTEwNzUxIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYoc3RhY2syW2ldID09PSAwKSB7CiAgICAgICAgc3RhY2syLnNwbGljZShpLCAxKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICBjeS52aXNpdCgiaHR0cHM6Ly9jbGllbnRzLm1pbmRib2R5b25saW5lLmNvbS9BU1Avc3UxLmFzcD9zdHVkaW9pZD01MTA3NTEiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICBjeS5nZXQoJyNyb290ID4gZGl2LmlzLWZsZXgtZGVza3RvcC5tLTAubWItMC5Ud29Db2x1bW5TaGVsbF9jb2x1bW5XcmFwcGVyX18xOHpRSiA+IGRpdi5jb2x1bW4ucC0wLnAtMy1tb2JpbGUuVHdvQ29sdW1uU2hlbGxfY29sdW1uRm9ybV9fMnhZNGwuZmxleExvZ2luVGhlbWVfY29sdW1uRm9ybV9fLW9xTGwgPiBkaXYgPiBmb3JtID4gZGl2Om50aC1jaGlsZCgxKSA+IGRpdiA+IGRpdiA+IGlucHV0JykudHlwZSgnY2FydGVyanNoZXJtYW5AZ21haWwuY29tJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -378,9 +375,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>scheduleImage</last-search>
+      <last-search>fire</last-search>
       <last-offset />
-      <last-pattern>scheduleImage</last-pattern>
+      <last-pattern>fire</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
