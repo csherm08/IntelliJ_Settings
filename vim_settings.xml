@@ -122,7 +122,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/Selectasign/new_api/knexfile.js" timestamp="1625520587030" />
-      <file name="$USER_HOME$/Code/frese/knexfile.js" timestamp="1625520629122">
+      <file name="$USER_HOME$/Code/frese/knexfile.js" timestamp="1625523872764">
         <mark key="[" line="42" column="17" />
         <mark key="]" line="42" column="17" />
         <mark key="." line="42" column="17" />
@@ -166,7 +166,7 @@
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20191006_initial_schema.js" timestamp="1625522357698" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20191006_initial_schema.js" timestamp="1625523824923" />
       <file name="$USER_HOME$/Code/Selectasign/new_api/.env" timestamp="1625521040450" />
       <file name="$USER_HOME$/Code/frese/private.key" timestamp="1625520432623">
         <mark key="[" line="0" column="0" />
@@ -183,7 +183,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frese/docker-compose.yml" timestamp="1625522193570">
+      <file name="$USER_HOME$/Code/frese/docker-compose.yml" timestamp="1625524020685">
         <mark key="[" line="22" column="22" />
         <mark key="]" line="22" column="27" />
         <mark key="^" line="22" column="27" />
@@ -195,11 +195,11 @@
         <mark key="^" line="7" column="44" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frese/migrations/20210705215837_create-initial-schema.js" timestamp="1625522412569">
-        <mark key="[" line="24" column="22" />
-        <mark key="]" line="24" column="22" />
-        <mark key="." line="24" column="22" />
-        <mark key="^" line="22" column="24" />
+      <file name="$USER_HOME$/Code/frese/migrations/20210705215837_create-initial-schema.js" timestamp="1625523740726">
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="41" column="28" />
+        <mark key="." line="41" column="27" />
+        <mark key="^" line="41" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -308,43 +308,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>starttime</text>
+        <text>photoPath</text>
       </register>
       <register name="-" type="4">
-        <text>starttime</text>
+        <text>photoPath</text>
       </register>
       <register name="/" type="4">
         <text>sas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjeS5nZXQoJyN1c2VybmFtZScpLnR5cGUoJ2NhcnRlcmpzaGVybWFuQGdtYWlsLmNvbScpOwo=</text>
+        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHsKICAgICAgcmV0dXJuIGtuZXgoInR5cGVzIikuaW5zZXJ0KFsKICAgICAgICB7bmFtZTogIkVudHJlZSJ9LAogICAgICAgIHtuYW1lOiAiQXBwZXRpemVyIn0sCiAgICAgICAge25hbWU6ICJTcGVjaWFsIn0sCiAgICAgICAge25hbWU6ICJEZXNzZXJ0In0sCiAgICAgICAge25hbWU6ICJPdGhlciJ9CiAgICAgIF0pCiAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuZGVmYXVsdFRvKDApOwo=</text>
+        <text encoding="base64">ICAgIC5kcm9wVGFibGVJZkV4aXN0cygncm9sZXMnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiLAo=</text>
+        <text encoding="base64">ICAgIC5kcm9wVGFibGVJZkV4aXN0cygncm9sZV91c2VyJykKICAgIC5kcm9wVGFibGVJZkV4aXN0cygncHJvbW9fdXNlcnMnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZG90ZW52LmNvbmZpZyk7Cg==</text>
+        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHsKICAgICAgcmV0dXJuIGtuZXgoInByb2R1Y3RzIikuaW5zZXJ0KFsKICAgICAgICB7bmFtZTogIkVudHJlZSJ9LAogICAgICAgIHtuYW1lOiAiQXBwZXRpemVyIn0sCiAgICAgICAge25hbWU6ICJTcGVjaWFsIn0sCiAgICAgICAge25hbWU6ICJEZXNzZXJ0In0sCiAgICAgICAge25hbWU6ICJPdGhlciJ9CiAgICAgIF0pCiAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0tLS1FTkQgUlNBIFBSSVZBVEUgS0VZLS0tLS0K</text>
+        <text encoding="base64">ICAgIC50aGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgc3dhZ2dlckpzZG9jIGZyb20gKCdzd2FnZ2VyLWpzZG9jJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGFibGUKICAgICAgICAuc3RyaW5nKCd2ZXJpZmljYXRpb25Ub2tlbicpOwogICAgICB0YWJsZQogICAgICAgIC5zdHJpbmcoJ2ZvcmdvdFBhc3N3b3JkVG9rZW4nKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlcnZlcnM6IFsK</text>
+        <text encoding="base64">ICAgICAgICB7bmFtZTogIiIsIHNsdWc6ICJ1c2VyIiwgZGVzY3JpcHRpb246IG51bGwsIGxldmVsOiAxfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHVybDogImh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9ib29rcyIsCiAgICAgIH0sCiAgICBdLAo=</text>
+        <text encoding="base64">ICAgIC5jcmVhdGVUYWJsZSgncm9sZV91c2VyJywgdGFibGUgPT4gewogICAgICB0YWJsZS5pbmNyZW1lbnRzKCdpZCcpLnByaW1hcnkoKS51bnNpZ25lZCgpLm5vdE51bGxhYmxlKCk7CiAgICAgIHRhYmxlLmludGVnZXIoJ3VzZXJfaWQnKS5ub3ROdWxsYWJsZSgpOwogICAgICB0YWJsZS5pbnRlZ2VyKCdyb2xlX2lkJykubm90TnVsbGFibGUoKTsKICAgICAgdGFibGUudGltZXN0YW1wcyh0cnVlLCB0cnVlKTsKICAgIH0pCiAgICAuY3JlYXRlVGFibGUoJ3Byb21vX3VzZXJzJywgdGFibGUgPT4gewogICAgICB0YWJsZS5pbmNyZW1lbnRzKCdpZCcpLnByaW1hcnkoKS51bnNpZ25lZCgpLm5vdE51bGxhYmxlKCk7CiAgICAgIHRhYmxlLnRpbWVzdGFtcHModHJ1ZSwgdHJ1ZSk7CiAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNvbnN0IG9wdGlvbnMgPSB7CiAgZGVmaW5pdGlvbjogewogICAgb3BlbmFwaTogIjMuMC4wIiwKICAgIGluZm86IHsKICAgICAgdGl0bGU6ICJMb2dSb2NrZXQgRXhwcmVzcyBBUEkgd2l0aCBTd2FnZ2VyIiwKICAgICAgdmVyc2lvbjogIjAuMS4wIiwKICAgICAgZGVzY3JpcHRpb246CiAgICAgICAgIlRoaXMgaXMgYSBzaW1wbGUgQ1JVRCBBUEkgYXBwbGljYXRpb24gbWFkZSB3aXRoIEV4cHJlc3MgYW5kIGRvY3VtZW50ZWQgd2l0aCBTd2FnZ2VyIiwKICAgICAgbGljZW5zZTogewogICAgICAgIG5hbWU6ICJNSVQiLAogICAgICAgIHVybDogImh0dHBzOi8vc3BkeC5vcmcvbGljZW5zZXMvTUlULmh0bWwiLAogICAgICB9LAogICAgICBjb250YWN0OiB7CiAgICAgICAgbmFtZTogIkNhcnRlciBTaGVybWFuIiwKICAgICAgICB1cmw6ICJodHRwczovL2FwcC5zZWxlY3Rhc2lnbi5jb20iLAogICAgICAgIGVtYWlsOiAiY2FydGVyanNoZXJtYW5AZ21haWwuY29tIiwKICAgICAgfSwKICAgIH0sCiAgICBzZXJ2ZXJzOiBbCiAgICAgIHsKICAgICAgICB1cmw6ICJodHRwOi8vbG9jYWxob3N0OjMwMDAvYm9va3MiLAogICAgICB9LAogICAgXSwKICB9LAogIGFwaXM6IFsiLi9yb3V0ZXMvYm9va3MuanMiXSwKfTsKCmNvbnN0IHNwZWNzID0gc3dhZ2dlckpzZG9jKG9wdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgICAgdGFibGUuaW50ZWdlcignbGV2ZWwnKS51bnNpZ25lZCgpLm5vdE51bGxhYmxlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5jcmVhdGVUYWJsZSgncmVxdWVzdHMnLCB0YWJsZSA9PiB7CiAgICAgIHRhYmxlLmluY3JlbWVudHMoJ2lkJykucHJpbWFyeSgpLnVuc2lnbmVkKCkubm90TnVsbGFibGUoKTsKICAgICAgdGFibGUuc3RyaW5nKCdzdGF0dXMnKS5ub3ROdWxsYWJsZSgpLmRlZmF1bHRUbygnUGVuZGluZycpOwogICAgICB0YWJsZS5pbnRlZ2VyKCdsb2FkJykubm90TnVsbGFibGUoKS5kZWZhdWx0VG8oMSk7CiAgICAgIHRhYmxlLnN0cmluZygnZW1haWwnKS5ub3ROdWxsYWJsZSgpOwogICAgICB0YWJsZS5zdHJpbmcoJ2Jvb3RoSWQnKS5ub3ROdWxsYWJsZSgpOwogICAgICB0YWJsZS5zdHJpbmcoJ29wZXJhdG9yJykubm90TnVsbGFibGUoKTsKICAgICAgdGFibGUuc3RyaW5nKCdib290aF9uYW1lJykubm90TnVsbGFibGUoKTsKICAgICAgdGFibGUuc3RyaW5nKCdyZXNwb25zZVN0YXR1cycpLm5vdE51bGxhYmxlKCkuZGVmYXVsdFRvKCdQZW5kaW5nJyk7CiAgICAgIHRhYmxlLnRpbWVzdGFtcHModHJ1ZSwgdHJ1ZSk7CiAgICB9KQogICAgLmNyZWF0ZVRhYmxlKCd0aW1lc2xvdHMnLCB0YWJsZSA9PiB7CiAgICAgIHRhYmxlLmluY3JlbWVudHMoJ2lkJykucHJpbWFyeSgpLnVuc2lnbmVkKCkubm90TnVsbGFibGUoKTsKICAgICAgdGFibGUuZGF0ZVRpbWUoJ3N0YXJ0dGltZScpLm5vdE51bGxhYmxlKCk7CiAgICAgIHRhYmxlLmRhdGVUaW1lKCdlbmR0aW1lJykubm90TnVsbGFibGUoKTsKICAgICAgdGFibGUudGltZXN0YW1wcyh0cnVlLCB0cnVlKTsKICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
