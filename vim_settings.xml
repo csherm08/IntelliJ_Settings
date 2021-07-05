@@ -29,7 +29,6 @@
         <entry>errorhandler</entry>
       </history-search>
       <history-cmd>
-        <entry>Q!</entry>
         <entry>wq</entry>
         <entry>60</entry>
         <entry>q!</entry>
@@ -47,8 +46,9 @@
         <entry>720</entry>
         <entry>402</entry>
         <entry>W</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz4x</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -173,7 +173,7 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/middleware/permission.js" timestamp="1616984390338">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/middleware/permission.js" timestamp="1625519053377">
         <mark key="[" line="3" column="32" />
         <mark key="]" line="3" column="32" />
         <mark key="." line="3" column="32" />
@@ -184,17 +184,11 @@
         <mark key="^" line="8" column="47" />
         <mark key="." line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/server.js" timestamp="1620355694404">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/server.js" timestamp="1625518608211">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="30" />
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="29" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/photobooth.js" timestamp="1616982838214">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="5" column="2" />
-        <mark key="." line="5" column="1" />
-        <mark key="^" line="5" column="2" />
       </file>
       <file name="/" timestamp="1617477260688">
         <mark key="[" line="0" column="0" />
@@ -206,11 +200,7 @@
         <mark key="." line="738" column="59" />
         <mark key="^" line="738" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/frontends/html/ripley.html" timestamp="1616985327571">
-        <mark key="[" line="398" column="0" />
-        <mark key="]" line="398" column="83" />
-        <mark key="." line="398" column="0" />
-      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.cjs" timestamp="1625518788333" />
       <file name="/JavaScript Console" timestamp="1620355681842">
         <mark key="[" line="0" column="0" />
       </file>
@@ -223,6 +213,7 @@
       <file name="$USER_HOME$/Code/Selectasign/new_api/package.json" timestamp="1620355432141">
         <mark key="'" line="6" column="54" />
       </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/util/logger.js" timestamp="1625518682976" />
       <file name="$USER_HOME$/Code/metabolic/package.json" timestamp="1618980044121">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -374,7 +365,7 @@
         <text encoding="base64">ICAgIGRvbmUoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
   </component>
