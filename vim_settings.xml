@@ -127,7 +127,7 @@
         <mark key="^" line="30" column="27" />
         <mark key="." line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/frese/src/controllers/product.js" timestamp="1625531428965">
+      <file name="$USER_HOME$/Code/frese/src/controllers/product.js" timestamp="1625531431373">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -146,8 +146,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/config/passport.js" timestamp="1625527380858" />
-      <file name="$USER_HOME$/Code/frese/src/controllers/user.js" timestamp="1625529070141">
+      <file name="$USER_HOME$/Code/frese/src/controllers/user.js" timestamp="1625532043147">
         <mark key="'" line="5" column="8" />
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -180,7 +179,6 @@
         <mark key="." line="21" column="46" />
       </file>
       <file name="$USER_HOME$/Code/frese/public_key.txt" timestamp="1625529314189" />
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Roles.js" timestamp="1625526580181" />
       <file name="$USER_HOME$/Code/frese/config/passport.js" timestamp="1625530606024">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -203,7 +201,19 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="56" column="60" />
       </file>
+      <file name="$USER_HOME$/Code/frese/src/controllers/order_item.js" timestamp="1625531921745">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="15" />
+      </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/User.js" timestamp="1625529993563" />
+      <file name="$USER_HOME$/Code/frese/src/controllers/order.js" timestamp="1625532021349">
+        <mark key="[" line="8" column="51" />
+        <mark key="]" line="8" column="51" />
+        <mark key="." line="8" column="50" />
+        <mark key="^" line="8" column="51" />
+      </file>
       <file name="$USER_HOME$/Code/frese/migrations/20210705215837_create-initial-schema.js" timestamp="1625530593138">
         <mark key="'" line="84" column="24" />
         <mark key="[" line="41" column="57" />
@@ -317,11 +327,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiVEVTVCIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>OrderItems</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IE9yZGVySXRlbQ==</text>
+        <text>OrderItems</text>
       </register>
       <register name="/" type="4">
         <text>products</text>
@@ -330,31 +340,31 @@
         <text encoding="base64">ICAgICAgdGFibGUuaW50ZWdlcigndHlwZScpLm5vdE51bGxhYmxlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiVEVTVCIpOwo=</text>
+        <text encoding="base64">ICAgICAgcXVhbnRpdHkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdHlwZTogdHlwZVJlcy5pZCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdGF0aWMgYXN5bmMgaW5zZXJ0Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpY2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBPcmRlckl0ZW0gPSByZXF1aXJlKCcuL09yZGVySXRlbXMnKTsK</text>
+        <text encoding="base64">ICAgICAgZGVzY3JpcHRpb24sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IE9yZGVySXRlbXMgPSByZXF1aXJlKCcuL09yZGVySXRlbXMnKTsK</text>
+        <text encoding="base64">ICAgICAgdGl0bGUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdGF0aWMgYXN5bmMgc2lnbnVwQWRtaW4oZ3JhcGgpIHsKICAgIGNvbnN0IHZlcmlmaWVkID0gKHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAncHJvZHVjdGlvbicpID8gMCA6IDE7CiAgICBjb25zdCB1c2VyX3JvbGUgPSBhd2FpdCBSb2xlcy5xdWVyeSgpLmZpbmRPbmUoIm5hbWUiLCBncmFwaC5yb2xlKTsKICAgIHJldHVybiBVc2VyLnF1ZXJ5KCkudXBzZXJ0R3JhcGgoW3sKICAgICAgZW1haWw6IGdyYXBoLmVtYWlsLAogICAgICBwYXNzd29yZDogZ3JhcGgucGFzc3dvcmQsCiAgICAgIHZlcmlmaWVkLAogICAgICByb2xlX2lkOiB1c2VyX3JvbGUuaWQKICAgIH1dLCB7CiAgICAgIHJlbGF0ZTogdHJ1ZSwKICAgIH0pOwogIH07CgogIHN0YXRpYyBhc3luYyBzaWdudXAoZ3JhcGgpIHsKICAgIGNvbnN0IHZlcmlmaWVkID0gKHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAncHJvZHVjdGlvbicpID8gMCA6IDE7CiAgICBjb25zdCB1c2VyX3JvbGUgPSBhd2FpdCBSb2xlcy5xdWVyeSgpLmZpbmRPbmUoIm5hbWUiLCAiQ3VzdG9tZXIiKTsKICAgIHJldHVybiBVc2VyLnF1ZXJ5KCkudXBzZXJ0R3JhcGhBbmRGZXRjaChbewogICAgICBlbWFpbDogZ3JhcGguZW1haWwsCiAgICAgIHBhc3N3b3JkOiBncmFwaC5wYXNzd29yZCwKICAgICAgdmVyaWZpZWQsCiAgICAgIHJvbGVfaWQ6IHVzZXJfcm9sZS5pZAogICAgfV0sIHsKICAgICAgcmVsYXRlOiB0cnVlLAogICAgfSk7CiAgfTsKCiAgc3RhdGljIGFzeW5jIGdldFVzZXJXaXRoUm9sZShpZCkgewogICAgcmV0dXJuIFVzZXIucXVlcnkoKS5maW5kQnlJZChpZCkud2l0aEdyYXBoSm9pbmVkKCdyb2xlJyk7CiAgfQoKICBzdGF0aWMgYXN5bmMgZ2V0Um9sZUJ5VXNlcih1c2VyKSB7CiAgICByZXR1cm4gdXNlci4kcmVsYXRlZFF1ZXJ5KCdyb2xlJyk7CiAgfQoKICBzdGF0aWMgYXN5bmMgZ2V0VXNlckJ5SWQoaWQpIHsKICAgIHJldHVybiBVc2VyLnF1ZXJ5KCkuZmluZEJ5SWQoaWQpOwogIH07CiAgc3RhdGljIGFzeW5jIGdldFVzZXIoZW1haWwpIHsKICAgIHJldHVybiBVc2VyLnF1ZXJ5KCkuZmluZE9uZSgnZW1haWwnLCBlbWFpbCk7CiAgfTsKICBzdGF0aWMgYXN5bmMgZ2V0QWxsVXNlcnMoKSB7CiAgICByZXR1cm4gdHJhbnNhY3Rpb24oVXNlci5rbmV4KCksIHRyeCA9PiB7CiAgICAgIHJldHVybiBVc2VyLnF1ZXJ5KHRyeCk7CiAgICB9KQogIH07CiAgc3RhdGljIGFzeW5jIGRlbGV0ZUFsbCgpIHsKICAgIGlmKHByb2Nlc3MuZW52Lk5PREVfRU5WICE9PSAiZGV2ZWxvcG1lbnQiKSB7CiAgICAgIHJldHVybiBib29tLmJhZFJlcXVlc3QoYEFjdGlvbiBub3QgYWxsb3dlZCBpbiAke3Byb2Nlc3MuZW52Lk5PREVfRU5WfWAsIHtzdGF0dXNDb2RlOiA0MDR9KTsKICAgIH0KICAgIHJldHVybiB0cmFuc2FjdGlvbihVc2VyLmtuZXgoKSwgdHJ4ID0+IHsKICAgICAgcmV0dXJuICgKICAgICAgICBVc2VyLnF1ZXJ5KHRyeCkKICAgICAgICAgIC5kZWxldGUoKQogICAgICApOwogICAgfSk7CiAgfQo=</text>
+        <text encoding="base64">Y29uc3QgVHlwZXMgPSByZXF1aXJlKCIuLi9tb2RlbHMvVHlwZXMiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygic3NIRVJFIik7Cg==</text>
+        <text encoding="base64">ICBjb25zdCB0eXBlUmVzID0gYXdhaXQgVHlwZXMuZ2V0QnlOYW1lKHR5cGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIkhFUkUiKTsK</text>
+        <text encoding="base64">ICBjb25zdCB7LCBkZXNjcmlwdGlvbiwgcHJpY2UsIHR5cGUsIHF1YW50aXR5IH0gPSByZXEuYm9keTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiVEVTVCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
