@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>span</entry>
-        <entry>openForm</entry>
-        <entry>Success</entry>
         <entry>alert</entry>
         <entry>myModal</entry>
         <entry>alertModal</entry>
@@ -27,6 +24,9 @@
         <entry>knexConfig</entry>
         <entry>winston</entry>
         <entry>sas</entry>
+        <entry>sendEma</entry>
+        <entry>types</entry>
+        <entry>products</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -121,95 +121,98 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/knexfile.js" timestamp="1625520587030" />
-      <file name="$USER_HOME$/Code/frese/knexfile.js" timestamp="1625523872764">
-        <mark key="[" line="42" column="17" />
-        <mark key="]" line="42" column="17" />
-        <mark key="." line="42" column="17" />
-        <mark key="^" line="39" column="17" />
+      <file name="$USER_HOME$/Code/frese/src/models/OrderItems.js" timestamp="1625531284177">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="30" column="27" />
+        <mark key="^" line="30" column="27" />
+        <mark key="." line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/Dockerfile" timestamp="1625522166372">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="11" />
+      <file name="$USER_HOME$/Code/frese/src/controllers/product.js" timestamp="1625531428965">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/docker-compose.yml" timestamp="1625522168664" />
-      <file name="$USER_HOME$/Code/frese/config/passport.js" timestamp="1625520513282" />
-      <file name="/JavaScript Console" timestamp="1625522117731">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Code/frese/src/models/Orders.js" timestamp="1625531067672">
+        <mark key="[" line="42" column="16" />
+        <mark key="]" line="42" column="22" />
+        <mark key="." line="42" column="21" />
+        <mark key="^" line="42" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/package.json" timestamp="1625522323144">
-        <mark key="'" line="17" column="60" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/.env" timestamp="1625522111859">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="26" />
-        <mark key="^" line="1" column="26" />
-        <mark key="." line="1" column="25" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/src/server.js" timestamp="1625522035324">
-        <mark key="[" line="12" column="93" />
-        <mark key="]" line="12" column="93" />
-        <mark key="^" line="12" column="86" />
-        <mark key="." line="12" column="93" />
-      </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1625521333938">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Advertisement.js" timestamp="1625529625765" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1625529252441">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frese/src/util/logger.js" timestamp="1625520906199">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="36" />
-        <mark key="." line="4" column="35" />
-        <mark key="^" line="4" column="36" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/config/passport.js" timestamp="1625527380858" />
+      <file name="$USER_HOME$/Code/frese/src/controllers/user.js" timestamp="1625529070141">
+        <mark key="'" line="5" column="8" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="41" column="27" />
+        <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20191006_initial_schema.js" timestamp="1625523824923" />
-      <file name="$USER_HOME$/Code/Selectasign/new_api/.env" timestamp="1625521040450" />
-      <file name="$USER_HOME$/Code/frese/private.key" timestamp="1625520432623">
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/photobooth.js" timestamp="1625528282576">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="2" />
+        <mark key="." line="5" column="1" />
+        <mark key="^" line="5" column="2" />
+      </file>
+      <file name="$USER_HOME$/Code/frese/private_key.txt" timestamp="1625529324874" />
+      <file name="$USER_HOME$/Code/frese/src/app.js" timestamp="1625529146873">
+        <mark key="'" line="15" column="56" />
+        <mark key="[" line="55" column="74" />
+        <mark key="]" line="55" column="74" />
+        <mark key="." line="55" column="74" />
+      </file>
+      <file name="$USER_HOME$/Code/frese/src/models/Product.js" timestamp="1625531417543">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/frese/src/models/Types.js" timestamp="1625530041180">
+        <mark key="'" line="29" column="37" />
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="47" />
+        <mark key="^" line="21" column="47" />
+        <mark key="." line="21" column="46" />
+      </file>
+      <file name="$USER_HOME$/Code/frese/public_key.txt" timestamp="1625529314189" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/Roles.js" timestamp="1625526580181" />
+      <file name="$USER_HOME$/Code/frese/config/passport.js" timestamp="1625530606024">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1625530897778">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.cjs" timestamp="1625520711562">
-        <mark key="'" line="35" column="41" />
+      <file name="$USER_HOME$/Code/frese/src/server.js" timestamp="1625528544172">
+        <mark key="[" line="12" column="93" />
+        <mark key="]" line="12" column="93" />
+        <mark key="^" line="12" column="86" />
+        <mark key="." line="12" column="93" />
       </file>
-      <file name="$USER_HOME$/Code/frese/src/app.js" timestamp="1625522105150">
-        <mark key="'" line="20" column="36" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Code/frese/src/models/User.js" timestamp="1625530979902">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="56" column="60" />
       </file>
-      <file name="$USER_HOME$/Code/frese/docker-compose.yml" timestamp="1625524020685">
-        <mark key="[" line="22" column="22" />
-        <mark key="]" line="22" column="27" />
-        <mark key="^" line="22" column="27" />
-        <mark key="." line="22" column="26" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/package.json" timestamp="1625522259101">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="7" column="44" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/migrations/20210705215837_create-initial-schema.js" timestamp="1625523740726">
-        <mark key="[" line="41" column="20" />
-        <mark key="]" line="41" column="28" />
-        <mark key="." line="41" column="27" />
-        <mark key="^" line="41" column="28" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/models/User.js" timestamp="1625529993563" />
+      <file name="$USER_HOME$/Code/frese/migrations/20210705215837_create-initial-schema.js" timestamp="1625530593138">
+        <mark key="'" line="84" column="24" />
+        <mark key="[" line="41" column="57" />
+        <mark key="]" line="42" column="60" />
+        <mark key="." line="42" column="59" />
+        <mark key="^" line="42" column="60" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="309" column="159" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="344" column="26" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="108" column="4" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="198" column="11" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="161" column="28" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="195" column="11" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
-      <jump line="139" column="37" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="205" column="36" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="209" column="29" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="111" column="9" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
@@ -303,48 +306,55 @@
       <jump line="17" column="60" filename="$USER_HOME$/Code/Selectasign/new_api/package.json" />
       <jump line="26" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/src/app.js" />
       <jump line="20" column="36" filename="$USER_HOME$/Code/frese/src/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frese/src/controllers/user.js" />
+      <jump line="5" column="8" filename="$USER_HOME$/Code/frese/src/controllers/user.js" />
+      <jump line="15" column="56" filename="$USER_HOME$/Code/frese/src/app.js" />
+      <jump line="84" column="16" filename="$USER_HOME$/Code/frese/migrations/20210705215837_create-initial-schema.js" />
+      <jump line="72" column="24" filename="$USER_HOME$/Code/frese/migrations/20210705215837_create-initial-schema.js" />
+      <jump line="82" column="24" filename="$USER_HOME$/Code/frese/migrations/20210705215837_create-initial-schema.js" />
+      <jump line="25" column="37" filename="$USER_HOME$/Code/frese/src/models/Types.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>photoPath</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiVEVTVCIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>photoPath</text>
+        <text encoding="base64">IE9yZGVySXRlbQ==</text>
       </register>
       <register name="/" type="4">
-        <text>sas</text>
+        <text>products</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHsKICAgICAgcmV0dXJuIGtuZXgoInR5cGVzIikuaW5zZXJ0KFsKICAgICAgICB7bmFtZTogIkVudHJlZSJ9LAogICAgICAgIHtuYW1lOiAiQXBwZXRpemVyIn0sCiAgICAgICAge25hbWU6ICJTcGVjaWFsIn0sCiAgICAgICAge25hbWU6ICJEZXNzZXJ0In0sCiAgICAgICAge25hbWU6ICJPdGhlciJ9CiAgICAgIF0pCiAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgdGFibGUuaW50ZWdlcigndHlwZScpLm5vdE51bGxhYmxlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5kcm9wVGFibGVJZkV4aXN0cygncm9sZXMnKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiVEVTVCIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5kcm9wVGFibGVJZkV4aXN0cygncm9sZV91c2VyJykKICAgIC5kcm9wVGFibGVJZkV4aXN0cygncHJvbW9fdXNlcnMnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHsKICAgICAgcmV0dXJuIGtuZXgoInByb2R1Y3RzIikuaW5zZXJ0KFsKICAgICAgICB7bmFtZTogIkVudHJlZSJ9LAogICAgICAgIHtuYW1lOiAiQXBwZXRpemVyIn0sCiAgICAgICAge25hbWU6ICJTcGVjaWFsIn0sCiAgICAgICAge25hbWU6ICJEZXNzZXJ0In0sCiAgICAgICAge25hbWU6ICJPdGhlciJ9CiAgICAgIF0pCiAgICB9KQo=</text>
+        <text encoding="base64">ICBzdGF0aWMgYXN5bmMgaW5zZXJ0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC50aGUK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBPcmRlckl0ZW0gPSByZXF1aXJlKCcuL09yZGVySXRlbXMnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGFibGUKICAgICAgICAuc3RyaW5nKCd2ZXJpZmljYXRpb25Ub2tlbicpOwogICAgICB0YWJsZQogICAgICAgIC5zdHJpbmcoJ2ZvcmdvdFBhc3N3b3JkVG9rZW4nKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IE9yZGVySXRlbXMgPSByZXF1aXJlKCcuL09yZGVySXRlbXMnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7bmFtZTogIiIsIHNsdWc6ICJ1c2VyIiwgZGVzY3JpcHRpb246IG51bGwsIGxldmVsOiAxfSwK</text>
+        <text encoding="base64">ICBzdGF0aWMgYXN5bmMgc2lnbnVwQWRtaW4oZ3JhcGgpIHsKICAgIGNvbnN0IHZlcmlmaWVkID0gKHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAncHJvZHVjdGlvbicpID8gMCA6IDE7CiAgICBjb25zdCB1c2VyX3JvbGUgPSBhd2FpdCBSb2xlcy5xdWVyeSgpLmZpbmRPbmUoIm5hbWUiLCBncmFwaC5yb2xlKTsKICAgIHJldHVybiBVc2VyLnF1ZXJ5KCkudXBzZXJ0R3JhcGgoW3sKICAgICAgZW1haWw6IGdyYXBoLmVtYWlsLAogICAgICBwYXNzd29yZDogZ3JhcGgucGFzc3dvcmQsCiAgICAgIHZlcmlmaWVkLAogICAgICByb2xlX2lkOiB1c2VyX3JvbGUuaWQKICAgIH1dLCB7CiAgICAgIHJlbGF0ZTogdHJ1ZSwKICAgIH0pOwogIH07CgogIHN0YXRpYyBhc3luYyBzaWdudXAoZ3JhcGgpIHsKICAgIGNvbnN0IHZlcmlmaWVkID0gKHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAncHJvZHVjdGlvbicpID8gMCA6IDE7CiAgICBjb25zdCB1c2VyX3JvbGUgPSBhd2FpdCBSb2xlcy5xdWVyeSgpLmZpbmRPbmUoIm5hbWUiLCAiQ3VzdG9tZXIiKTsKICAgIHJldHVybiBVc2VyLnF1ZXJ5KCkudXBzZXJ0R3JhcGhBbmRGZXRjaChbewogICAgICBlbWFpbDogZ3JhcGguZW1haWwsCiAgICAgIHBhc3N3b3JkOiBncmFwaC5wYXNzd29yZCwKICAgICAgdmVyaWZpZWQsCiAgICAgIHJvbGVfaWQ6IHVzZXJfcm9sZS5pZAogICAgfV0sIHsKICAgICAgcmVsYXRlOiB0cnVlLAogICAgfSk7CiAgfTsKCiAgc3RhdGljIGFzeW5jIGdldFVzZXJXaXRoUm9sZShpZCkgewogICAgcmV0dXJuIFVzZXIucXVlcnkoKS5maW5kQnlJZChpZCkud2l0aEdyYXBoSm9pbmVkKCdyb2xlJyk7CiAgfQoKICBzdGF0aWMgYXN5bmMgZ2V0Um9sZUJ5VXNlcih1c2VyKSB7CiAgICByZXR1cm4gdXNlci4kcmVsYXRlZFF1ZXJ5KCdyb2xlJyk7CiAgfQoKICBzdGF0aWMgYXN5bmMgZ2V0VXNlckJ5SWQoaWQpIHsKICAgIHJldHVybiBVc2VyLnF1ZXJ5KCkuZmluZEJ5SWQoaWQpOwogIH07CiAgc3RhdGljIGFzeW5jIGdldFVzZXIoZW1haWwpIHsKICAgIHJldHVybiBVc2VyLnF1ZXJ5KCkuZmluZE9uZSgnZW1haWwnLCBlbWFpbCk7CiAgfTsKICBzdGF0aWMgYXN5bmMgZ2V0QWxsVXNlcnMoKSB7CiAgICByZXR1cm4gdHJhbnNhY3Rpb24oVXNlci5rbmV4KCksIHRyeCA9PiB7CiAgICAgIHJldHVybiBVc2VyLnF1ZXJ5KHRyeCk7CiAgICB9KQogIH07CiAgc3RhdGljIGFzeW5jIGRlbGV0ZUFsbCgpIHsKICAgIGlmKHByb2Nlc3MuZW52Lk5PREVfRU5WICE9PSAiZGV2ZWxvcG1lbnQiKSB7CiAgICAgIHJldHVybiBib29tLmJhZFJlcXVlc3QoYEFjdGlvbiBub3QgYWxsb3dlZCBpbiAke3Byb2Nlc3MuZW52Lk5PREVfRU5WfWAsIHtzdGF0dXNDb2RlOiA0MDR9KTsKICAgIH0KICAgIHJldHVybiB0cmFuc2FjdGlvbihVc2VyLmtuZXgoKSwgdHJ4ID0+IHsKICAgICAgcmV0dXJuICgKICAgICAgICBVc2VyLnF1ZXJ5KHRyeCkKICAgICAgICAgIC5kZWxldGUoKQogICAgICApOwogICAgfSk7CiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5jcmVhdGVUYWJsZSgncm9sZV91c2VyJywgdGFibGUgPT4gewogICAgICB0YWJsZS5pbmNyZW1lbnRzKCdpZCcpLnByaW1hcnkoKS51bnNpZ25lZCgpLm5vdE51bGxhYmxlKCk7CiAgICAgIHRhYmxlLmludGVnZXIoJ3VzZXJfaWQnKS5ub3ROdWxsYWJsZSgpOwogICAgICB0YWJsZS5pbnRlZ2VyKCdyb2xlX2lkJykubm90TnVsbGFibGUoKTsKICAgICAgdGFibGUudGltZXN0YW1wcyh0cnVlLCB0cnVlKTsKICAgIH0pCiAgICAuY3JlYXRlVGFibGUoJ3Byb21vX3VzZXJzJywgdGFibGUgPT4gewogICAgICB0YWJsZS5pbmNyZW1lbnRzKCdpZCcpLnByaW1hcnkoKS51bnNpZ25lZCgpLm5vdE51bGxhYmxlKCk7CiAgICAgIHRhYmxlLnRpbWVzdGFtcHModHJ1ZSwgdHJ1ZSk7CiAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygic3NIRVJFIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGFibGUuaW50ZWdlcignbGV2ZWwnKS51bnNpZ25lZCgpLm5vdE51bGxhYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIkhFUkUiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5jcmVhdGVUYWJsZSgncmVxdWVzdHMnLCB0YWJsZSA9PiB7CiAgICAgIHRhYmxlLmluY3JlbWVudHMoJ2lkJykucHJpbWFyeSgpLnVuc2lnbmVkKCkubm90TnVsbGFibGUoKTsKICAgICAgdGFibGUuc3RyaW5nKCdzdGF0dXMnKS5ub3ROdWxsYWJsZSgpLmRlZmF1bHRUbygnUGVuZGluZycpOwogICAgICB0YWJsZS5pbnRlZ2VyKCdsb2FkJykubm90TnVsbGFibGUoKS5kZWZhdWx0VG8oMSk7CiAgICAgIHRhYmxlLnN0cmluZygnZW1haWwnKS5ub3ROdWxsYWJsZSgpOwogICAgICB0YWJsZS5zdHJpbmcoJ2Jvb3RoSWQnKS5ub3ROdWxsYWJsZSgpOwogICAgICB0YWJsZS5zdHJpbmcoJ29wZXJhdG9yJykubm90TnVsbGFibGUoKTsKICAgICAgdGFibGUuc3RyaW5nKCdib290aF9uYW1lJykubm90TnVsbGFibGUoKTsKICAgICAgdGFibGUuc3RyaW5nKCdyZXNwb25zZVN0YXR1cycpLm5vdE51bGxhYmxlKCkuZGVmYXVsdFRvKCdQZW5kaW5nJyk7CiAgICAgIHRhYmxlLnRpbWVzdGFtcHModHJ1ZSwgdHJ1ZSk7CiAgICB9KQogICAgLmNyZWF0ZVRhYmxlKCd0aW1lc2xvdHMnLCB0YWJsZSA9PiB7CiAgICAgIHRhYmxlLmluY3JlbWVudHMoJ2lkJykucHJpbWFyeSgpLnVuc2lnbmVkKCkubm90TnVsbGFibGUoKTsKICAgICAgdGFibGUuZGF0ZVRpbWUoJ3N0YXJ0dGltZScpLm5vdE51bGxhYmxlKCk7CiAgICAgIHRhYmxlLmRhdGVUaW1lKCdlbmR0aW1lJykubm90TnVsbGFibGUoKTsKICAgICAgdGFibGUudGltZXN0YW1wcyh0cnVlLCB0cnVlKTsKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -353,9 +363,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>sas</last-search>
+      <last-search>products</last-search>
       <last-offset />
-      <last-pattern>sas</last-pattern>
+      <last-pattern>products</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
