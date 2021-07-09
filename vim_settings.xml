@@ -171,6 +171,11 @@
         <mark key="^" line="59" column="28" />
         <mark key="." line="59" column="27" />
       </file>
+      <file name="$USER_HOME$/Code/frese/freseApp/src/app/app.component.html" timestamp="1625629398562">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/frese/src/models/Orders.js" timestamp="1625622907402">
         <mark key="[" line="22" column="18" />
         <mark key="]" line="22" column="24" />
@@ -214,12 +219,6 @@
         <mark key="]" line="23" column="32" />
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="32" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/src/server.js" timestamp="1625528544172">
-        <mark key="[" line="12" column="93" />
-        <mark key="]" line="12" column="93" />
-        <mark key="^" line="12" column="86" />
-        <mark key="." line="12" column="93" />
       </file>
       <file name="$USER_HOME$/Code/frese/migrations/20210705215837_create-initial-schema.js" timestamp="1625625538735">
         <mark key="'" line="135" column="29" />
@@ -334,8 +333,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.where(&quot;email&quot;, req.body.email)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.where(&quot;email&quot;, req.body.email)</text>
@@ -347,28 +346,28 @@
         <text encoding="base64">YXBwLnBvc3QoJy9hcGkvdXNlci9sb2dpbicsIHBhc3Nwb3J0LmF1dGhlbnRpY2F0ZSgnbG9naW4nLCB7IHNlc3Npb246IGZhbHNlIH0pLCB1c2VyQ29udHJvbGxlci5sb2dpbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGlkLCAuLi5yZXN0IH0gPSByZXEuYm9keTsK</text>
+        <text encoding="base64">ICAgICAgICA8aW9uLWxpc3QgaWQ9ImxhYmVscy1saXN0Ij4KICAgICAgICAgIDxpb24tbGlzdC1oZWFkZXI+TGFiZWxzPC9pb24tbGlzdC1oZWFkZXI+CgogICAgICAgICAgPGlvbi1pdGVtICpuZ0Zvcj0ibGV0IGxhYmVsIG9mIGxhYmVscyIgbGluZXM9Im5vbmUiPgogICAgICAgICAgICA8aW9uLWljb24gc2xvdD0ic3RhcnQiIGlvcz0iYm9va21hcmstb3V0bGluZSIgbWQ9ImJvb2ttYXJrLXNoYXJwIj48L2lvbi1pY29uPgogICAgICAgICAgICA8aW9uLWxhYmVsPnt7IGxhYmVsIH19PC9pb24tbGFiZWw+CiAgICAgICAgICA8L2lvbi1pdGVtPgogICAgICAgIDwvaW9uLWxpc3Q+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCB7IHRpdGxlLCBkZXNjcmlwdGlvbiwgcHJpY2UsIHR5cGUsIHF1YW50aXR5IH0gPSByZXEuYm9keTsgY29uc3QgdHlwZVJlcyA9IGF3YWl0IFR5cGVzLmdldEJ5TmFtZSh0eXBlKTsKICB0cnkgewogICAgYXdhaXQgUHJvZHVjdC5xdWVyeSgpLmluc2VydCh7CiAgICAgIHRpdGxlLAogICAgICBkZXNjcmlwdGlvbiwKICAgICAgcHJpY2UsCiAgICAgIHR5cGVJZDogdHlwZVJlcy5pZCwKICAgICAgcXVhbnRpdHkKICAgIH0pCiAgfSBjYXRjaChlcnIpIHsKICAgIGNvbnNvbGUubG9nKCJFcnJvciBhZGRpbmcgcHJvZHVjdCIsIGVycik7CiAgICAvLyByZXMuc3RhdHVzKDQwMCkuc2VuZCgiRXJyb3IgYWRkaW5nIHByb2R1Y3QgIiwgZXJyKTsKICAgIHJlcy5zZW5kU3RhdHVzKDQwMCk7CiAgfQogIHJlcy5zZW5kKDIwMSk7Cg==</text>
+        <text encoding="base64">YXAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCB4ID0gJ3knOwo=</text>
+        <text encoding="base64">ICBjb25zdCB7IGlkLCAuLi5yZXN0IH0gPSByZXEuYm9keTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zdCB7IHRpdGxlLCBkZXNjcmlwdGlvbiwgcHJpY2UsIHR5cGUsIHF1YW50aXR5IH0gPSByZXEuYm9keTsgY29uc3QgdHlwZVJlcyA9IGF3YWl0IFR5cGVzLmdldEJ5TmFtZSh0eXBlKTsKICB0cnkgewogICAgYXdhaXQgUHJvZHVjdC5xdWVyeSgpLmluc2VydCh7CiAgICAgIHRpdGxlLAogICAgICBkZXNjcmlwdGlvbiwKICAgICAgcHJpY2UsCiAgICAgIHR5cGVJZDogdHlwZVJlcy5pZCwKICAgICAgcXVhbnRpdHkKICAgIH0pCiAgfSBjYXRjaChlcnIpIHsKICAgIGNvbnNvbGUubG9nKCJFcnJvciBhZGRpbmcgcHJvZHVjdCIsIGVycik7CiAgICAvLyByZXMuc3RhdHVzKDQwMCkuc2VuZCgiRXJyb3IgYWRkaW5nIHByb2R1Y3QgIiwgZXJyKTsKICAgIHJlcy5zZW5kU3RhdHVzKDQwMCk7CiAgfQogIHJlcy5zZW5kKDIwMSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCB4ID0gJ3knOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IE9yZGVycy5xdWVyeSgpLnVwZGF0ZSh7dG90YWx9KS53aGVyZSgnaWQnLCBvcmRlci5pZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
