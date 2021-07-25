@@ -128,11 +128,10 @@
         <mark key="^" line="28" column="10" />
         <mark key="." line="28" column="9" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1625529252441">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Code/frese/freseApp/src/app/services/data.service.ts" timestamp="1627230592048">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frese/src/models/OrderItems.js" timestamp="1625623915876">
         <mark key="[" line="8" column="27" />
@@ -146,7 +145,12 @@
         <mark key="." line="70" column="46" />
         <mark key="^" line="70" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/src/app.js" timestamp="1625868198453" />
+      <file name="$USER_HOME$/Code/frese/freseApp/src/app/resolver/menu.service.ts" timestamp="1627230672882">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="12" column="11" />
+      </file>
       <file name="$USER_HOME$/Code/frese/src/controllers/order_item.js" timestamp="1625531921745">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="16" />
@@ -166,13 +170,14 @@
         <mark key="." line="31" column="44" />
         <mark key="^" line="31" column="45" />
       </file>
+      <file name="$USER_HOME$/Code/Selectasign/app/src/app/pages/confirm/confirm.page.ts" timestamp="1627229805213" />
       <file name="$USER_HOME$/Code/frese/config/passport.js" timestamp="1625622810847">
         <mark key="[" line="59" column="8" />
         <mark key="]" line="59" column="28" />
         <mark key="^" line="59" column="28" />
         <mark key="." line="59" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/frese/freseApp/src/app/app.component.html" timestamp="1625629398562">
+      <file name="$USER_HOME$/Code/frese/freseApp/src/app/app.component.html" timestamp="1627229711811">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -335,7 +340,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHsKICAgIC8vICAgdGl0bGU6ICdCdXkgQ3JlZGl0cycsCiAgICAvLyAgIHVybDogJy9tZW51LyhtZW51Y29udGVudDpidXktY3JlZGl0cyknCiAgICAvLyB9Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>.where(&quot;email&quot;, req.body.email)</text>
@@ -347,31 +352,31 @@
         <text encoding="base64">YXBwLnBvc3QoJy9hcGkvdXNlci9sb2dpbicsIHBhc3Nwb3J0LmF1dGhlbnRpY2F0ZSgnbG9naW4nLCB7IHNlc3Npb246IGZhbHNlIH0pLCB1c2VyQ29udHJvbGxlci5sb2dpbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHsKICAgIC8vICAgdGl0bGU6ICdCdXkgQ3JlZGl0cycsCiAgICAvLyAgIHVybDogJy9tZW51LyhtZW51Y29udGVudDpidXktY3JlZGl0cyknCiAgICAvLyB9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8aW9uLWxpc3QgaWQ9ImxhYmVscy1saXN0Ij4KICAgICAgICAgIDxpb24tbGlzdC1oZWFkZXI+TGFiZWxzPC9pb24tbGlzdC1oZWFkZXI+CgogICAgICAgICAgPGlvbi1pdGVtICpuZ0Zvcj0ibGV0IGxhYmVsIG9mIGxhYmVscyIgbGluZXM9Im5vbmUiPgogICAgICAgICAgICA8aW9uLWljb24gc2xvdD0ic3RhcnQiIGlvcz0iYm9va21hcmstb3V0bGluZSIgbWQ9ImJvb2ttYXJrLXNoYXJwIj48L2lvbi1pY29uPgogICAgICAgICAgICA8aW9uLWxhYmVsPnt7IGxhYmVsIH19PC9pb24tbGFiZWw+CiAgICAgICAgICA8L2lvbi1pdGVtPgogICAgICAgIDwvaW9uLWxpc3Q+Cg==</text>
+        <text encoding="base64">ICAgIC8vIHsKICAgIC8vICAgdGl0bGU6ICdCdXkgQ3JlZGl0cycsCiAgICAvLyAgIHVybDogJy9tZW51LyhtZW51Y29udGVudDpidXktY3JlZGl0cyknCiAgICAvLyB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGlkLCAuLi5yZXN0IH0gPSByZXEuYm9keTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJDVVJSIENSRURJVFMgIiwgdGhpcy5jcmVkaXRzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCB7IHRpdGxlLCBkZXNjcmlwdGlvbiwgcHJpY2UsIHR5cGUsIHF1YW50aXR5IH0gPSByZXEuYm9keTsgY29uc3QgdHlwZVJlcyA9IGF3YWl0IFR5cGVzLmdldEJ5TmFtZSh0eXBlKTsKICB0cnkgewogICAgYXdhaXQgUHJvZHVjdC5xdWVyeSgpLmluc2VydCh7CiAgICAgIHRpdGxlLAogICAgICBkZXNjcmlwdGlvbiwKICAgICAgcHJpY2UsCiAgICAgIHR5cGVJZDogdHlwZVJlcy5pZCwKICAgICAgcXVhbnRpdHkKICAgIH0pCiAgfSBjYXRjaChlcnIpIHsKICAgIGNvbnNvbGUubG9nKCJFcnJvciBhZGRpbmcgcHJvZHVjdCIsIGVycik7CiAgICAvLyByZXMuc3RhdHVzKDQwMCkuc2VuZCgiRXJyb3IgYWRkaW5nIHByb2R1Y3QgIiwgZXJyKTsKICAgIHJlcy5zZW5kU3RhdHVzKDQwMCk7CiAgfQogIHJlcy5zZW5kKDIwMSk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY3JlZGl0cyA9IHRoaXMucm91dGUuc25hcHNob3QuZGF0YVsnY3JlZGl0cyddOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCB4ID0gJ3knOwo=</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuZGF0YVNlcnZpY2UuZ2V0Q3VycmVudFVzZXIoKS5zdWJzY3JpYmUociA9PiB7CiAgICAvLyAgIHRoaXMuY3JlZGl0cyA9IHIuY3JlZGl0czsKICAgIC8vIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY3JlZGl0cyA9IHRoaXMuZGF0YVNlcnZpY2UuZ2V0Q3JlZGl0cygpOwogICAgaWYoIXRoaXMuY3JlZGl0cykgewogICAgICB0aGlzLmRhdGFTZXJ2aWNlLmdldEN1cnJlbnRVc2VyKCkuc3Vic2NyaWJlKHIgPT4gewogICAgICAgIHRoaXMuY3JlZGl0cyA9IHIuY3JlZGl0czsKICAgICAgICB0aGlzLmRhdGFTZXJ2aWNlLnNldENyZWRpdHMoci5jcmVkaXRzKTsKICAgICAgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY3JlZGl0cyA9IHRoaXMuZGF0YVNlcnZpY2UuZ2V0Q3JlZGl0cygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
