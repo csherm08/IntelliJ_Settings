@@ -157,11 +157,10 @@
         <mark key="^" line="14" column="24" />
         <mark key="." line="61" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/frese/freseApp/src/app/pages/menu/menu.page.ts" timestamp="1627260660401">
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="29" column="36" />
-        <mark key="." line="29" column="35" />
-        <mark key="^" line="29" column="36" />
+      <file name="/JavaScript Console" timestamp="1627264018894">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/Code/frese/freseApp/src/app/pages/food-menu/food-menu.page.html" timestamp="1627263947502">
         <mark key="[" line="35" column="32" />
@@ -176,7 +175,9 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/Code/frese/freseApp/src/app/pages/menu/menu.page.html" timestamp="1627260568169" />
+      <file name="/" timestamp="1627264020241">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/frese/freseApp/src/app/pages/home/home.page.ts" timestamp="1627263371889">
         <mark key="'" line="92" column="25" />
         <mark key="[" line="106" column="101" />
@@ -206,11 +207,11 @@
         <mark key="." line="2" column="27" />
       </file>
       <file name="$USER_HOME$/Code/frese/freseApp/src/app/resolver/home.service.ts" timestamp="1627261925727" />
-      <file name="$USER_HOME$/Code/frese/freseApp/src/app/pages/food-menu/food-menu.page.ts" timestamp="1627263919245">
-        <mark key="[" line="23" column="67" />
-        <mark key="]" line="23" column="67" />
-        <mark key="." line="23" column="67" />
-        <mark key="^" line="23" column="88" />
+      <file name="$USER_HOME$/Code/frese/freseApp/src/app/pages/food-menu/food-menu.page.ts" timestamp="1627264063296">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="18" />
+        <mark key="^" line="16" column="19" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/app/src/app/pages/timeslots/timeslots.page.html" timestamp="1627263166563" />
       <file name="$USER_HOME$/Code/frese/freseApp/src/app/pages/edit-menu/edit-menu.page.ts" timestamp="1627263608956">
@@ -326,10 +327,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text>format</text>
