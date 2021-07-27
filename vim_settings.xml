@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>node</entry>
         <entry>errorhandler</entry>
         <entry>knexConfig</entry>
         <entry>winston</entry>
@@ -27,9 +26,9 @@
         <entry>APIBASE</entry>
         <entry>beta</entry>
         <entry>openForm</entry>
+        <entry>checkAndSchedule</entry>
       </history-search>
       <history-cmd>
-        <entry>306</entry>
         <entry>143</entry>
         <entry>274</entry>
         <entry>360</entry>
@@ -48,6 +47,7 @@
         <entry>W</entry>
         <entry>wq</entry>
         <entry>44</entry>
+        <entry>5</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -127,6 +127,7 @@
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20210328200925_create_free_role_table.js" timestamp="1627344878886" />
       <file name="$USER_HOME$/Code/frese/freseApp/src/app/pages/home/home.module.ts" timestamp="1627263501450">
         <mark key="[" line="21" column="16" />
         <mark key="]" line="22" column="21" />
@@ -150,22 +151,31 @@
         <mark key="^" line="14" column="24" />
         <mark key="." line="61" column="18" />
       </file>
-      <file name="/JavaScript Console" timestamp="1627342214898">
+      <file name="/JavaScript Console" timestamp="1627344344461">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/frontends/html/iframe_home.html" timestamp="1627342212942">
+      <file name="$USER_HOME$/Code/Selectasign/frontends/html/iframe_home.html" timestamp="1627343091325">
         <mark key="'" line="309" column="48" />
         <mark key="[" line="413" column="0" />
         <mark key="]" line="413" column="0" />
         <mark key="." line="413" column="0" />
         <mark key="^" line="292" column="144" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1627342224857">
-        <mark key="'" line="108" column="176" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/app.js" timestamp="1627343980311">
+        <mark key="'" line="109" column="176" />
+        <mark key="[" line="107" column="15" />
+        <mark key="]" line="107" column="23" />
+        <mark key="." line="107" column="22" />
+        <mark key="^" line="107" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/payment.js" timestamp="1627342185278" />
+      <file name="$USER_HOME$/Code/Selectasign/new_api/src/controllers/payment.js" timestamp="1627344341851">
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="39" column="28" />
+        <mark key="^" line="39" column="28" />
+        <mark key="." line="39" column="27" />
+      </file>
       <file name="$USER_HOME$/Code/frese/freseApp/src/app/pages/food-menu/food-menu.page.html" timestamp="1627263947502">
         <mark key="[" line="35" column="32" />
         <mark key="]" line="35" column="32" />
@@ -174,13 +184,6 @@
       </file>
       <file name="/" timestamp="1627342214919">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/freseApp/src/app/pages/home/home.page.ts" timestamp="1627263371889">
-        <mark key="'" line="92" column="25" />
-        <mark key="[" line="106" column="101" />
-        <mark key="]" line="106" column="101" />
-        <mark key="." line="106" column="100" />
-        <mark key="^" line="106" column="101" />
       </file>
       <file name="$USER_HOME$/Code/frese/freseApp/src/app/pages/edit-menu/edit-menu.page.html" timestamp="1627263570967">
         <mark key="[" line="2" column="19" />
@@ -194,8 +197,8 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" timestamp="1627341860684">
-        <mark key="'" line="281" column="0" />
+      <file name="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" timestamp="1627343703987">
+        <mark key="'" line="443" column="13" />
         <mark key="[" line="425" column="45" />
         <mark key="]" line="425" column="49" />
         <mark key="." line="425" column="48" />
@@ -213,6 +216,12 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="27" />
       </file>
+      <file name="$USER_HOME$/Code/Selectasign/frontends/html/ripley_total_decrements.html" timestamp="1627344397654">
+        <mark key="[" line="478" column="21" />
+        <mark key="]" line="478" column="22" />
+        <mark key="^" line="478" column="22" />
+        <mark key="." line="478" column="21" />
+      </file>
       <file name="$USER_HOME$/Code/frese/freseApp/src/app/pages/food-menu/food-menu.page.ts" timestamp="1627264063296">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="16" column="19" />
@@ -227,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="6" filename="$USER_HOME$/Code/Selectasign/new_api/src/services/photobooth.js" />
       <jump line="340" column="175" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="555" column="15" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
       <jump line="341" column="6" filename="$USER_HOME$/Code/Selectasign/new_api/2.html" />
@@ -327,45 +335,46 @@
       <jump line="413" column="15" filename="$USER_HOME$/Code/Selectasign/frontends/html/iframe_home.html" />
       <jump line="309" column="48" filename="$USER_HOME$/Code/Selectasign/frontends/html/iframe_home.html" />
       <jump line="108" column="176" filename="$USER_HOME$/Code/Selectasign/new_api/src/app.js" />
+      <jump line="443" column="13" filename="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAvLyBwYXNzOiBwcm9jZXNzLmVudi5FTUFJTF9QQVNTV09SRAo=</text>
+      <register name="&quot;" type="4">
+        <text>result</text>
       </register>
       <register name="-" type="4">
-        <text>PASSWORD</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
-        <text>openForm</text>
+        <text>checkAndSchedule</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgQVBJQkFTRT0gImh0dHBzOi8vYXBpLmZhbWVib2FyZC5jb20vYXBpLyI7Cg==</text>
+        <text encoding="base64">YXBwLnBvc3QoJy9hcGkvYnJhaW50cmVlL3JlY2VpdmVQYXltZW50QW5kU2NoZWR1bGUnLCBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ2p3dCcsIHtzZXNzaW9uOiBmYWxzZX0pLCByb2xlcy5wZXJtaXQoImJhc2ljIiksIHBheW1lbnRDb250cm9sbGVyLnJlY2VpdmVQYXltZW50QW5kU2NoZWR1bGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAvLyBwYXNzOiBwcm9jZXNzLmVudi5FTUFJTF9QQVNTV09SRAo=</text>
+        <text encoding="base64">CiAgICBpZighc3VjY2VzcykgewogICAgICByZXMuc3RhdHVzKDQwMCkuc2VuZCgiVGhlcmUgd2FzIGFuIGlzc3VlIHByb2Nlc3NpbmcgeW91ciBwYXltZW50Iik7CiAgICB9CiAgICBsZXQgbmV3Q3JlZHMgPSByZXEudXNlci5jcmVkaXRzICsgcGFyc2VJbnQocmVxLmJvZHkudmFsdWUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZnVuY3Rpb24gYmV0YSgpIHsKICAgICAgICBwb3B1cE1vZGFsLnN0eWxlLmRpc3BsYXkgPSAiYmxvY2siOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGxldCBzdWNjZXNzID0gSlNPTi5wYXJzZShyZXN1bHQuYm9keSkuc3VjY2VzczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgQVBJQkFTRSA9ICJodHRwOi8vbG9jYWxob3N0OjMwMDAvYXBpLyIK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHJlY2VpdmVQYXltZW50KHJlcS5ib2R5LnBheW1lbnRfbWV0aG9kX25vbmNlLCByZXEuYm9keS52YWx1ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgQVBJQkFTRT0gImh0dHBzOi8vYXBpdjMuc2VsZWN0YXNpZ24uY29tL2FwaS8iOwo=</text>
+        <text encoding="base64">ICAgICAvLyBwYXNzOiBwcm9jZXNzLmVudi5FTUFJTF9QQVNTV09SRAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgQVBJQkFTRT0gImh0dHBzOi8vc2VsZWN0YXNpZ24tYXBpLTcyNG1uYnloeHEtdWMuYS5ydW4uYXBwL2FwaS8iOwo=</text>
+        <text encoding="base64">ICAgICAgZnVuY3Rpb24gYmV0YSgpIHsKICAgICAgICBwb3B1cE1vZGFsLnN0eWxlLmRpc3BsYXkgPSAiYmxvY2siOwogICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgQVBJQkFTRT0gImh0dHBzOi8vYXBpdjQuc2VsZWN0YXNpZ24uY29tL2FwaS8iOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc3QgQVBJQkFTRSA9ICJodHRwOi8vbG9jYWxob3N0OjMwMDAvYXBpLyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgQVBJQkFTRT0gImh0dHA6Ly9hcGkuc2VsZWN0YXNpZ24uY29tL2FwaS8iOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc3QgQVBJQkFTRT0gImh0dHBzOi8vYXBpdjMuc2VsZWN0YXNpZ24uY29tL2FwaS8iOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gLy8gY29uc3QgQVBJQkFTRT0gImh0dHBzOi8vYXBpdjMuc2VsZWN0YXNpZ24uY29tL2FwaS8iOwogICAgICAvLyBjb25zdCBBUElCQVNFID0gImh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9hcGkvIgogICAgICAvLyBjb25zdCBBUElCQVNFPSAiaHR0cHM6Ly9zZWxlY3Rhc2lnbi1hcGktNzI0bW5ieWh4cS11Yy5hLnJ1bi5hcHAvYXBpLyI7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc3QgQVBJQkFTRT0gImh0dHBzOi8vc2VsZWN0YXNpZ24tYXBpLTcyNG1uYnloeHEtdWMuYS5ydW4uYXBwL2FwaS8iOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgLy8gY29uc3QgQVBJQkFTRT0gImh0dHBzOi8vYXBpdjQuc2VsZWN0YXNpZ24uY29tL2FwaS8iOwo=</text>
@@ -377,9 +386,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>openForm</last-search>
+      <last-search>checkAndSchedule</last-search>
       <last-offset />
-      <last-pattern>openForm</last-pattern>
+      <last-pattern>checkAndSchedule</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
