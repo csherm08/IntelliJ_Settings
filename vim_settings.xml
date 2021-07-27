@@ -128,12 +128,6 @@
         <mark key="^" line="7" column="25" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20210328200925_create_free_role_table.js" timestamp="1627344878886" />
-      <file name="$USER_HOME$/Code/frese/freseApp/src/app/pages/home/home.module.ts" timestamp="1627263501450">
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="22" column="21" />
-        <mark key="^" line="22" column="21" />
-        <mark key="." line="22" column="20" />
-      </file>
       <file name="$USER_HOME$/Code/frese/freseApp/src/app/pages/food-menu/food-menu.module.ts" timestamp="1627263531522">
         <mark key="[" line="21" column="16" />
         <mark key="]" line="22" column="23" />
@@ -155,6 +149,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/Code/Selectasign/new_api/migrations/20210726201525_special_role_table.js" timestamp="1627344959131">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="53" />
+        <mark key="." line="1" column="52" />
+        <mark key="^" line="1" column="53" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/frontends/html/iframe_home.html" timestamp="1627343091325">
         <mark key="'" line="309" column="48" />
@@ -341,10 +341,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>result</text>
+        <text>usedfreepromo</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>usedfreepromo</text>
       </register>
       <register name="/" type="4">
         <text>checkAndSchedule</text>
