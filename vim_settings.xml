@@ -21,11 +21,11 @@
         <entry>route</entry>
         <entry>ionic</entry>
         <entry>1200</entry>
-        <entry>core</entry>
         <entry>ionic-native</entry>
         <entry>beta</entry>
         <entry>5.35</entry>
         <entry>braintree</entry>
+        <entry>core</entry>
         <entry>http</entry>
       </history-search>
       <history-cmd>
@@ -150,11 +150,11 @@
         <mark key="^" line="25" column="24" />
         <mark key="." line="25" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/frese/freseApp/package.json" timestamp="1629171614824">
+      <file name="$USER_HOME$/Code/frese/freseApp/package.json" timestamp="1629172179185">
         <mark key="'" line="4" column="15" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frese/freseApp/src/app/pages/createorder/createorder.module.ts" timestamp="1629167745258">
         <mark key="[" line="24" column="51" />
@@ -228,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="463" column="32" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
       <jump line="359" column="27" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
       <jump line="296" column="45" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
       <jump line="302" column="45" filename="$USER_HOME$/Code/Selectasign/new_api/html/ripley.html" />
@@ -308,7 +307,6 @@
       <jump line="29" column="6" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
       <jump line="30" column="6" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
       <jump line="32" column="6" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
-      <jump line="33" column="6" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
       <jump line="42" column="20" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
       <jump line="43" column="20" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
       <jump line="51" column="5" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
@@ -316,7 +314,6 @@
       <jump line="69" column="6" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
       <jump line="34" column="17" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
       <jump line="45" column="35" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
-      <jump line="16" column="14" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
       <jump line="23" column="16" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
       <jump line="47" column="5" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
       <jump line="61" column="21" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
@@ -325,18 +322,21 @@
       <jump line="31" column="39" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
       <jump line="27" column="39" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
       <jump line="22" column="30" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
-      <jump line="57" column="38" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
       <jump line="66" column="37" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
+      <jump line="55" column="4" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
+      <jump line="33" column="5" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
+      <jump line="16" column="18" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
+      <jump line="57" column="37" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
       <jump line="4" column="15" filename="$USER_HOME$/Code/frese/freseApp/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJAYW5ndWxhci9mb3JtcyI6ICJ+OC4yLjE0IiwKICAgICJAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyIjogIn44LjIuMTQiLAogICAgIkBhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXItZHluYW1pYyI6ICJ+OC4yLjE0IiwKICAgICJAYW5ndWxhci9yb3V0ZXIiOiAifjguMi4xNCIsCg==</text>
+        <text encoding="base64">ICAgICJjb2RlbHl6ZXIiOiAiXjUuMC4xIiwK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>codel</text>
       </register>
       <register name="/" type="4">
         <text>http</text>
@@ -345,25 +345,25 @@
         <text encoding="base64">ICAtLWJhY2tncm91bmQ6ICNmOWY4Zjg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAYW5ndWxhci9mb3JtcyI6ICJ+OC4yLjE0IiwKICAgICJAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyIjogIn44LjIuMTQiLAogICAgIkBhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXItZHluYW1pYyI6ICJ+OC4yLjE0IiwKICAgICJAYW5ndWxhci9yb3V0ZXIiOiAifjguMi4xNCIsCg==</text>
+        <text encoding="base64">ICAgICJjb2RlbHl6ZXIiOiAiXjUuMC4xIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJAYW5ndWxhci9jb21tb24iOiAifjguMi4xNCIsCg==</text>
+        <text encoding="base64">ICAgICJAYW5ndWxhci9jb21waWxlciI6ICJ+OC4yLjE0IiwKICAgICJAYW5ndWxhci9jb21waWxlci1jbGkiOiAifjguMi4xNCIsCiAgICAiQGFuZ3VsYXIvbGFuZ3VhZ2Utc2VydmljZSI6ICJ+OC4yLjE0IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ6b25lLmpzIjogIn4wLjkuMSIK</text>
+        <text encoding="base64">ICAgICJAYW5ndWxhci9mb3JtcyI6ICJ+OC4yLjE0IiwKICAgICJAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyIjogIn44LjIuMTQiLAogICAgIkBhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXItZHluYW1pYyI6ICJ+OC4yLjE0IiwKICAgICJAYW5ndWxhci9yb3V0ZXIiOiAifjguMi4xNCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJAYW5ndWxhci9jb3JlIjogIn44LjIuMTQiLAo=</text>
+        <text encoding="base64">ICAgICJAYW5ndWxhci9jb21tb24iOiAifjguMi4xNCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJAYW5ndWxhci9odHRwIjogIn44LjIuMTQiLAo=</text>
+        <text encoding="base64">ICAgICJ6b25lLmpzIjogIn4wLjkuMSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJAaW9uaWMtbmF0aXZlL3N0YXR1cy1iYXIiOiAiNS4wLjAtYmV0YS4yMSIsCg==</text>
+        <text encoding="base64">ICAgICJAYW5ndWxhci9jb3JlIjogIn44LjIuMTQiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJAaW9uaWMtbmF0aXZlL3NwbGFzaC1zY3JlZW4iOiAiXjUuMTcuMSIsCg==</text>
+        <text encoding="base64">ICAgICJAYW5ndWxhci9odHRwIjogIn44LjIuMTQiLAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICJAaW9uaWMtbmF0aXZlL3N0YXR1cy1iYXIiOiAiNS4wLjAtYmV0YS4yMSIsCg==</text>
