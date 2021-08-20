@@ -121,7 +121,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/frese_frontend/src/app/pages/home/home.page.ts" timestamp="1629496141262">
+      <file name="$USER_HOME$/Code/frese/frese_frontend/frese_frontend/src/app/pages/home/home.page.ts" timestamp="1629498285887">
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
@@ -150,7 +150,7 @@
         <mark key="." line="91" column="36" />
         <mark key="^" line="91" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/frese_frontend/src/app/services/data.service.ts" timestamp="1629496181546">
+      <file name="$USER_HOME$/Code/frese/frese_frontend/frese_frontend/src/app/services/data.service.ts" timestamp="1629498157112">
         <mark key="[" line="62" column="29" />
         <mark key="]" line="62" column="44" />
         <mark key="^" line="62" column="44" />
@@ -167,7 +167,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/frese_frontend/src/app/services/order.service.ts" timestamp="1629496200896">
+      <file name="$USER_HOME$/Code/frese/frese_frontend/frese_frontend/src/app/services/order.service.ts" timestamp="1629497769222">
         <mark key="[" line="20" column="51" />
         <mark key="]" line="20" column="52" />
         <mark key="." line="20" column="51" />
@@ -187,6 +187,7 @@
         <mark key="." line="48" column="20" />
         <mark key="^" line="48" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/frese/frese_frontend/frese_frontend/src/app/config.json" timestamp="1629497784232" />
       <file name="$USER_HOME$/Code/frese/frese_frontend/frese_frontend/src/app/pages/edit-menu/edit-menu.page.html" timestamp="1629496040586" />
       <file name="/JavaScript Console" timestamp="1629495328616">
         <mark key="[" line="0" column="0" />
