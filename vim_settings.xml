@@ -124,11 +124,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/frese_frontend/src/app/pages/home/home.page.ts" timestamp="1629510514767">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-      </file>
+      <file name="$USER_HOME$/Code/frese/frese_backend/knexfile.js" timestamp="1629778009265" />
       <file name="$USER_HOME$/Code/frese/frese_frontend/frese_frontend/src/app/app.component.ts" timestamp="1629777781185">
         <mark key="[" line="13" column="64" />
         <mark key="]" line="13" column="65" />
