@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>scheduleImage</entry>
         <entry>APIBASE</entry>
         <entry>openForm</entry>
         <entry>checkAndSchedule</entry>
@@ -27,6 +26,7 @@
         <entry>product</entry>
         <entry>Filter</entry>
         <entry>Order</entry>
+        <entry>node</entry>
       </history-search>
       <history-cmd>
         <entry>619</entry>
@@ -181,6 +181,9 @@
       <file name="$USER_HOME$/Code/frese/frese_backend/package.json" timestamp="1629780752237" />
       <file name="$USER_HOME$/Code/Selectasign/new_api/.env" timestamp="1629780301103" />
       <file name="$USER_HOME$/Code/frese/frese_backend/src/controllers/product.js" timestamp="1629775262652" />
+      <file name="$USER_HOME$/Code/frese/frese_frontend/.gitignore" timestamp="1629863892142">
+        <mark key="'" line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/frese/frese_frontend/frese_frontend/src/app/pages/food-menu/food-menu.page.ts" timestamp="1629776553254">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -200,12 +203,6 @@
         <mark key="." line="61" column="92" />
         <mark key="^" line="61" column="93" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/frese_frontend/src/app/pages/order-submission/order-submission.page.html" timestamp="1629774405628">
-        <mark key="[" line="14" column="46" />
-        <mark key="]" line="14" column="46" />
-        <mark key="." line="14" column="46" />
-        <mark key="^" line="14" column="129" />
-      </file>
       <file name="$USER_HOME$/Code/frese/frese_backend/start.sh" timestamp="1629862385430">
         <mark key="[" line="3" column="77" />
         <mark key="]" line="5" column="53" />
@@ -214,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="51" filename="$USER_HOME$/Code/Selectasign/new_api/src/middleware/one_time.js" />
       <jump line="2" column="47" filename="$USER_HOME$/Code/Selectasign/new_api/src/controllers/FreePromo.js" />
       <jump line="739" column="0" filename="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" />
       <jump line="398" column="24" filename="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" />
@@ -314,6 +310,7 @@
       <jump line="116" column="0" filename="$USER_HOME$/Code/frese/frese_frontend/frese_frontend/src/app/services/data.service.ts" />
       <jump line="7" column="8" filename="$USER_HOME$/Code/frese/frese_frontend/frese_frontend/src/app/services/data.service.ts" />
       <jump line="142" column="38" filename="$USER_HOME$/Code/frese/frese_backend/src/controllers/order.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/Code/frese/frese_frontend/.gitignore" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,7 +322,7 @@
         <text>&quot;start</text>
       </register>
       <register name="/" type="4">
-        <text>Order</text>
+        <text>node</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLy8gaG9zdDogIi9jbG91ZHNxbC9mcmVzZS1iYWtlcnktYXBpOnVzLWNlbnRyYWwxOmZyZXNlLWRiIiwK</text>
@@ -364,9 +361,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Order</last-search>
+      <last-search>node</last-search>
       <last-offset />
-      <last-pattern>Order</last-pattern>
+      <last-pattern>node</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
