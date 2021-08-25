@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>APIBASE</entry>
         <entry>openForm</entry>
         <entry>checkAndSchedule</entry>
         <entry>ion-input</entry>
@@ -27,6 +26,7 @@
         <entry>Filter</entry>
         <entry>Order</entry>
         <entry>node</entry>
+        <entry>outputPath</entry>
       </history-search>
       <history-cmd>
         <entry>619</entry>
@@ -148,7 +148,6 @@
         <mark key="^" line="2" column="74" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/frese_frontend/src/app/pages/login/login.page.ts" timestamp="1629776219730" />
       <file name="/JavaScript Console" timestamp="1629861819000">
         <mark key="[" line="0" column="0" />
       </file>
@@ -158,29 +157,33 @@
         <mark key="^" line="95" column="12" />
         <mark key="." line="95" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/Dockerfile" timestamp="1629862467556">
+      <file name="$USER_HOME$/Code/frese/frese_backend/Dockerfile" timestamp="1629864598306">
         <mark key="[" line="15" column="6" />
         <mark key="]" line="15" column="14" />
         <mark key="." line="15" column="13" />
         <mark key="^" line="15" column="14" />
       </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/package.json" timestamp="1629854763873" />
-      <file name="$USER_HOME$/Code/frese/frese_backend/src/controllers/order.js" timestamp="1629775559336">
-        <mark key="'" line="143" column="38" />
-        <mark key="[" line="159" column="18" />
-        <mark key="]" line="159" column="22" />
-        <mark key="^" line="159" column="22" />
-        <mark key="." line="159" column="21" />
+      <file name="$USER_HOME$/Code/frese/frese_frontend/Dockerfile" timestamp="1629865363337">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="23" />
       </file>
       <file name="$USER_HOME$/Code/frese/frese_backend/cloudbuild.yaml" timestamp="1629861332399">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/frese/frese_frontend/package.json" timestamp="1629865629858">
+        <mark key="[" line="10" column="42" />
+        <mark key="]" line="10" column="54" />
+        <mark key="." line="10" column="53" />
+        <mark key="^" line="10" column="54" />
+      </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/config/passport.js" timestamp="1629858425516" />
-      <file name="$USER_HOME$/Code/frese/frese_backend/package.json" timestamp="1629780752237" />
+      <file name="$USER_HOME$/Code/frese/frese_backend/package.json" timestamp="1629865732246" />
       <file name="$USER_HOME$/Code/Selectasign/new_api/.env" timestamp="1629780301103" />
-      <file name="$USER_HOME$/Code/frese/frese_backend/src/controllers/product.js" timestamp="1629775262652" />
       <file name="$USER_HOME$/Code/frese/frese_frontend/.gitignore" timestamp="1629863892142">
         <mark key="'" line="18" column="0" />
       </file>
@@ -209,9 +212,11 @@
         <mark key="." line="5" column="52" />
         <mark key="^" line="5" column="53" />
       </file>
+      <file name="$USER_HOME$/Code/frese/frese_frontend/angular.json" timestamp="1629865481014">
+        <mark key="'" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="47" filename="$USER_HOME$/Code/Selectasign/new_api/src/controllers/FreePromo.js" />
       <jump line="739" column="0" filename="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" />
       <jump line="398" column="24" filename="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" />
       <jump line="729" column="32" filename="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" />
@@ -311,48 +316,49 @@
       <jump line="7" column="8" filename="$USER_HOME$/Code/frese/frese_frontend/frese_frontend/src/app/services/data.service.ts" />
       <jump line="142" column="38" filename="$USER_HOME$/Code/frese/frese_backend/src/controllers/order.js" />
       <jump line="18" column="0" filename="$USER_HOME$/Code/frese/frese_frontend/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/frese/frese_frontend/angular.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgImJhc2VVcmwiOiAiaHR0cDovL2xvY2FsaG9zdDoyOTk5L2FwaSIK</text>
+      <register name="&quot;" type="4">
+        <text>release</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;start</text>
+        <text>release</text>
       </register>
       <register name="/" type="4">
-        <text>node</text>
+        <text>outputPath</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLy8gaG9zdDogIi9jbG91ZHNxbC9mcmVzZS1iYWtlcnktYXBpOnVzLWNlbnRyYWwxOmZyZXNlLWRiIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgImJhc2VVcmwiOiAiaHR0cDovL2xvY2FsaG9zdDoyOTk5L2FwaSIK</text>
+        <text encoding="base64">UlVOIGlvbmljIGJ1aWxkIC0tcmVsZWFzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSAuLyAvYXBwLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RlcHM6CiAgIyBCdWlsZCB0aGUgY29udGFpbmVyIGltYWdlCiAgLSBuYW1lOiAnZ2NyLmlvL2Nsb3VkLWJ1aWxkZXJzL2RvY2tlcicKICAgIGFyZ3M6IFsnYnVpbGQnLCAnLXQnLCAnZ2NyLmlvL2ZyZXNlLWJha2VyeS1hcGkvZnJlc2UnLCAnLiddCiAgIyBQdXNoIHRoZSBjb250YWluZXIgaW1hZ2UgdG8gQ29udGFpbmVyIFJlZ2lzdHJ5CiAgLSBuYW1lOiAnZ2NyLmlvL2Nsb3VkLWJ1aWxkZXJzL2RvY2tlcicKICAgIGFyZ3M6IFsncHVzaCcsICdnY3IuaW8vZnJlc2UtYmFrZXJ5LWFwaS9mcmVzZSddCiAgIyBEZXBsb3kgY29udGFpbmVyIGltYWdlIHRvIENsb3VkIFJ1bgogIC0gbmFtZTogJ2djci5pby9nb29nbGUuY29tL2Nsb3Vkc2RrdG9vbC9jbG91ZC1zZGsnCiAgICBlbnRyeXBvaW50OiBnY2xvdWQKICAgIGFyZ3M6IFsncnVuJywgJ2RlcGxveScsICdmcmVzZS1iYWtlcnktYmFja2VuZC1hcHAnLCAnLS1pbWFnZScsICdnY3IuaW8vZnJlc2UtYmFrZXJ5LWFwaS9mcmVzZScsICctLXJlZ2lvbicsICdSRUdJT04nXQppbWFnZXM6CiAgLSBnY3IuaW8vZnJlc2UtYmFrZXJ5LWFwaS9mcmVzZQo=</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZHJpdmVyOiAibXlzcWwiLAo=</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIGlvbmljCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdXNlcjogImFkbWluIiwK</text>
+        <text encoding="base64">Q09QWSBwYWNrYWdlKi5qc29uIC9hcHAvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcG9ydDogIjMzMDYiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsaWVudDogJ215c3FsJywK</text>
+        <text encoding="base64">Ly8gICAgImJhc2VVcmwiOiAiaHR0cDovL2xvY2FsaG9zdDoyOTk5L2FwaSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZHJpdmVyOiAibXlzcWwiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBjaGVjayBvdXQgbG9naWMgZ29lcyBoZXJlCg==</text>
+        <text encoding="base64">c3RlcHM6CiAgIyBCdWlsZCB0aGUgY29udGFpbmVyIGltYWdlCiAgLSBuYW1lOiAnZ2NyLmlvL2Nsb3VkLWJ1aWxkZXJzL2RvY2tlcicKICAgIGFyZ3M6IFsnYnVpbGQnLCAnLXQnLCAnZ2NyLmlvL2ZyZXNlLWJha2VyeS1hcGkvZnJlc2UnLCAnLiddCiAgIyBQdXNoIHRoZSBjb250YWluZXIgaW1hZ2UgdG8gQ29udGFpbmVyIFJlZ2lzdHJ5CiAgLSBuYW1lOiAnZ2NyLmlvL2Nsb3VkLWJ1aWxkZXJzL2RvY2tlcicKICAgIGFyZ3M6IFsncHVzaCcsICdnY3IuaW8vZnJlc2UtYmFrZXJ5LWFwaS9mcmVzZSddCiAgIyBEZXBsb3kgY29udGFpbmVyIGltYWdlIHRvIENsb3VkIFJ1bgogIC0gbmFtZTogJ2djci5pby9nb29nbGUuY29tL2Nsb3Vkc2RrdG9vbC9jbG91ZC1zZGsnCiAgICBlbnRyeXBvaW50OiBnY2xvdWQKICAgIGFyZ3M6IFsncnVuJywgJ2RlcGxveScsICdmcmVzZS1iYWtlcnktYmFja2VuZC1hcHAnLCAnLS1pbWFnZScsICdnY3IuaW8vZnJlc2UtYmFrZXJ5LWFwaS9mcmVzZScsICctLXJlZ2lvbicsICdSRUdJT04nXQppbWFnZXM6CiAgLSBnY3IuaW8vZnJlc2UtYmFrZXJ5LWFwaS9mcmVzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -361,9 +367,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>node</last-search>
+      <last-search>outputPath</last-search>
       <last-offset />
-      <last-pattern>node</last-pattern>
+      <last-pattern>outputPath</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
