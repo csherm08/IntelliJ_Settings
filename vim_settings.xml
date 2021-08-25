@@ -158,7 +158,12 @@
         <mark key="^" line="95" column="12" />
         <mark key="." line="95" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/Dockerfile" timestamp="1629777971529" />
+      <file name="$USER_HOME$/Code/frese/frese_backend/Dockerfile" timestamp="1629856666998">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="24" />
+      </file>
       <file name="$USER_HOME$/Code/Selectasign/new_api/package.json" timestamp="1629854763873" />
       <file name="$USER_HOME$/Code/frese/frese_backend/src/controllers/order.js" timestamp="1629775559336">
         <mark key="'" line="143" column="38" />
@@ -320,10 +325,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>IMAGE</text>
+        <text>production</text>
       </register>
       <register name="-" type="4">
-        <text>IMAGE</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
         <text>Order</text>
