@@ -29,7 +29,6 @@
         <entry>entries</entry>
       </history-search>
       <history-cmd>
-        <entry>723</entry>
         <entry>720</entry>
         <entry>402</entry>
         <entry encoding="base64">JzwsJz4x</entry>
@@ -49,6 +48,7 @@
         <entry>1</entry>
         <entry>3</entry>
         <entry>w</entry>
+        <entry>110</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -124,54 +124,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/frese/frese_backend/src/models/selection_values.js" timestamp="1630380871649">
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="33" />
-        <mark key="." line="31" column="32" />
-        <mark key="^" line="31" column="33" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/src/models/product_sizes.js" timestamp="1631147510566">
-        <mark key="'" line="5" column="17" />
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="21" column="18" />
-        <mark key="." line="21" column="18" />
-        <mark key="^" line="21" column="25" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/migrations/20210831025415_allow_null_cost_product.js" timestamp="1630378597234">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="22" />
-        <mark key="^" line="9" column="22" />
-        <mark key="." line="9" column="21" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/src/controllers/order_item.js" timestamp="1631143169762" />
-      <file name="/JavaScript Console" timestamp="1631150462794">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/migrations/20210830031626_update_product_stuff.js" timestamp="1631143098236">
-        <mark key="[" line="35" column="34" />
-        <mark key="]" line="36" column="4" />
-        <mark key="." line="36" column="3" />
-        <mark key="^" line="36" column="4" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/config.json" timestamp="1631147367423">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="42" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/src/controllers/order.js" timestamp="1631150383313">
-        <mark key="'" line="54" column="29" />
-        <mark key="[" line="124" column="25" />
-        <mark key="]" line="124" column="37" />
-        <mark key="." line="124" column="36" />
-        <mark key="^" line="124" column="37" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/src/models/selection_keys.js" timestamp="1630380924616">
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="22" column="31" />
-        <mark key="^" line="22" column="31" />
-        <mark key="." line="22" column="30" />
-      </file>
       <file name="$USER_HOME$/Code/frese/frese_backend/src/models/add_on_values.js" timestamp="1630380794587">
         <mark key="[" line="13" column="24" />
         <mark key="]" line="13" column="24" />
@@ -183,6 +135,25 @@
         <mark key="]" line="60" column="74" />
         <mark key="." line="60" column="73" />
         <mark key="^" line="60" column="74" />
+      </file>
+      <file name="$USER_HOME$/Code/frese/frese_backend/src/models/selection_values.js" timestamp="1630380871649">
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="33" />
+        <mark key="." line="31" column="32" />
+        <mark key="^" line="31" column="33" />
+      </file>
+      <file name="$USER_HOME$/Code/frese/frese_backend/package.json" timestamp="1631151172818">
+        <mark key="[" line="7" column="88" />
+        <mark key="]" line="8" column="128" />
+        <mark key="^" line="8" column="128" />
+        <mark key="." line="8" column="127" />
+      </file>
+      <file name="$USER_HOME$/Code/frese/frese_backend/src/models/product_sizes.js" timestamp="1631147510566">
+        <mark key="'" line="5" column="17" />
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+        <mark key="^" line="21" column="25" />
       </file>
       <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/home/home.page.ts" timestamp="1631150707928">
         <mark key="'" line="43" column="7" />
@@ -221,6 +192,9 @@
         <mark key="^" line="29" column="98" />
         <mark key="." line="29" column="97" />
       </file>
+      <file name="/JavaScript Console" timestamp="1632350741193">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/frese/frese_backend/src/models/OrderItems.js" timestamp="1631147599853">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="41" />
@@ -233,11 +207,36 @@
         <mark key="^" line="59" column="162" />
         <mark key="." line="59" column="174" />
       </file>
+      <file name="$USER_HOME$/Code/frese/frese_backend/migrations/20210830031626_update_product_stuff.js" timestamp="1631143098236">
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="36" column="4" />
+        <mark key="." line="36" column="3" />
+        <mark key="^" line="36" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/config.json" timestamp="1631147367423">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="42" />
+      </file>
+      <file name="$USER_HOME$/Code/frese/frese_backend/src/controllers/order.js" timestamp="1631150383313">
+        <mark key="'" line="54" column="29" />
+        <mark key="[" line="124" column="25" />
+        <mark key="]" line="124" column="37" />
+        <mark key="." line="124" column="36" />
+        <mark key="^" line="124" column="37" />
+      </file>
       <file name="$USER_HOME$/Code/frese/frese_backend/migrations/20210831030924_add_key_to_value_tables.js" timestamp="1630381616011">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="26" />
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/frese/frese_backend/src/models/selection_keys.js" timestamp="1630380924616">
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="22" column="31" />
+        <mark key="." line="22" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -385,7 +384,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPGRpdj57e2l0ZW0uc2VsZWN0aW9uc319PC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>110</text>
       </register>
     </registers>
   </component>
