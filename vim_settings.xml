@@ -47,8 +47,8 @@
         <entry>15</entry>
         <entry>1</entry>
         <entry>3</entry>
-        <entry>w</entry>
         <entry>110</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -130,10 +130,10 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="21" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/src/app.js" timestamp="1630379139621">
-        <mark key="[" line="60" column="66" />
-        <mark key="]" line="60" column="74" />
-        <mark key="." line="60" column="73" />
+      <file name="$USER_HOME$/Code/frese/frese_backend/src/app.js" timestamp="1632352841109">
+        <mark key="[" line="66" column="24" />
+        <mark key="]" line="66" column="24" />
+        <mark key="." line="66" column="24" />
         <mark key="^" line="60" column="74" />
       </file>
       <file name="$USER_HOME$/Code/frese/frese_backend/src/models/selection_values.js" timestamp="1630380871649">
@@ -344,11 +344,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHA+PC9wPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>entries</text>
@@ -384,7 +384,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPGRpdj57e2l0ZW0uc2VsZWN0aW9uc319PC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>110</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
