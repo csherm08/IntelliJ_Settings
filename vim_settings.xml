@@ -29,7 +29,6 @@
         <entry>entries</entry>
       </history-search>
       <history-cmd>
-        <entry>720</entry>
         <entry>402</entry>
         <entry encoding="base64">JzwsJz4x</entry>
         <entry>10</entry>
@@ -45,9 +44,10 @@
         <entry>39</entry>
         <entry>14</entry>
         <entry>15</entry>
-        <entry>1</entry>
         <entry>3</entry>
         <entry>110</entry>
+        <entry>1`</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -124,12 +124,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/frese/frese_backend/src/models/add_on_values.js" timestamp="1630380794587">
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
-        <mark key="^" line="21" column="45" />
-      </file>
       <file name="$USER_HOME$/Code/frese/frese_backend/src/app.js" timestamp="1632352841109">
         <mark key="[" line="66" column="24" />
         <mark key="]" line="66" column="24" />
@@ -142,11 +136,10 @@
         <mark key="." line="31" column="32" />
         <mark key="^" line="31" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/package.json" timestamp="1631151172818">
-        <mark key="[" line="7" column="88" />
-        <mark key="]" line="8" column="128" />
-        <mark key="^" line="8" column="128" />
-        <mark key="." line="8" column="127" />
+      <file name="$USER_HOME$/Code/frese/frese_backend/package.json" timestamp="1632358870421">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
       </file>
       <file name="$USER_HOME$/Code/frese/frese_backend/src/models/product_sizes.js" timestamp="1631147510566">
         <mark key="'" line="5" column="17" />
@@ -186,13 +179,8 @@
         <mark key="." line="39" column="40" />
         <mark key="^" line="39" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/src/controllers/product.js" timestamp="1630380786146">
-        <mark key="[" line="29" column="86" />
-        <mark key="]" line="29" column="98" />
-        <mark key="^" line="29" column="98" />
-        <mark key="." line="29" column="97" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1632355649197">
+      <file name="$USER_HOME$/Code/frese/frese_backend/.eslintrc.json" timestamp="1632358629424" />
+      <file name="/JavaScript Console" timestamp="1632357715431">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frese/frese_backend/src/models/OrderItems.js" timestamp="1631147599853">
@@ -213,18 +201,18 @@
         <mark key="." line="36" column="3" />
         <mark key="^" line="36" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/frese/frese_backend/.eslintrc.yml" timestamp="1632358809008" />
       <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/config.json" timestamp="1631147367423">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/src/controllers/order.js" timestamp="1631150383313">
-        <mark key="'" line="54" column="29" />
-        <mark key="[" line="124" column="25" />
-        <mark key="]" line="124" column="37" />
-        <mark key="." line="124" column="36" />
-        <mark key="^" line="124" column="37" />
+      <file name="$USER_HOME$/Code/frese/frese_backend/src/controllers/order.js" timestamp="1632358317412">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frese/frese_backend/migrations/20210831030924_add_key_to_value_tables.js" timestamp="1630381616011">
         <mark key="[" line="4" column="16" />
@@ -240,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="41" filename="$USER_HOME$/Code/Selectasign/new_api/src/app.cjs" />
       <jump line="17" column="60" filename="$USER_HOME$/Code/Selectasign/new_api/package.json" />
       <jump line="26" column="0" filename="$USER_HOME$/Code/Selectasign/new_api/src/app.js" />
       <jump line="20" column="36" filename="$USER_HOME$/Code/frese/src/app.js" />
@@ -340,15 +327,16 @@
       <jump line="155" column="0" filename="$USER_HOME$/Code/frese/frese_backend/src/controllers/order.js" />
       <jump line="159" column="24" filename="$USER_HOME$/Code/frese/frese_backend/src/controllers/order.js" />
       <jump line="54" column="29" filename="$USER_HOME$/Code/frese/frese_backend/src/controllers/order.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/frese/frese_backend/src/controllers/order.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHByb2R1Y3RzOwo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>selection</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>entries</text>
@@ -357,31 +345,31 @@
         <text encoding="base64">ICAgICAgaWYocC5wcm9kdWN0X3NlbGVjdGlvbl92YWx1ZXMpIHsKICAgICAgICBsZXQgdmFsdWVzX21hcCA9IHt9OwogICAgICAgIHAucHJvZHVjdF9zZWxlY3Rpb25fdmFsdWVzLmZvckVhY2godiA9PiB7CiAgICAgICAgICBpZighdmFsdWVzX21hcFt2LnNlbGVjdGlvbl9rZXlzLmtleV0pIHsKICAgICAgICAgICAgIHZhbHVlc19tYXBbdi5zZWxlY3Rpb25fa2V5cy5rZXldID0gW107CiAgICAgICAgICB9CiAgICAgICAgICB2YWx1ZXNfbWFwW3Yuc2VsZWN0aW9uX2tleXMua2V5XS5wdXNoKHt2YWx1ZTogdi52YWx1ZSwgY29zdDogdi5jb3N0fSkKICAgICAgICB9KQogICAgICAgIHAucHJvZHVjdF9zZWxlY3Rpb25fdmFsdWVzID0gdmFsdWVzX21hcDsKICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHByb2R1Y3RzOwo=</text>
+        <text encoding="base64">ICAgICJsaW50IjogImVzbGludCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXNjcmlwdC1lc2xpbnQvZXNsaW50LXBsdWdpbiI6ICJeNC4zMS4yIiwKICAgICJAdHlwZXNjcmlwdC1lc2xpbnQvcGFyc2VyIjogIl40LjMxLjIiLAogICAgImVzbGludCI6ICJeNy4zMi4wIiwKICAgICJlc2xpbnQtY29uZmlnLWFpcmJuYi1iYXNlIjogIl4xNC4yLjEiLAogICAgImVzbGludC1wbHVnaW4taW1wb3J0IjogIl4yLjI0LjIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHByb2R1Y3RzOwo=</text>
+        <text encoding="base64">ICB0cnkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlbGVjdGlvbnMgPSBhd2FpdCB0aGlzLiRxdWVyeSgpLndpdGhHcmFwaEZldGNoZWQoJ1twcm9kdWN0X3NlbGVjdGlvbl92YWx1ZXMuW3NlbGVjdGlvbl9rZXlzXScpOwogICAgbGV0IHggPSAneSc7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9IGNhdGNoKGVycikgewogICAgY29uc29sZS5sb2coIkVycm9yIG1ha2luZyBvcmRlciIsIGVycik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHggPSAneSc7Cg==</text>
+        <text encoding="base64">ICAgIHJlcy5zZW5kKCJFcnJvciBtYWtpbmcgb3JkZXIiLCBlcnIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gYXdhaXQgcC5nZXRTZWxlY3Rpb25zRm9yUHJvZHVjdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcCA9IGF3YWl0IFByb2R1Y3QucXVlcnkodHJ4KS53aXRoR3JhcGhKb2luZWQoJ3Byb2R1Y3Rfc2l6ZXMnKTsK</text>
+        <text encoding="base64">ICByZXMuc3RhdHVzKDIwMSkuc2VuZChvcmRlcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFByb2R1Y3QucXVlcnkoKS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
