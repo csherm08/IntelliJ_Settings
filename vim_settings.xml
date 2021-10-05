@@ -130,6 +130,7 @@
         <mark key="." line="66" column="24" />
         <mark key="^" line="60" column="74" />
       </file>
+      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/resolver/product-types.service.ts" timestamp="1633404735289" />
       <file name="$USER_HOME$/Code/frese/frese_backend/src/models/selection_values.js" timestamp="1632354608900">
         <mark key="[" line="31" column="16" />
         <mark key="]" line="31" column="33" />
@@ -155,17 +156,22 @@
         <mark key="." line="79" column="78" />
         <mark key="^" line="79" column="79" />
       </file>
+      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/services/order.service.ts" timestamp="1633404707041">
+        <mark key="[" line="20" column="49" />
+        <mark key="]" line="20" column="57" />
+        <mark key="^" line="20" column="57" />
+        <mark key="." line="20" column="56" />
+      </file>
       <file name="$USER_HOME$/Code/frese/frese_backend/src/models/Product.js" timestamp="1632355646192">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
         <mark key="^" line="104" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/migrations/20210831034647_add_fields_to_order_items.js" timestamp="1630381814303">
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="3" column="25" />
-        <mark key="^" line="3" column="25" />
-        <mark key="." line="3" column="24" />
+      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/app.component.ts" timestamp="1633404636251">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frese/frese_backend/src/models/add_on_keys.js" timestamp="1632354580141">
         <mark key="[" line="12" column="24" />
@@ -179,8 +185,7 @@
         <mark key="." line="39" column="40" />
         <mark key="^" line="39" column="41" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/.eslintrc.json" timestamp="1632358629424" />
-      <file name="/JavaScript Console" timestamp="1632358909043">
+      <file name="/JavaScript Console" timestamp="1633404254654">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frese/frese_backend/src/models/OrderItems.js" timestamp="1631147599853">
@@ -201,30 +206,18 @@
         <mark key="." line="36" column="3" />
         <mark key="^" line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/.eslintrc.yml" timestamp="1632358809008" />
       <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/config.json" timestamp="1631147367423">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="42" />
       </file>
+      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/services/data.service.ts" timestamp="1633404715454" />
       <file name="$USER_HOME$/Code/frese/frese_backend/src/controllers/order.js" timestamp="1632358317412">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/migrations/20210831030924_add_key_to_value_tables.js" timestamp="1630381616011">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="26" />
-        <mark key="^" line="4" column="26" />
-        <mark key="." line="4" column="25" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/src/models/selection_keys.js" timestamp="1630380924616">
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="22" column="31" />
-        <mark key="^" line="22" column="31" />
-        <mark key="." line="22" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -332,8 +325,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5kYXRhU2VydmljZS5nZXRBZGRPbnMoKS5zdWJzY3JpYmUoZGF0YSA9PiB7CiAgICAgICAgCiAgICAgIH0pCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -345,28 +338,28 @@
         <text encoding="base64">ICAgICAgaWYocC5wcm9kdWN0X3NlbGVjdGlvbl92YWx1ZXMpIHsKICAgICAgICBsZXQgdmFsdWVzX21hcCA9IHt9OwogICAgICAgIHAucHJvZHVjdF9zZWxlY3Rpb25fdmFsdWVzLmZvckVhY2godiA9PiB7CiAgICAgICAgICBpZighdmFsdWVzX21hcFt2LnNlbGVjdGlvbl9rZXlzLmtleV0pIHsKICAgICAgICAgICAgIHZhbHVlc19tYXBbdi5zZWxlY3Rpb25fa2V5cy5rZXldID0gW107CiAgICAgICAgICB9CiAgICAgICAgICB2YWx1ZXNfbWFwW3Yuc2VsZWN0aW9uX2tleXMua2V5XS5wdXNoKHt2YWx1ZTogdi52YWx1ZSwgY29zdDogdi5jb3N0fSkKICAgICAgICB9KQogICAgICAgIHAucHJvZHVjdF9zZWxlY3Rpb25fdmFsdWVzID0gdmFsdWVzX21hcDsKICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJsaW50IjogImVzbGludCIK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5kYXRhU2VydmljZS5nZXRBZGRPbnMoKS5zdWJzY3JpYmUoZGF0YSA9PiB7CiAgICAgICAgCiAgICAgIH0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXNjcmlwdC1lc2xpbnQvZXNsaW50LXBsdWdpbiI6ICJeNC4zMS4yIiwKICAgICJAdHlwZXNjcmlwdC1lc2xpbnQvcGFyc2VyIjogIl40LjMxLjIiLAogICAgImVzbGludCI6ICJeNy4zMi4wIiwKICAgICJlc2xpbnQtY29uZmlnLWFpcmJuYi1iYXNlIjogIl4xNC4yLjEiLAogICAgImVzbGludC1wbHVnaW4taW1wb3J0IjogIl4yLjI0LjIiCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5kYXRhU2VydmljZS5nZXRTZWxlYwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICJsaW50IjogImVzbGludCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXNjcmlwdC1lc2xpbnQvZXNsaW50LXBsdWdpbiI6ICJeNC4zMS4yIiwKICAgICJAdHlwZXNjcmlwdC1lc2xpbnQvcGFyc2VyIjogIl40LjMxLjIiLAogICAgImVzbGludCI6ICJeNy4zMi4wIiwKICAgICJlc2xpbnQtY29uZmlnLWFpcmJuYi1iYXNlIjogIl4xNC4yLjEiLAogICAgImVzbGludC1wbHVnaW4taW1wb3J0IjogIl4yLjI0LjIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9IGNhdGNoKGVycikgewogICAgY29uc29sZS5sb2coIkVycm9yIG1ha2luZyBvcmRlciIsIGVycik7Cg==</text>
+        <text encoding="base64">ICB0cnkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcy5zZW5kKCJFcnJvciBtYWtpbmcgb3JkZXIiLCBlcnIpOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9IGNhdGNoKGVycikgewogICAgY29uc29sZS5sb2coIkVycm9yIG1ha2luZyBvcmRlciIsIGVycik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXMuc3RhdHVzKDIwMSkuc2VuZChvcmRlcik7Cg==</text>
+        <text encoding="base64">ICAgIHJlcy5zZW5kKCJFcnJvciBtYWtpbmcgb3JkZXIiLCBlcnIpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
