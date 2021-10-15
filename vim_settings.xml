@@ -124,9 +124,30 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/food-menu/food-menu.page.html" timestamp="1634095323005" />
-      <file name="/fragment.js" timestamp="1633495311136">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Code/frese/frese_backend/src/models/add_on_values.js" timestamp="1634185187222">
+        <mark key="[" line="58" column="10" />
+        <mark key="]" line="58" column="22" />
+        <mark key="." line="58" column="21" />
+        <mark key="^" line="58" column="22" />
+      </file>
+      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/edit-menu/edit-menu.page.ts" timestamp="1634185906536">
+        <mark key="[" line="44" column="30" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="50" column="59" />
+      </file>
+      <file name="$USER_HOME$/Code/frese/frese_backend/src/app.js" timestamp="1634184290770">
+        <mark key="[" line="73" column="103" />
+        <mark key="]" line="73" column="118" />
+        <mark key="^" line="73" column="118" />
+        <mark key="." line="73" column="117" />
+      </file>
+      <file name="$USER_HOME$/Code/frese/frese_backend/src/models/selection_values.js" timestamp="1634185505345">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="62" column="87" />
+        <mark key="]" line="62" column="24" />
+        <mark key="^" line="62" column="24" />
+        <mark key="." line="62" column="23" />
       </file>
       <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/product-sizes/product-sizes.page.html" timestamp="1634092683113">
         <mark key="[" line="18" column="51" />
@@ -134,61 +155,23 @@
         <mark key="." line="18" column="54" />
         <mark key="^" line="18" column="55" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/src/models/product_sizes.js" timestamp="1634095536535">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Code/frese/frese_backend/src/models/product_sizes.js" timestamp="1634182258200">
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="22" />
+        <mark key="." line="32" column="21" />
+        <mark key="^" line="32" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/services/order.service.ts" timestamp="1633495525828">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="39" column="33" />
+      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/services/order.service.ts" timestamp="1634185676456">
+        <mark key="[" line="34" column="61" />
+        <mark key="]" line="34" column="64" />
+        <mark key="." line="34" column="63" />
+        <mark key="^" line="34" column="64" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/product-attributes/product-attributes.page.html" timestamp="1634091731696">
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="16" column="41" />
-        <mark key="." line="16" column="40" />
-        <mark key="^" line="16" column="41" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/food-menu/food-menu.page.ts" timestamp="1634095335776" />
-      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/new-menu-item/new-menu-item.page.html" timestamp="1634096031816">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="61" column="17" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1634091345264">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/services/data.service.ts" timestamp="1633495375221">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="58" column="62" />
-        <mark key="." line="58" column="61" />
-        <mark key="^" line="58" column="62" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/src/models/selection_keys.js" timestamp="1634095465324">
-        <mark key="[" line="23" column="61" />
-        <mark key="]" line="23" column="62" />
-        <mark key="^" line="23" column="62" />
-        <mark key="." line="23" column="61" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/edit-menu/edit-menu.page.ts" timestamp="1634097749993">
-        <mark key="[" line="30" column="3" />
-        <mark key="]" line="32" column="42" />
-        <mark key="." line="32" column="41" />
-        <mark key="^" line="32" column="42" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/src/app.js" timestamp="1634095541725">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/src/models/Product.js" timestamp="1634095385427">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="^" line="104" column="12" />
-        <mark key="." line="101" column="0" />
+      <file name="$USER_HOME$/Code/frese/frese_backend/src/models/Product.js" timestamp="1634180547998">
+        <mark key="[" line="83" column="49" />
+        <mark key="]" line="83" column="59" />
+        <mark key="^" line="83" column="59" />
+        <mark key="." line="83" column="58" />
       </file>
       <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/new-menu-item/new-menu-item.page.ts" timestamp="1634097289489">
         <mark key="[" line="110" column="71" />
@@ -196,24 +179,33 @@
         <mark key="." line="110" column="75" />
         <mark key="^" line="110" column="76" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/src/models/add_on_keys.js" timestamp="1633495273818">
-        <mark key="[" line="23" column="57" />
-        <mark key="]" line="23" column="58" />
-        <mark key="." line="23" column="57" />
-        <mark key="^" line="23" column="58" />
+      <file name="$USER_HOME$/Code/frese/frese_backend/src/controllers/product.js" timestamp="1634184041924">
+        <mark key="[" line="107" column="16" />
+        <mark key="]" line="107" column="19" />
+        <mark key="." line="107" column="18" />
+        <mark key="^" line="107" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_backend/src/controllers/product.js" timestamp="1634095457014">
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="7" column="52" />
-        <mark key="." line="7" column="51" />
-        <mark key="^" line="7" column="52" />
+      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/edit-menu/edit-menu.page.html" timestamp="1634186025190">
+        <mark key="'" line="114" column="10" />
+        <mark key="[" line="108" column="21" />
+        <mark key="]" line="108" column="21" />
+        <mark key="." line="108" column="21" />
+        <mark key="^" line="108" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/edit-menu/edit-menu.page.html" timestamp="1634097732313">
-        <mark key="'" line="115" column="10" />
-        <mark key="[" line="52" column="35" />
-        <mark key="]" line="52" column="40" />
-        <mark key="." line="52" column="39" />
-        <mark key="^" line="52" column="40" />
+      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/new-menu-item/new-menu-item.page.html" timestamp="1634096031816">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="61" column="17" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1634257282175">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/services/data.service.ts" timestamp="1634185369988">
+        <mark key="[" line="61" column="44" />
+        <mark key="]" line="61" column="40" />
+        <mark key="." line="61" column="39" />
+        <mark key="^" line="61" column="40" />
       </file>
       <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/product-attributes/product-attributes.page.ts" timestamp="1634096181000">
         <mark key="[" line="36" column="0" />
@@ -226,9 +218,14 @@
         <mark key="." line="31" column="9" />
         <mark key="^" line="31" column="10" />
       </file>
+      <file name="$USER_HOME$/Code/frese/frese_backend/src/models/selection_keys.js" timestamp="1634095465324">
+        <mark key="[" line="23" column="61" />
+        <mark key="]" line="23" column="62" />
+        <mark key="^" line="23" column="62" />
+        <mark key="." line="23" column="61" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="56" filename="$USER_HOME$/Code/frese/src/app.js" />
       <jump line="84" column="16" filename="$USER_HOME$/Code/frese/migrations/20210705215837_create-initial-schema.js" />
       <jump line="72" column="24" filename="$USER_HOME$/Code/frese/migrations/20210705215837_create-initial-schema.js" />
       <jump line="25" column="37" filename="$USER_HOME$/Code/frese/src/models/Types.js" />
@@ -328,48 +325,49 @@
       <jump line="12" column="8" filename="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/product-sizes/product-sizes.page.ts" />
       <jump line="13" column="2" filename="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/product-sizes/product-sizes.page.ts" />
       <jump line="115" column="10" filename="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/edit-menu/edit-menu.page.html" />
+      <jump line="33" column="0" filename="$USER_HOME$/Code/frese/frese_backend/src/models/selection_values.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Key</text>
+        <text encoding="base64">ICpuZ0lmPSJuZXdfcHJvZHVjdC5wcm9kdWN0X3NlbGVjdGlvbl92YWx1ZXNba2tdIg==</text>
       </register>
       <register name="-" type="4">
-        <text>Key</text>
+        <text encoding="base64">ICpuZ0lmPSJuZXdfcHJvZHVjdC5wcm9kdWN0X3NlbGVjdGlvbl92YWx1ZXNba2tdIg==</text>
       </register>
       <register name="/" type="4">
         <text>h1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGlvbi1saXN0PgogICAgICAgIDxoMT5TZWxlY3Rpb25zPC9oMT4KICAgICAgICA8aW9uLWdyaWQ+CiAgICAgICAgICA8aW9uLXJvdz4KICAgICAgICAgICAgPGlvbi1jb2w+S2V5PC9pb24tY29sPgogICAgICAgICAgICA8aW9uLWNvbD5WYWx1ZTwvaW9uLWNvbD4KICAgICAgICAgICAgPGlvbi1jb2w+UmVtb3ZlPC9pb24tY29sPgogICAgICAgICAgPC9pb24tcm93PgogICAgICAgICAgPGRpdiAqbmdGb3I9ImxldCBrIG9mIHByb2R1Y3Rfc2VsZWN0aW9uX2tleXMiPgogICAgICAgICAgICA8aW9uLWl0ZW0+CiAgICAgICAgICAgICAgPGgyPnt7a319PC9oMj4KICAgICAgICAgICAgICA8aW9uLWljb24gKGNsaWNrKT0icmVtb3ZlS2V5U2VsZWN0aW9ucyhrKSIgc2xvdD0iZW5kIiBuYW1lPSJjbG9zZS1jaXJjbGUtb3V0bGluZSI+PC9pb24taWNvbj4KICAgICAgICAgICAgPC9pb24taXRlbT4KICAgICAgICAgICAgPGRpdiAqbmdGb3I9ImxldCB2IG9mIG5ld19wcm9kdWN0LnByb2R1Y3Rfc2VsZWN0aW9uX3ZhbHVlc1trXTsgbGV0IGlpPWluZGV4Ij4KICAgICAgICAgICAgPGlvbi1pdGVtPgogICAgICAgICAgICAgIDxpb24tcm93PgogICAgICAgICAgICAgICAgPGlvbi1jb2w+e3t2LnZhbHVlfX08L2lvbi1jb2w+CiAgICAgICAgICAgICAgICA8aW9uLWNvbD57e3YuY29zdH19PC9pb24tY29sPgogICAgICAgICAgICAgIDwvaW9uLXJvdz4KICAgICAgICAgICAgICA8aW9uLWljb24gKGNsaWNrKT0icmVtb3ZlQXR0cmlidXRlKCdzZWxlY3Rpb25zJywgaywgaWkpIiBzbG90PSJlbmQiIG5hbWU9ImNsb3NlLWNpcmNsZS1vdXRsaW5lIj48L2lvbi1pY29uPgogICAgICAgICAgICA8L2lvbi1pdGVtPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvaW9uLWdyaWQ+CiAgICAgIDwvaW9uLWxpc3Q+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubmV3X3Byb2R1Y3QucHJvZHVjdF9zZWxlY3Rpb25fdmFsdWVzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGlvbi1saXN0PgogICAgICAgIDxoMT5BZGQgT25zPC9oMT4KICAgICAgICA8aW9uLWdyaWQ+CiAgICAgICAgICA8aW9uLXJvdz4KICAgICAgICAgICAgPGlvbi1jb2w+S2V5PC9pb24tY29sPgogICAgICAgICAgICA8aW9uLWNvbD5WYWx1ZTwvaW9uLWNvbD4KICAgICAgICAgICAgPGlvbi1jb2w+UmVtb3ZlPC9pb24tY29sPgogICAgICAgICAgPC9pb24tcm93PgogICAgICAgICAgPGRpdiAqbmdGb3I9ImxldCBhdHRyaWJ1dGUgb2YgbmV3X3Byb2R1Y3QucHJvZHVjdF9hZGRfb25fdmFsdWVzOyBsZXQgaWk9aW5kZXgiPgogICAgICAgICAgICA8aW9uLWl0ZW0+CiAgICAgICAgICAgICAgPGlvbi1yb3c+CiAgICAgICAgICAgICAgICA8aW9uLWNvbD57e2F0dHJpYnV0ZS52YWx1ZX19PC9pb24tY29sPgogICAgICAgICAgICAgICAgPGlvbi1jb2w+e3thdHRyaWJ1dGUuY29zdH19PC9pb24tY29sPgogICAgICAgICAgICAgIDwvaW9uLXJvdz4KICAgICAgICAgICAgICA8aW9uLWljb24gKGNsaWNrKT0icmVtb3ZlQXR0cmlidXRlKCdhZGRPbicsIGssIGlpKSIgc2xvdD0iZW5kIiBuYW1lPSJjbG9zZS1jaXJjbGUtb3V0bGluZSI+PC9pb24taWNvbj4KICAgICAgICAgICAgPC9pb24taXRlbT4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvaW9uLWdyaWQ+CiAgICAgIDwvaW9uLWxpc3Q+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvZHVjdF9zZWxlY3Rpb25fa2V5cyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZGVsZXRlZF9zZWxlY3Rpb25fa2V5cyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zZWxlY3Rpb25zKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvZHVjdF9zZWxlY3Rpb25fa2V5cy5zcGxpY2UoaW5kZXgsIDEpOwo=</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2goZXJyKSB7CiAgICAgIGNvbnNvbGUubG9nKGVycik7CiAgICAgIHJlcy5zZW5kU3RhdHVzKDQwMCk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIHJlcy5zZW5kU3RhdHVzKDIwNCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9pb24taXRlbT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpb24tY29sPnt7YXR0cmlidXRlLmNvc3R9fTwvaW9uLWNvbD4K</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiAqbmdGb3I9ImxldCB4IG9mIGF0dHJpYnV0ZSIK</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTaXplcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
