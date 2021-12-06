@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>@ionic</entry>
         <entry>devkit</entry>
         <entry>text</entry>
         <entry>product</entry>
@@ -27,6 +26,7 @@
         <entry>addOn</entry>
         <entry>delteValues</entry>
         <entry>selectedType</entry>
+        <entry>dismiss</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
@@ -124,23 +124,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/food-menu/food-menu.page.html" timestamp="1637279230932">
+      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/food-menu/food-menu.page.html" timestamp="1638751715179">
         <mark key="[" line="61" column="50" />
         <mark key="]" line="61" column="53" />
         <mark key="." line="61" column="52" />
         <mark key="^" line="61" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/create-order/create-order.page.html" timestamp="1638738254217">
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="25" column="27" />
-        <mark key="." line="25" column="26" />
-        <mark key="^" line="25" column="27" />
+      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/create-order/create-order.page.html" timestamp="1638752943825">
+        <mark key="'" line="38" column="20" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="22" />
+        <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/create-order/create-order.page.ts" timestamp="1638743185321">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="28" column="22" />
+      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/create-order/create-order.page.ts" timestamp="1638752894526">
+        <mark key="'" line="93" column="22" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/filter/filter.page.html" timestamp="1638739559364" />
       <file name="$USER_HOME$/Code/frese/frese_frontend/src/global.scss" timestamp="1638745304147">
@@ -150,11 +150,11 @@
         <mark key="^" line="42" column="1" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/create-order/create-order.page.scss" timestamp="1638737492078">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="29" column="21" />
+      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/create-order/create-order.page.scss" timestamp="1638752173671">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="8" />
+        <mark key="." line="46" column="7" />
+        <mark key="^" line="46" column="8" />
       </file>
       <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/order-selection/order-selection.page.scss" timestamp="1638740770666">
         <mark key="[" line="0" column="0" />
@@ -194,11 +194,11 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/interfaces/interfaces.ts" timestamp="1638739301933">
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="15" column="18" />
-        <mark key="^" line="15" column="18" />
-        <mark key="." line="15" column="17" />
+      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/interfaces/interfaces.ts" timestamp="1638747643341">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+        <mark key="." line="12" column="22" />
       </file>
       <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/home/home.page.scss" timestamp="1637283615663">
         <mark key="[" line="0" column="0" />
@@ -213,26 +213,21 @@
         <mark key="^" line="49" column="95" />
       </file>
       <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/filter/filter.page.ts" timestamp="1638739632085" />
-      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/order-selection/order-selection.page.html" timestamp="1638745577496">
-        <mark key="[" line="42" column="79" />
-        <mark key="]" line="42" column="80" />
-        <mark key="." line="42" column="79" />
-        <mark key="^" line="42" column="80" />
+      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/order-selection/order-selection.page.html" timestamp="1638747184371">
+        <mark key="[" line="20" column="57" />
+        <mark key="]" line="20" column="58" />
+        <mark key="." line="20" column="57" />
+        <mark key="^" line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/order-selection/order-selection.page.ts" timestamp="1638745796586">
-        <mark key="'" line="18" column="22" />
-        <mark key="[" line="58" column="19" />
-        <mark key="]" line="59" column="30" />
-        <mark key="." line="59" column="29" />
-        <mark key="^" line="59" column="30" />
+      <file name="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/order-selection/order-selection.page.ts" timestamp="1638750572217">
+        <mark key="'" line="96" column="2" />
+        <mark key="[" line="63" column="35" />
+        <mark key="]" line="63" column="35" />
+        <mark key="." line="63" column="35" />
+        <mark key="^" line="63" column="34" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="23" filename="$USER_HOME$/Code/frese/frese_backend/src/controllers/order.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/Code/frese/frese_backend/src/controllers/order.js" />
-      <jump line="424" column="0" filename="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" />
-      <jump line="451" column="8" filename="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" />
-      <jump line="281" column="0" filename="$USER_HOME$/Code/Selectasign/frontends/html/ripley_free.html" />
       <jump line="414" column="8" filename="$USER_HOME$/Code/Selectasign/frontends/html/iframe_home.html" />
       <jump line="413" column="15" filename="$USER_HOME$/Code/Selectasign/frontends/html/iframe_home.html" />
       <jump line="309" column="48" filename="$USER_HOME$/Code/Selectasign/frontends/html/iframe_home.html" />
@@ -328,48 +323,53 @@
       <jump line="1" column="0" filename="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/create-order/create-order.page.html" />
       <jump line="16" column="22" filename="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/order-selection/order-selection.page.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/frese/frese_frontend/src/global.scss" />
+      <jump line="36" column="3" filename="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/order-selection/order-selection.page.ts" />
+      <jump line="98" column="25" filename="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/order-selection/order-selection.page.ts" />
+      <jump line="97" column="2" filename="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/order-selection/order-selection.page.ts" />
+      <jump line="90" column="22" filename="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/create-order/create-order.page.ts" />
+      <jump line="37" column="20" filename="$USER_HOME$/Code/frese/frese_frontend/src/app/pages/create-order/create-order.page.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHYgPSB2Lm1hcCgoaXRlbSkgKQo=</text>
+        <text encoding="base64">ICAgICAgICA8L2lvbi10b29sYmFyPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IGNhcnQ=</text>
       </register>
       <register name="/" type="4">
-        <text>selectedType</text>
+        <text>dismiss</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPC9pb24tc2VsZWN0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJuaW5ldHkiPi0ge3thZGRPbktleX19PC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHYgPSB2Lm1hcCgoaXRlbSkgKQo=</text>
+        <text encoding="base64">ICAgICAgICA8L2lvbi10b29sYmFyPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGlvbi1zZWxlY3QgbXVsdGlwbGU9InRydWUiIFsobmdNb2RlbCldPSJ2IiAobmdNb2RlbENoYW5nZSk9ImNob29zZUFkZE9uKHRlbXAsIGFkZE9uS2V5KSIgW3BsYWNlaG9sZGVyXT0iIj4K</text>
+        <text encoding="base64">ICBjYXJ0ID0gW107Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHRoaXMubmV3T3JkZXIgPXsKICAgICAgdG90YWw6IDAsCiAgICAgIGl0ZW1zOiBbXQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7e25ld09yZGVyLml0ZW1zfX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbHVlID0gc3BsaXRbMV07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGtleSA9IHNwbGl0WzBdOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXM9IlBheUJ1dHRvbiI+e3tnZXRUb3RhbCgpfX08L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNwbGl0ID0gZS5zcGxpdCgiOiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ0YXgiPnt7Z2V0VGF4KCl9fTwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGlvbi1zZWxlY3QgWyhuZ01vZGVsKV09InYiIChuZ01vZGVsQ2hhbmdlKT0iY2hvb3NlU2VsZWN0aW9uKHRlbXApIiBbcGxhY2Vob2xkZXJdPSIiPgo=</text>
+        <text encoding="base64">ICBjYXJ0ID0gW107Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvaW9uLWl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5jYXJ0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -378,9 +378,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>selectedType</last-search>
+      <last-search>dismiss</last-search>
       <last-offset />
-      <last-pattern>selectedType</last-pattern>
+      <last-pattern>dismiss</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
