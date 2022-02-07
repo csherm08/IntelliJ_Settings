@@ -1,0 +1,15 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="CloseContent" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="FileChooser.GotoProject" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+</keymap>
