@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="carsherman-paypal" id="07ba3eca-e8fc-4d1d-8dd3-dbe0e1bb51d9">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="PRIVATE_GIST" value="false" />
+  </component>
+</application>
